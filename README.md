@@ -5,6 +5,8 @@ Cruza user reviews do **GTA VI** com o remake de **The Legend of Zelda: Ocarina 
 - nota baixa no GTA + nota alta no Zelda?
 - nota baixa no Zelda + nota alta no GTA?
 
+Artigo com os resultados: [Guerra de notas no Metacritic (aisland.com.br)](https://aisland.com.br/2026/11/21/guerra-de-notas-no-metacritic-cruzamento-de-dados-expoe-fogo-cruzado-entre-fas-de-gta-vi-e-zelda/)
+
 
 ## Setup
 
