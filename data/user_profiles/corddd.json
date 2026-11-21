@@ -1,0 +1,32 @@
+[
+  {
+    "id": "61996a0a-c3c1-41ed-87de-3881eff4d082",
+    "author": "corddd",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Me encantó, el primer persona que jugué, me encantan los personajes y sobretodo el protagonista, te quiero makoto",
+    "platform": "PC",
+    "game_slug": "persona-3-reload",
+    "game_title": "Persona 3 Reload"
+  },
+  {
+    "id": "c8662ce0-7655-4e3c-975b-4e0258d6caff",
+    "author": "corddd",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Barbaridad de juego, el persona con mejor música y gameplay, además la historia es muy buena como todos los persona",
+    "platform": "PC",
+    "game_slug": "persona-5-royal",
+    "game_title": "Persona 5 Royal"
+  },
+  {
+    "id": "08b79b92-37c5-40e4-88bf-2211f560ff70",
+    "author": "corddd",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "El mejor juego, no existe uno mejor, esos que ponen malas reseñas simplemente no lo admiten",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

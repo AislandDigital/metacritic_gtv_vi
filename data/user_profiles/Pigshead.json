@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a8206b4d-f0aa-479f-85d4-94455eba098b",
+    "author": "Pigshead",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": " What a massive disappointment.Boring characters, a boring **** main characters lack personality and the voice acting is awful. ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "1fb204e1-5bd1-4c85-9294-d83e8eeffd22",
+    "author": "Pigshead",
+    "score": 10,
+    "date": "2026-09-19",
+    "quote": "Wasn't finished at release, but now with all the patching (still getting updates today), it's been a great game for some time. Gameplay and graphics are excellent. Battlefield 2042 should get more credit based on where it is today.",
+    "platform": "PC",
+    "game_slug": "battlefield-2042",
+    "game_title": "Battlefield 2042"
+  },
+  {
+    "id": "b523a789-cee4-424e-8092-a2310dce22e9",
+    "author": "Pigshead",
+    "score": 9,
+    "date": "2026-09-18",
+    "quote": "Battlefield 6,the eighteenth instalment in the Battlefield series. It needs a juicy graphics card for the game to be shown in its best light. The game itself is excellent, the downside for some people maybe having the Secure Boot and TPM 2.0 a must, enabled in BIOS. The game is online-only — a broadband connection and EA account are required. But outside all that I'm having a great time, it reminds me somewhat of battlefield 4 (the classic).",
+    "platform": "PC",
+    "game_slug": "battlefield-6",
+    "game_title": "Battlefield 6"
+  },
+  {
+    "id": "107b24ea-10b7-4f0f-a44e-2577681f58eb",
+    "author": "Pigshead",
+    "score": 0,
+    "date": "2026-09-18",
+    "quote": "Combat is repetitive, poor character designs and expensive for what you get I'm quite disappointed. They have successfully failed to satisfy the hope, desire and expectation of the community, the game will be forgotten very quickly.",
+    "platform": "PlayStation 5",
+    "game_slug": "marvels-wolverine",
+    "game_title": "Marvel's Wolverine"
+  }
+]

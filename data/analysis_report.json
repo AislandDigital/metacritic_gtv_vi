@@ -1,0 +1,441 @@
+{
+  "thresholds": {
+    "low_max": 4,
+    "zelda_min": 10
+  },
+  "gta_reviews": 21851,
+  "gta_unique_authors": 21851,
+  "gta_score_distribution": {
+    "0": 5657,
+    "1": 1621,
+    "2": 1035,
+    "3": 813,
+    "4": 871,
+    "5": 832,
+    "6": 530,
+    "7": 568,
+    "8": 565,
+    "9": 928,
+    "10": 8431
+  },
+  "low_gta_authors": 9997,
+  "zelda_reviews": 10982,
+  "zelda_unique_authors": 10982,
+  "user_profiles_downloaded": 1217,
+  "low_scorers_with_known_zelda_score": 1452,
+  "zelda_score_sources": {
+    "zelda_page": 1445,
+    "profile": 7
+  },
+  "hypothesis_matches": 1363,
+  "hypothesis_rate_among_low": 0.1363409022706812,
+  "hypothesis_rate_among_low_with_zelda_score": 0.9387052341597796,
+  "patterns_among_both": {
+    "zelda_alta_gta_baixa": 1363,
+    "outro": 16,
+    "zelda_boa_gta_baixa": 61,
+    "ambos_baixos": 12
+  },
+  "examples": [
+    {
+      "author": "1430ZeldaFan",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Wkejjdjvkvkzkwckwdkevkekcqkxdkcmwdmwxowxoekcwkcekdkvkefkrfkkvekxkrfkckrfkdkfndnns"
+    },
+    {
+      "author": "1KVoices",
+      "gta_score": 1,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "profile",
+      "gta_quote": " While Red Dead Redemption 2 was a masterpiece, this is far from being a R* quality title."
+    },
+    {
+      "author": "3yki4nn",
+      "gta_score": 3,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "The game itself isn't bad, it has good graphics and the story isn't bad, but it definitely doesn't deserve the 99 in metacritic. The game has multiple bugs and it had only 32 fps, cyberpunk was criticized for much less. Plus, the amount of "
+    },
+    {
+      "author": "4DTravelr",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Sorry, but I just can't get behind this game. Not sure what the critics are smoking. Played almost 50 hours and the writing is weak, characters not memorable, lots of relationship sim stuff, low frame rates, it is sad to see this touted as "
+    },
+    {
+      "author": "4ImprintCertain",
+      "gta_score": 2,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "I was so excited for this game, I mean most people were. From the moment I started I was just bummed at what we received. This is way too cut scene-y for me and way too slow paced. The graphics are ok, I'm not too picky on them so I didn't "
+    },
+    {
+      "author": "4ndr",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Deja de borrarme las reseñas metacriticㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ"
+    },
+    {
+      "author": "5NOV2004",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "This game took 13 years to come out, costing roughly between $1.5 and $2 billion, only to release full of bugs, woke stuff, and basically be the worst GTA in my memory. It is only selling because of what it is and the long wait people had t"
+    },
+    {
+      "author": "69ZeldaFan69",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "The game is unplayable. I thought it was bad that I had to lay as a black man, last game. But I got over it. \n\nNow I’m a **** cuck? \n\nI can’t shoot feghs?\n\nRockstar, **** you. "
+    },
+    {
+      "author": "714kaboom",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "This game tricked me. Where is the hookers? Where is the fun. Why can’t I I shoot protesters. That is unfair. I just wanna shoot up everyone. This is the game. I wanna have fun. Where is the fun? This is a zero. I got tricked. 30 FPS. This "
+    },
+    {
+      "author": "7SAN9",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "A game driven by woke propaganda and an insult to manhood. This game should NOT be GOTY 2026!"
+    },
+    {
+      "author": "84FantasyGamer",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Súper sobrevalorado!!! Se me hace que amenazaron a la prensa para obtener esa calificación falsa o les dieron a probar otro juego. Años de desarrollo, millones invertidos y se disfruta más el GTA V que este… juego mediocre lleno de bugs, so"
+    },
+    {
+      "author": "92gaming",
+      "gta_score": 3,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Lucia is annoying af not because shes a female but because shes insufferable and also vile. also this game is realistic but not in a good way like I'm having fun then I gotta deal with annoying tedious crap like punch in a pin code to enter"
+    },
+    {
+      "author": "ALIZLAG",
+      "gta_score": 2,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Tantos años invirtiendo en su creación, tanto tiempo de espera sumado por la postergación que hacía la empresa para entregar “la mejor versión posible”. Sinceramente, otras entregas de la saga han sido mejores. ¿Tiene sus cosas buenas? Por "
+    },
+    {
+      "author": "ALTlor",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Yeah yeah go on and cry, bonnie and clyde this ain't. I can go all day about how this game is **** and boring, restrictive in certain areas like stealing cars (in GRAND THEFT AUTO), running over protestors, getting prostitutes, shooting up "
+    },
+    {
+      "author": "AM-Seven",
+      "gta_score": 3,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "waited 13 years for buggy boring unstable game iam so disappointed as soon i started the game got multiple crashes and the story intro did not hook me like gtaV it just forced some chores on me and at first the 30fps was not a problem for m"
+    },
+    {
+      "author": "ANIMALMOTHERX",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "30fps in 2026 for 80 dollars NO! Goy will buy it up ain't fooling my eyes. GTA lV was the top for GTA. Ballad of Gay Tony was best GTA story. This is not a true GTA game. It is for the NPCs the Simps and the brain rot GOYIM. "
+    },
+    {
+      "author": "Aarox413",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "El juego es divertido, pero no quita que no tenga formato físico, cueste 100 dolares y abran preventas antes de mostrar Gameplay, YO SI LO HE JUGADO y el inicio es bastante aburrido, cambian las mecánicas para hacerlas más tediosas para sim"
+    },
+    {
+      "author": "Aastoria",
+      "gta_score": 1,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "13 ans d'attente...pour ça?\nLe jeu est presque injouable sur PS5 avec les 30 FPS de base, les premières heures sont ultra dirigistes, alors que les deux Zelda en open world ont montré l'exemple, l'histoire est longue comme un jour sans pain"
+    },
+    {
+      "author": "Abobius123",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Trash game for 100$? Nah, i'd play fnaf 2 because it's better than corposlop"
+    },
+    {
+      "author": "Abruek",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Horrible performance, crashes, and bugs. Needed to be delayed again but they wanted a quick paycheck first"
+    },
+    {
+      "author": "Adufresne",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Grand Theft Auto VI is like a real life simulation. Yeah…. You got the simulation part right. It sure feels too much like Real Life. It’s boring as hell. This isn’t Grand Theft Auto, this is Grand Simp Auto "
+    },
+    {
+      "author": "Aearil",
+      "gta_score": 1,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Story is slow and not much going on, if you like painting walls and plumbing, or pressing a button to hold hands with your virtual gf then get this game! its evident that there's not much stimulating/ thought provoking content when the sell"
+    },
+    {
+      "author": "Agentbobo",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "After 13 years of waiting, this game is a huge disappointment. The gameplay is painfully slow, the controls are clunky, and it feels more like a household simulator. The developers focused too much on graphics while neglecting gameplay and "
+    },
+    {
+      "author": "Ahmadghulam",
+      "gta_score": 2,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "2/10. The biggest disappointment for me was how easy it was to put GTA VI down. I wanted that “one more mission” feeling, where it’s getting late and I keep playing because I need to know what happens next. Jason and Lucia’s story never gav"
+    },
+    {
+      "author": "Akahdrin",
+      "gta_score": 4,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "I won't rate this a 1 or a 0, it is better than that.  This isn't a review bomb.\n\nThis is wishing they would have focused on optimization and performance over eye candy.  Yes the game is beautiful, but it does not run well at all.\n\nSome of "
+    },
+    {
+      "author": "Akgames",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Thirteen years in development it’s more of the same old stuff we’ve seen throughout the GTA series. Sure, there are graphical improvements suited to the current era and some refined mechanics, but the core gameplay loop remains identical (w"
+    },
+    {
+      "author": "Alaga13",
+      "gta_score": 3,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "J’ai pas franchement aimé le jeu . Je trouve qu’il a perdu ce que j’aimais dans GTA 5"
+    },
+    {
+      "author": "Albarqueue",
+      "gta_score": 1,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "i really much more from this game, to much bugs, and at this point is just a romance simulator"
+    },
+    {
+      "author": "Ale1503",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Me parece increíble que el juego más esperado con el mayor presupuesto venga a tener la cantidad de errores que este juego tiene, No digo que el juego sea malo la verdad me gustó pero a decir verdad no se merece el 99 por parte de la crític"
+    },
+    {
+      "author": "Aleex_ii",
+      "gta_score": 3,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "I was going to delete my review when I saw that nonsense about the review bombing, but I don’t want to keep quiet.\n\nMy rating would be 7.5–8 because you can spend many hours playing in the open world and it’s fun, but I’m lowering it for tw"
+    },
+    {
+      "author": "Alepandrop",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Es lo mismo que GTA V, pero con graficos mejorados, an **** 13 años en mejorar los graficos, agrandar el mapa y empeorar la conduccion y limitar los coches que puedes robar y las misiones son aburridas "
+    },
+    {
+      "author": "Alex2kk",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Just wrapped up Chapter 2 of GTA 6, and yeah… it still doesn’t improve. Ignore the people claiming “it only gets good after Chapter 1.” That’s not true. Chapter 2 feels even slower and more tedious in places, and story-wise it’s basically f"
+    },
+    {
+      "author": "Alex721",
+      "gta_score": 4,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Expected more.. Wouldn't refund but would't have paid 100 if I wasnt so excited because of the older games."
+    },
+    {
+      "author": "AlexB634",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Amazing graphics…. That’s all. Everything else is boring, slow gameplay, boring story. "
+    },
+    {
+      "author": "AlexBair",
+      "gta_score": 1,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Honestly, GTA 6 feels like a eh for me right now. I get why people give it a 9 for the sheer scale and detail, but the pacing kills the fun. It’s GTA, not Red Dead spending the opening hours doing slow errands, relationship upkeep, and grin"
+    },
+    {
+      "author": "AlexCoen",
+      "gta_score": 1,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "It’s like some kind of  Sims simulator. Playing at 30 fps is a rough experience. The morality/reputation mechanic doesn’t fit  GTA. The protagonist lacks charisma. There isn’t a single mission in GTA 6 that’s better than the worst heist in "
+    },
+    {
+      "author": "AlexTag06",
+      "gta_score": 3,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Rockstar ha definitivamente confuso la simulazione ossessiva con il divertimento. Ogni singola azione è rallentata da animazioni interminabili e controlli pesanti come un mattone, pensati per far applaudire chi guarda i trailer su YouTube m"
+    },
+    {
+      "author": "Alexc2510",
+      "gta_score": 3,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "only positive thing about this game is the detailed graphics and immersive world, other than that the game in every other regard is a mess, it's filled with bugs, lacks story, character personality, the game doesn't feel like a gta whatsoev"
+    },
+    {
+      "author": "Alexknight9",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "This is the biggest turd that i ever played and i fckn love gta but the bugs are insane and is too realistic atp "
+    },
+    {
+      "author": "Alfonso933",
+      "gta_score": 1,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "no justifica la existencia de ps5 pro.\n30 fps con suerte....................... "
+    },
+    {
+      "author": "Ali4net",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "حرفيا من اسوء الالعاب الي لعبتها لان قصة مملة و كيمبلاي تعبان و مليانة كلشات و هم الزنا الي حتى بالبيت موجود"
+    },
+    {
+      "author": "Allex22",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Lleno de bugs sin sentido, si son graciosos pero llega a un punto en el que uno se cansa "
+    },
+    {
+      "author": "Amdb008",
+      "gta_score": 1,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Technically impressive, but it lost the true soul of Grand Theft Auto.Visually, Leonida is a masterpiece and the technical polish is undeniable. However, as a longtime fan of the series, I am deeply disappointed by the shift in direction an"
+    },
+    {
+      "author": "Andenglego",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Si a Cyberpunk le dieron 50 por tener bugs e ir a 30 FPS, como es posible que a este juego le esten dando 100? Prensa vendida...\n\nSiguiendo con el juego, siento que se perdio la escensia del GTA, no puedes ser el Grand Theft Auto si no te d"
+    },
+    {
+      "author": "Andie_05",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Idl how this game have a 99… a lot of bugs, 30 fps(?) 13 years for this and two times they said they was a check the game for bugs and bullsh¡t"
+    },
+    {
+      "author": "Andrewiffrig",
+      "gta_score": 1,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "profile",
+      "gta_quote": "yeah this aint it. getting a refund through my bank. didn’t get this to run errands and have to fill my gas tank. it has completely lost it’s video game aspect. biggest flop in gaming history. "
+    },
+    {
+      "author": "Anero",
+      "gta_score": 1,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Mis espectativas no eran tan altas, ya sabía que no se iba a ver como en el trailer etc, pero para estar 13 años esperando y que me haya costado 100$  (pq me e comprado el deluxe) para que sea lo mismo con mejores gráficos es una estafa gor"
+    },
+    {
+      "author": "Angel5005",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "beautiful graphics but it running on 30fps and below! is just jarring when switching between games. Total cuck simulator that lost the soul of GTA and what made those games amazing."
+    },
+    {
+      "author": "Angelshadow",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Basca total si un juego puede estwr en los game awards sin haber salido y nominado a goty e historia y saliendo uno o dos dias antes de el limite de votaciones no se merece nada ademas de salir roto sin version fisica y eso que pudieron imp"
+    },
+    {
+      "author": "Angelton3038",
+      "gta_score": 0,
+      "zelda_score": 10,
+      "zelda_title": "The Legend of Zelda: Ocarina of Time",
+      "source": "zelda_page",
+      "gta_quote": "Realmente me gusta la saga de GTA, pero con ese apesar de los grandes gráficos y cosas que hacer, me ha dado muchos puntos negativos, los Bugs ya me han hecho cargar la partida 4 veces, rara vez pasa un bajón de fps, además de que a veces c"
+    }
+  ]
+}

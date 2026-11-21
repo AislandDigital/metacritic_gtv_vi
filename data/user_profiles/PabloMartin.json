@@ -1,0 +1,32 @@
+[
+  {
+    "id": "e98c9451-6aff-4db0-aa09-da03946f4357",
+    "author": "PabloMartin",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "Tiene grandes gráficos pero a unos decepcionantes 30 FPS para los tiempos actuales. Es un Simms con esteroides.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "fa2002af-bfd9-4183-91fd-0c79adc2382e",
+    "author": "PabloMartin",
+    "score": 10,
+    "date": "2026-11-06",
+    "quote": "The Legend of Zelda: Ocarina of Time Remake es la sorpresa del año, sinceramente por los trailers no esperaba que fuera tan bueno.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "71be4f4b-febd-4171-8ace-0f98962c4bcb",
+    "author": "PabloMartin",
+    "score": 8,
+    "date": "2025-12-26",
+    "quote": "Gráficos 10\nBanda sonora 9\nJugabilidad 10\nNarrativa 4\nDiversión 7\nTotal 40/50 = 8pts",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "metroid-prime-4-beyond",
+    "game_title": "Metroid Prime 4: Beyond"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2ad46c4f-6ea0-4b68-b54d-849d9ffec31e",
+    "author": "Goon7",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "How disappointing. While the graphics are great, the game is much more boring than GTA V. It's simply not fun to play, and honestly, the story didn't convince me at all. I'm not sure I'd go as far as calling it a bad game, but it's certainly not what I expected. And there's absolutely no way this deserves a 99. It honestly makes me question the judgment of the people who gave it that score.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "1cef1e2e-b33c-4a40-b409-ab1533469008",
+    "author": "Goon7",
+    "score": 10,
+    "date": "2023-09-08",
+    "quote": "Espectacular juego lastima que provoque tanta irritacion en los fans mas toxicos de la otra plataforma el juego es de 10 y totalmente canditado a GOTY tiene fisicas y cosas nunca antes vistas y más merito por el tamaño q tiene el juego , sera disfrutable durante muchos años.",
+    "platform": "Xbox Series X",
+    "game_slug": "starfield",
+    "game_title": "Starfield"
+  },
+  {
+    "id": "2a49477f-0f99-4197-a53e-93c516bdf5de",
+    "author": "Goon7",
+    "score": 4,
+    "date": "2021-05-03",
+    "quote": "Es repetitivo, los gráficos no están a la altura de un next gen, se nos engaño con el 4K (no es 4K) . No es un triple A como lo han querido vender, más encima se cae a veces y el fallo del guardado por dios, ojala lo arreglen pronto con un parche pero definitivamente las reseñas o están arregladas o jugaron otra cosa.",
+    "platform": "PlayStation 5",
+    "game_slug": "returnal",
+    "game_title": "Returnal"
+  }
+]

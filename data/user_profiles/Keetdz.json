@@ -1,0 +1,22 @@
+[
+  {
+    "id": "4a139b41-90c9-4bb1-9551-bd677c6f5bf2",
+    "author": "Keetdz",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Dad of 3D games\nOcarina of Time isn't just a great 1998 game; it's one of the best games ever made, period. Unmatched atmosphere, iconic music, brilliant dungeon design, and mechanics that shaped the entire industry. A timeless 10/10 masterpiece.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "9fb2d776-68b0-4a58-b343-783aa3cc08fb",
+    "author": "Keetdz",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "So much budget and so many years of development just to deliver a broken game at launch. GTA VI has an incredible foundation, but the constant bugs, crashes, and terrible optimization completely ruin the experience. We expected a polished masterpiece and got an unfinished product instead. Very disappointing.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ff3821de-afb7-4131-8068-822498320744",
+    "author": "Jacob_Studios",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "30 frames per second on the PS5 Pro in 2026 - seriously? Is this really what we’ve been waiting 13 years for? Hire some competent people who know how to optimize games.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "611ec3e6-7e18-4a11-b91a-747ff8daf24d",
+    "author": "Jacob_Studios",
+    "score": 10,
+    "date": "2026-11-19",
+    "quote": "graphics: 10/10, story: 10/10, gameplay: 10/10. this is one of the best games that ever were made. recommend it.",
+    "platform": "PlayStation 5",
+    "game_slug": "the-last-of-us-part-ii-remastered",
+    "game_title": "The Last of Us Part II Remastered"
+  },
+  {
+    "id": "3f1c3255-eab7-412f-9c45-1ba037849b51",
+    "author": "Jacob_Studios",
+    "score": 0,
+    "date": "2023-02-26",
+    "quote": "In 2023 you can't turn off **** aim assist. Thanks bungie. ",
+    "platform": "PlayStation 4",
+    "game_slug": "destiny-2",
+    "game_title": "Destiny 2"
+  },
+  {
+    "id": "3528ff31-9580-4697-a6b2-1fb9f0014c04",
+    "author": "Jacob_Studios",
+    "score": 0,
+    "date": "2022-11-19",
+    "quote": "dlaczego nie mogę wybrać języka innego niż niemiecki, włoski, francuski lub angielski w regionie Wielkiej Brytanii? po co tłumaczyć grę na tyle języków, skoro gracz nie może wybrać jednego z nich i musi zarejestrować nowe konto i tam kupić grę?",
+    "platform": "PlayStation 5",
+    "game_slug": "god-of-war-ragnarok",
+    "game_title": "God of War: Ragnarok"
+  },
+  {
+    "id": "a0a55bc1-1064-4cd1-b6f6-32522ee119c9",
+    "author": "Jacob_Studios",
+    "score": 0,
+    "date": "2022-11-19",
+    "quote": "dlaczego nie mogę wybrać języka innego niż niemiecki, włoski, francuski lub angielski w regionie Wielkiej Brytanii? po co tłumaczyć grę na tyle języków, skoro gracz nie może wybrać jednego z nich i musi zarejestrować nowe konto i tam kupić grę?",
+    "platform": "PlayStation 4",
+    "game_slug": "god-of-war-ragnarok",
+    "game_title": "God of War: Ragnarok"
+  },
+  {
+    "id": "bcdd93b3-0b47-4466-b714-74e6f2d1ca83",
+    "author": "Jacob_Studios",
+    "score": 10,
+    "date": "2021-05-17",
+    "quote": "Это превосходная игра, в которой в полной мере используются преимущества DualSense (вы чувствуете каждую каплю дождя), и это определенно лучший платформер в который я играл.",
+    "platform": "PlayStation 5",
+    "game_slug": "astros-playroom",
+    "game_title": "Astro's Playroom"
+  },
+  {
+    "id": "26daf220-60d5-4cda-a243-cfe770b7045c",
+    "author": "Jacob_Studios",
+    "score": 10,
+    "date": "2021-05-01",
+    "quote": "Graphics, 3D sound, controller are amazing, it's one of the most beautiful PlayStation 5 games.",
+    "platform": "PlayStation 5",
+    "game_slug": "returnal",
+    "game_title": "Returnal"
+  }
+]

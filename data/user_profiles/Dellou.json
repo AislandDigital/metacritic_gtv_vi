@@ -1,0 +1,102 @@
+[
+  {
+    "id": "9d64ef16-7951-41aa-83f0-c1e050cd9116",
+    "author": "Dellou",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Congratulations, guys. the most anticipated game in human history has become the worst game of the year. It’s amusing to see such a gap between the ratings from critics and players.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "0973ab02-eb48-4816-8ced-612639be785a",
+    "author": "Dellou",
+    "score": 0,
+    "date": "2022-06-05",
+    "quote": "Самая переоцененная игра в мире, игур так восхваляют хотя это говно мамонта, простая забагованая бродилка бродилка с плохой графикой даже по меркам 2007, не стоит времени даже на это тратить",
+    "platform": "PC",
+    "game_slug": "s-t-a-l-k-e-r-shadow-of-chernobyl",
+    "game_title": "S.T.A.L.K.E.R.: Shadow of Chernobyl"
+  },
+  {
+    "id": "51ec9ef4-b4c8-41f8-a717-0661864022c6",
+    "author": "Dellou",
+    "score": 10,
+    "date": "2022-04-27",
+    "quote": "Игра реально хорошая, тут очень много возможностей, миссий в 2 раза больше, правда игра частенько вылетает, впрочем, частые вылеты это Уде норма для серии игр, только 1 часть не вылетает",
+    "platform": "PC",
+    "game_slug": "postal-4-no-regerts",
+    "game_title": "POSTAL 4: No Regerts"
+  },
+  {
+    "id": "3a15c0ad-672a-4797-bf9a-f8fcfa0cf7c9",
+    "author": "Dellou",
+    "score": 6,
+    "date": "2022-01-30",
+    "quote": "Хороший Джаст каус, обучение не такое долгое как в будущих частях. Графика интересная. Но игра лучше становится когда доезжаешь до города, просто катался по джунглям скучновато",
+    "platform": "PC",
+    "game_slug": "just-cause",
+    "game_title": "Just Cause"
+  },
+  {
+    "id": "5f66fe6b-adb4-40e5-a767-729d2f02462c",
+    "author": "Dellou",
+    "score": 10,
+    "date": "2021-12-08",
+    "quote": "Очень красивый 3d шутер в плане графики, красиво смотрится и сегодня. Шутер играется сегодня очень хорошо. Заслуживает 10 звёзд из 10.",
+    "platform": "PC",
+    "game_slug": "quake-ii",
+    "game_title": "Quake II"
+  },
+  {
+    "id": "c5f7fb3e-1b15-4943-a81c-c55e321eaddb",
+    "author": "Dellou",
+    "score": 10,
+    "date": "2021-12-08",
+    "quote": "Очень грамотный шутер! По сравнению с предшественником doom эта игра не запутывает вас настолько сильно! Хоть это и первая 3d игра но такая ужатая графика мне по душе и сегодня.",
+    "platform": "PC",
+    "game_slug": "quake",
+    "game_title": "Quake"
+  },
+  {
+    "id": "8398a89c-a44d-436b-b2b9-d8dccbc9c20d",
+    "author": "Dellou",
+    "score": 5,
+    "date": "2021-11-13",
+    "quote": "Игра хороша бы была если бы не эти минусы...\n1. Нету открытого мира\n2. Задания скучные\n3. Вид от третьего лица, но это пережить можно я думаю\n4. Очень много багов",
+    "platform": "PC",
+    "game_slug": "postal-iii",
+    "game_title": "Postal III"
+  },
+  {
+    "id": "1bf95ed3-bf1f-4776-ab98-d0160946a71c",
+    "author": "Dellou",
+    "score": 7,
+    "date": "2021-11-13",
+    "quote": "Хорошая часть, больше походит на хорорр чем на остальные смешные части, тут хотели ещё от игры другого, но все равно молодцы, хорошая игра",
+    "platform": "PC",
+    "game_slug": "postal",
+    "game_title": "Postal"
+  },
+  {
+    "id": "1e3da3fc-905b-457f-8b19-46ce8915549d",
+    "author": "Dellou",
+    "score": 10,
+    "date": "2021-11-13",
+    "quote": "Игра для меня лучшая игра с открытым миром, даже будто в grand theft auto хуже чем сдесь, заслужено 10/10",
+    "platform": "PC",
+    "game_slug": "postal-2",
+    "game_title": "Postal 2"
+  },
+  {
+    "id": "4ea678d5-8a9a-4b67-8090-eee9024c03db",
+    "author": "Dellou",
+    "score": 8,
+    "date": "2021-11-13",
+    "quote": "Игра быстрей надоедает чем первая часть. Что то прям не то, прошлая часть была атмосферная, ты видел все события на глазах, тут же погнались скорей больше ща революцией чем за другими не менее важными аспектами игры",
+    "platform": "PC",
+    "game_slug": "half-life-2",
+    "game_title": "Half-Life 2"
+  }
+]

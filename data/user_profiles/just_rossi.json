@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1b4aa621-ed3f-4291-b2bc-f0806f28e8fe",
+    "author": "just_rossi",
+    "score": 1,
+    "date": "2026-11-20",
+    "quote": "NO GAME, NO BUY\nYOU KILLED THE PHYSICAL MEDIA\nHOPE THE GAME GET PIRATED SOON",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "001f0e3d-eeaa-47e1-9ec5-c030be786f2a",
+    "author": "just_rossi",
+    "score": 10,
+    "date": "2023-01-20",
+    "quote": "Si Ocarina of Time ya era impresionante, Majora's Mask es indescriptible. Se siente tan vivo todo el mundo, todos rebosan carisma, todo tiene una razón de ser.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-majoras-mask",
+    "game_title": "The Legend of Zelda: Majora's Mask"
+  },
+  {
+    "id": "0ea4507d-3b58-451e-b50d-13af3f3035cd",
+    "author": "just_rossi",
+    "score": 10,
+    "date": "2023-01-20",
+    "quote": "Un juego precioso desde su apartado narrativo hasta visual, que enseña muchas cosas bellas para la vida.\nOjalá haberlo jugado antes para comprender mejor el significado de la vida y estar vivo.",
+    "platform": "PlayStation",
+    "game_slug": "final-fantasy-ix",
+    "game_title": "Final Fantasy IX"
+  },
+  {
+    "id": "c37226f5-93dd-4333-9473-7f40517b8c3d",
+    "author": "just_rossi",
+    "score": 10,
+    "date": "2023-01-20",
+    "quote": "Una obra maestra que incluso más de 20 años después no deja de sorprender, al igual que Link, este juego es atemporal.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  }
+]

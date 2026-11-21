@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1c75a7ac-cebc-410f-a8d4-e11142b6d5fd",
+    "author": "nowuuu",
+    "score": 1,
+    "date": "2026-11-20",
+    "quote": "If realism and routine chores were fun, I wouldn't want to spend my time in videogames.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "3b2374de-c544-42d1-a605-4f14743a41ee",
+    "author": "nowuuu",
+    "score": 5,
+    "date": "2026-11-18",
+    "quote": "Counter-Strike used to be the pinnacle of cybersport industry - but sadly even the greatest aren't immune to the lack of support. As of today, CS2 is filled to the brim with cheaters, smurfs, unmoderated chat hatred while Valve is too busy adding cartoon chickens and importing community-made skins. I hate to say it (especially since I've had so much fun in CS 1.6 and Global Offensive), but Counter-Strike is dying and there are no signs of coming back.",
+    "platform": "PC",
+    "game_slug": "counter-strike-2",
+    "game_title": "Counter-Strike 2"
+  },
+  {
+    "id": "251ec109-f774-4f41-a5b8-db6e073e8961",
+    "author": "nowuuu",
+    "score": 10,
+    "date": "2026-11-18",
+    "quote": "Wonderful masterpiece that proves that games are pure art at this point. Elden Ring keeps following From Software's philosophy of \"what doesn't kills me, makes me stronger\", but this time it's even more fitting for The Lands Between history written by George R.R. Martin. It's one of the games that exploits your thirst for exploring - and rewards you greatly for it. Truly one of a kind game, give it a try!",
+    "platform": "PC",
+    "game_slug": "elden-ring",
+    "game_title": "Elden Ring"
+  },
+  {
+    "id": "9429164d-de47-4fb2-8e93-f9d456754c9c",
+    "author": "nowuuu",
+    "score": 10,
+    "date": "2026-11-18",
+    "quote": "UNBEATABLE is the definition of indie, great personal story, unique artstyle, clever gamedesign that never stops surprising. While you can find technical roughness here and there, developers fixed most of it (and keep updating), so I cannot find it a problem. You gotta try it, there is something to reflect to for everyone.",
+    "platform": "PC",
+    "game_slug": "unbeatable",
+    "game_title": "UNBEATABLE"
+  },
+  {
+    "id": "51eca209-dcf2-4e77-b389-03d6e3cd7b9d",
+    "author": "nowuuu",
+    "score": 8,
+    "date": "2026-11-18",
+    "quote": "Multiplayer isn't that bad to be honest. Can't say anything about Warzone and all this stuff, but in my opinion, core multiplayer feels more fun than new Battlefield entries (and way better than recent Black Ops/CoDs).",
+    "platform": "PC",
+    "game_slug": "call-of-duty-modern-warfare-4",
+    "game_title": "Call of Duty: Modern Warfare 4"
+  },
+  {
+    "id": "069c4d9c-aa69-47b9-9047-e8246920f0bd",
+    "author": "nowuuu",
+    "score": 4,
+    "date": "2026-11-18",
+    "quote": "Valheim should've released right when it went early access - this game was not that bad but it feels way outdated today since most of the competitors are already better in almost every single way. Can't recommend this game anymore, pick any other survival-craft sandbox like Palworld instead.",
+    "platform": "PC",
+    "game_slug": "valheim",
+    "game_title": "Valheim"
+  }
+]

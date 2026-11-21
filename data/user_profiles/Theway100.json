@@ -1,0 +1,32 @@
+[
+  {
+    "id": "8f5d821e-77f0-44ea-b39b-f4cbd3f28d9e",
+    "author": "Theway100",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "The game has progressively gotten worse year over year. I do not recommend it at all.",
+    "platform": "PlayStation 4",
+    "game_slug": "fortnite",
+    "game_title": "Fortnite"
+  },
+  {
+    "id": "9f9b9072-1cdb-437c-b2f5-3e474505ed71",
+    "author": "Theway100",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "This game is a masterpiece. Out of every game ever made there is almost no contest because of how good this game is.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "43a05d2d-3842-4839-b4d5-9f8bfd112eae",
+    "author": "Theway100",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "This game is very laggy on the base PS5 and almost unplayable. They removed all of the fun aspects of the entire game and the whole  world feels stale and uninteresting.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

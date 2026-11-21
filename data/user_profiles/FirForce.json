@@ -1,0 +1,32 @@
+[
+  {
+    "id": "a43aa007-8371-4a10-8f76-9823832fab95",
+    "author": "FirForce",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "Es una vergüenza que les entregarán el guión del juego más esperado de la historia a unas descebreadas de pelo azul \nEl resultado está en todas las críticas negativas",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "476fb6a3-d10e-4387-87b9-8c9f3d50ab88",
+    "author": "FirForce",
+    "score": 1,
+    "date": "2020-06-23",
+    "quote": "Un juego que se caga en todo lo bueno que hizo la entrega anterior, aplausos para los mediocres de la prensa",
+    "platform": "PlayStation 4",
+    "game_slug": "the-last-of-us-part-ii",
+    "game_title": "The Last of Us Part II"
+  },
+  {
+    "id": "295e8dbd-7111-48b4-83df-cc331038b050",
+    "author": "FirForce",
+    "score": 0,
+    "date": "2019-11-08",
+    "quote": "El hype pudo con este juego, nos bombardearon todos los días con publicidad y noticias en todas las páginas posibles y al final el juego es un mojon",
+    "platform": "PlayStation 4",
+    "game_slug": "death-stranding",
+    "game_title": "Death Stranding"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "6023e0ac-f804-44c4-a9ef-496c41efaadb",
+    "author": "Witcher3",
+    "score": 10,
+    "date": "2026-11-03",
+    "quote": "GOTY 2026 all i can say this game exceeded my expectation and blows GTA 6 out of the water",
+    "platform": "PC",
+    "game_slug": "phantom-blade-zero",
+    "game_title": "Phantom Blade Zero"
+  },
+  {
+    "id": "5f9797be-76cb-45e8-a592-4ed4422a1a3a",
+    "author": "Witcher3",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Not a good game just overglazed by paid reviewers, there's a lot of bugs and has a generic protagonist with a lackster storyline 30fps duhhh",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "a20b9d95-ee1e-42bb-9d1a-6d0390901841",
+    "author": "Witcher3",
+    "score": 10,
+    "date": "2026-09-07",
+    "quote": "Best action game of all time GOTY 2026 with phantom blade 0 sekiro level difficulty so good",
+    "platform": "PlayStation 5",
+    "game_slug": "onimusha-way-of-the-sword",
+    "game_title": "Onimusha: Way of the Sword"
+  },
+  {
+    "id": "59bda22a-7408-4754-bd8b-9db8c07664b4",
+    "author": "Witcher3",
+    "score": 10,
+    "date": "2020-08-04",
+    "quote": "Easily the GOTY of this generation much better than the witcher 2 and red dead 2 combine Best game Ever!!!!",
+    "platform": "PlayStation 4",
+    "game_slug": "ghost-of-tsushima",
+    "game_title": "Ghost of Tsushima"
+  }
+]

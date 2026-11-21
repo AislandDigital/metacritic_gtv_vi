@@ -1,0 +1,42 @@
+[
+  {
+    "id": "8e6f673a-862d-464b-9be8-e2e73f6b4339",
+    "author": "yshdmt",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Chores for your girlfriend simulator. Full of bugs. 30 fps. No PC on release.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "4d2a3069-93c9-4078-92d9-61d8ccbb49a9",
+    "author": "yshdmt",
+    "score": 0,
+    "date": "2020-09-20",
+    "quote": "No widescreen for Mario 64. No way to turn off rumble. No way to disable inverted camera controls. Sunshine only runs at 30fps. No way to opt out of motion control in Galaxy. And they charge $60 for this? It's just three emulators... The games needed 2020 treatment..",
+    "platform": "Nintendo Switch",
+    "game_slug": "super-mario-3d-all-stars",
+    "game_title": "Super Mario 3D All-Stars"
+  },
+  {
+    "id": "51cec5c9-3d4e-4632-8a05-4b4ce1377d06",
+    "author": "yshdmt",
+    "score": 0,
+    "date": "2018-11-16",
+    "quote": "Can't be played with Pro Controller. Beware. Game is too easy. Feels slow..",
+    "platform": "Nintendo Switch",
+    "game_slug": "pokemon-lets-go-pikachu",
+    "game_title": "Pokemon: Let's Go, Pikachu!"
+  },
+  {
+    "id": "9e1a028f-cb02-4bd2-bb9c-3091ae4ac71e",
+    "author": "yshdmt",
+    "score": 0,
+    "date": "2018-11-16",
+    "quote": "Can't be played with Pro Controller. Beware. Game is too easy. Feels slow..",
+    "platform": "Nintendo Switch",
+    "game_slug": "pokemon-lets-go-eevee",
+    "game_title": "Pokemon: Let's Go, Eevee!"
+  }
+]

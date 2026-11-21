@@ -1,0 +1,42 @@
+[
+  {
+    "id": "6ac387bc-4b2f-490a-bc52-1299d518b3d3",
+    "author": "CaptainAvo",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Worst GTA in the franchise! Writing is beyond terrible. Dull, bland characters, not one character sticks out as a GTA legend like Big Smoke, Roman or Trevor. Dialogue is mundane and delivered poorly. Can't even manage to hold the 30fps it aims for in 2026! Glitches, texture pop, phasing through objects to name a few bugs. What a major disappointment ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "ddc0e1e0-f0e3-4618-8a66-09b2584d7647",
+    "author": "CaptainAvo",
+    "score": 1,
+    "date": "2022-03-15",
+    "quote": "This game is a giant leap backwards from Sekiro and other From games. The performance is absolute trash. I get frame dips every 10 seconds which results in ultra jank making it a chore to play. The open world is empty and exploring rarely is fruitful. The UI is absolute garbage. Closing the ui should be the same button as opening. The delay on your characters attacks coupled with the pin point tracking enemies have on you is frustrating. The weapon upgrade and crafting systems are an afterthought. All around aimless, heartless experience, trying to het a refund.",
+    "platform": "PlayStation 5",
+    "game_slug": "elden-ring",
+    "game_title": "Elden Ring"
+  },
+  {
+    "id": "836e9b17-5d96-432a-be2f-30a3567c56fa",
+    "author": "CaptainAvo",
+    "score": 10,
+    "date": "2021-08-23",
+    "quote": "Sony is the undisputed king of Video Games since '94. Ghost of Tsushima was the best game of the last generation and the directors cut just makes it all the better. Iki island is beautiful and a nice addition for anyone. Xbox is trash and so are the Fanboys",
+    "platform": "PlayStation 4",
+    "game_slug": "ghost-of-tsushima-directors-cut",
+    "game_title": "Ghost of Tsushima: Director's Cut"
+  },
+  {
+    "id": "0f301049-ba6f-49df-ad10-93856ceb46e5",
+    "author": "CaptainAvo",
+    "score": 0,
+    "date": "2020-06-19",
+    "quote": "This game is hot trash. Same boring gameplay loop as tlou1... Go here, examine this, put it down, go there examine that... The gunplay is still a sub standard mess, just an awful and dated experience. Not to mention the agenda they've shoehorned into the story, perhaps the only redeeming quality of this franchise for me. I will never be giving Naughty Dog my money again",
+    "platform": "PlayStation 4",
+    "game_slug": "the-last-of-us-part-ii",
+    "game_title": "The Last of Us Part II"
+  }
+]

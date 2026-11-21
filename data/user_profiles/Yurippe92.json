@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1701de29-857f-45a2-a780-d28fbe21fc5c",
+    "author": "Yurippe92",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "this game is a joke, at least rockstar can't buy the community score ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "1ceb57d9-634e-4307-9c95-d98c75763bf1",
+    "author": "Yurippe92",
+    "score": 4,
+    "date": "2023-10-25",
+    "quote": "The gameplay is good, the crafting system is awesome, but none of the new characters are interesting and they're just annoying. The story is not enjoyable at all, specially in Abby's side.",
+    "platform": "PlayStation 4",
+    "game_slug": "the-last-of-us-part-ii",
+    "game_title": "The Last of Us Part II"
+  },
+  {
+    "id": "26205efa-4e71-414f-8192-c62453ccf202",
+    "author": "Yurippe92",
+    "score": 1,
+    "date": "2023-10-22",
+    "quote": "I really tried to give it a chance, but this game is boring",
+    "platform": "PC",
+    "game_slug": "starfield",
+    "game_title": "Starfield"
+  },
+  {
+    "id": "b4a12c07-d531-425f-84ce-d9fd8a587e7e",
+    "author": "Yurippe92",
+    "score": 10,
+    "date": "2022-04-09",
+    "quote": "It has been so long that I don't enjoy a kirby game like this one.\r\nSongs, stages, puzzles, everything in this game is perfect.",
+    "platform": "Nintendo Switch",
+    "game_slug": "kirby-and-the-forgotten-land",
+    "game_title": "Kirby and the Forgotten Land"
+  }
+]

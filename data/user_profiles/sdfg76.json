@@ -1,0 +1,32 @@
+[
+  {
+    "id": "0d770780-b453-4d6e-814a-6cc6a37742a6",
+    "author": "sdfg76",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Resident Evil 2 sets the gold standard for survival horror. The tense atmosphere, tight resource management, and constant dread keep you hooked from start to finish.\"",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "resident-evil-2-deluxe-edition",
+    "game_title": "Resident Evil 2: Deluxe Edition"
+  },
+  {
+    "id": "b8cc7769-096c-4ff8-89b1-b74aeadcc980",
+    "author": "sdfg76",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Grand Theft Auto VI is the biggest letdown in gaming. Painfully slow pacing, a messy and confusing storyline, and constant graphical glitches make it nearly impossible to enjoy.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "135365d4-d75b-42a9-91ae-95194d718439",
+    "author": "sdfg76",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Everything in Resident Evil Requiem clicks together effortlessly. Smooth gameplay, great pacing, top-tier sound design, and pure survival horror tension from start to finish. Worth every second.\"",
+    "platform": "PC",
+    "game_slug": "resident-evil-requiem",
+    "game_title": "Resident Evil Requiem"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "3d4694f0-9067-498a-a24f-e7f7a4a86a9e",
+    "author": "Aman19",
+    "score": 7,
+    "date": "2026-11-21",
+    "quote": "The game is good. But the constant updates jist for the sake of it. Constant change and trying to include new features just to keep the game fresh makes it exhausting and vulnerable to bugs. And why tf i can't play competitive with 4 stack? ",
+    "platform": "PC",
+    "game_slug": "valorant",
+    "game_title": "Valorant"
+  },
+  {
+    "id": "f812571e-6e88-4912-9fb2-61dd454f5ae2",
+    "author": "Aman19",
+    "score": 4,
+    "date": "2026-11-21",
+    "quote": "The charecter development took a massive hit in this game compared to mankind divided. The story was also bogus and boring at times. The gameplay felt more lethargic. ",
+    "platform": "PC",
+    "game_slug": "deus-ex-mankind-divided",
+    "game_title": "Deus Ex: Mankind Divided"
+  },
+  {
+    "id": "12ea9f7e-d530-436c-89a4-dd13c1fbe4af",
+    "author": "Aman19",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Amazing game very indulging storyline. And the gameplay takes it to next level. ",
+    "platform": "PC",
+    "game_slug": "deus-ex-human-revolution",
+    "game_title": "Deus Ex: Human Revolution"
+  },
+  {
+    "id": "29a1b030-010d-4e03-9181-672e6387cea1",
+    "author": "Aman19",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "This is the best open world games of the time besode GTA. The weirdness and Over the Top nature of it makes it more fun. ",
+    "platform": "PC",
+    "game_slug": "saints-row-the-third",
+    "game_title": "Saints Row: The Third"
+  },
+  {
+    "id": "c0f181bf-26e6-451a-a4a7-2d8e9fa09cf6",
+    "author": "Aman19",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "The gameplay is amazing, it has to be cause of billions of dollars. But the story, and the charecter are ****. And the restrictions on certain charecterstics and NPCs is like why tf was that there? I don't get it..? Am i playing a game or a propaganda? ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

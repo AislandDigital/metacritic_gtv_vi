@@ -1,0 +1,32 @@
+[
+  {
+    "id": "383a588b-6b47-4de3-b1cb-e424405833f9",
+    "author": "JeuRy018",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Best DLC ever made. This DLC is far better than most AAA game. Its a másterpiece.",
+    "platform": "PC",
+    "game_slug": "the-witcher-3-wild-hunt-blood-and-wine",
+    "game_title": "The Witcher 3: Wild Hunt - Blood and Wine"
+  },
+  {
+    "id": "e9ea1648-21c0-48cc-8605-6152f7eb4478",
+    "author": "JeuRy018",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Comprar reseñas, nominado al goty sin siquiera haber salido, ausencia de versión física, bugs, caidas a 20 fps, misiones de recadero, etc...  Más allá de ser un portento gráfico,  no ofrece mucho más. No valió la espera de 13 años.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "ea869c73-e152-47ea-9103-7127e0d1e32b",
+    "author": "JeuRy018",
+    "score": 10,
+    "date": "2026-10-05",
+    "quote": "The most complete game in existence, now in portable mode. The Witcher 3 is a masterpiece, and this remaster refreshes that wonderful experience of the original version. A few bugs in the launch version, but nothing serious in my experience.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-witcher-3-wild-hunt-remastered",
+    "game_title": "The Witcher 3: Wild Hunt - Remastered"
+  }
+]

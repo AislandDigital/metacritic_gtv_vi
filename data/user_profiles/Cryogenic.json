@@ -1,0 +1,42 @@
+[
+  {
+    "id": "50f39df1-9e4c-4cb9-bf96-3563beb83008",
+    "author": "Cryogenic",
+    "score": 1,
+    "date": "2026-11-20",
+    "quote": "Jesus Christ, this is not GTA in the slightest. Don't call it GTA if it's not GTA ... ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "1d59fcda-ac5d-4a7b-a36d-6c6c60101a27",
+    "author": "Cryogenic",
+    "score": 10,
+    "date": "2020-07-21",
+    "quote": "Great game. I've picked it up without knowing too much about it, just heard my friends talk a little bit about the game. It was an impulse buy, but I'm so glad I did it. The graphics and atmosphere are fantastic, breath taking, everything is dynamic, the wind blows all the leaves, moves all the trees all the grass. Three's not a single scene without dynamic elements, the game feels very alive and very Japanese. The graphics and art are a solid 10/10. The story is a 8.5 to an occasional 9 for me, but I'm willing to give it a pass if only for the amazing atmosphere this game creates.",
+    "platform": "PlayStation 4",
+    "game_slug": "ghost-of-tsushima",
+    "game_title": "Ghost of Tsushima"
+  },
+  {
+    "id": "c659d728-3d3c-44c5-81d9-601587915c44",
+    "author": "Cryogenic",
+    "score": 0,
+    "date": "2020-06-21",
+    "quote": "A dumpster fire with a burning rotten dog carcass inside, the developers want to present to you as as bouquet of Roses. Human misery simulator, there's nothing redeeming about this game. The only good thing it does is exposing the blatant corruption of payed reviewers. Stick to the first game, and pretend its the last one, Part II will ruin even the first if you play it. Gameplay 7.  Graphics 9. Story 0. Overall 0",
+    "platform": "PlayStation 4",
+    "game_slug": "the-last-of-us-part-ii",
+    "game_title": "The Last of Us Part II"
+  },
+  {
+    "id": "06d7f637-bcaa-4ac3-b3bf-1b3c4d4ac70a",
+    "author": "Cryogenic",
+    "score": 5,
+    "date": "2019-09-16",
+    "quote": "Launching in current state, not acceptable for with any stretch of imagination. Add on top of this Epic-Crap-store exclusivity, and alienating supporting community with unwarranted aggressive stance towards fans and the picture painted is a severe reduced hype for this game.",
+    "platform": "PC",
+    "game_slug": "borderlands-3",
+    "game_title": "Borderlands 3"
+  }
+]

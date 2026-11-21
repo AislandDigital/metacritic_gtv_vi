@@ -1,0 +1,22 @@
+[
+  {
+    "id": "9c42861b-ed59-4ec8-829a-f396bf5a058e",
+    "author": "PrinceCharles",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The Legend of Zelda: Ocarina of Time isn't just a classic, it is the blueprint that defined modern 3D adventure gaming. From its groundbreaking target-locking system to its seamless transition between childhood and adulthood, every piece of its design feels intentional, cohesive, and timeless.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "554e9737-4d5b-4037-aa12-b55b9e0c870e",
+    "author": "PrinceCharles",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "After more than a decade of hype, Grand Theft Auto VI delivers a bloated, sluggish, and painfully boring experience bogged down by rigid missions and heavy, unfun driving. Worse yet, its toothless satire and forgettable dual protagonists strip away everything that once gave the franchise its signature edge. Beneath the glossy Vice City visuals lies a buggy, choppy 30fps slog that feels less like a thrilling crime saga and more like an overpriced prologue for the next live-service cash grab.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

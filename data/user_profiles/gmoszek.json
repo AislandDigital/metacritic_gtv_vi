@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2cde2e9f-0219-4270-be63-a3a12bf8f906",
+    "author": "gmoszek",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Unfortunately, on the base PS5, the game fails to maintain 30 frames per second in 2026, and it costs far too much—with no option to purchase a physical disc version.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "5d44b49f-9f63-40ce-882a-5b663fd98d8e",
+    "author": "gmoszek",
+    "score": 2,
+    "date": "2026-06-02",
+    "quote": "much worse than untill dawn, boring stealth sections, slow predictable plot, I couldn't finish it",
+    "platform": "PlayStation 5",
+    "game_slug": "directive-8020",
+    "game_title": "Directive 8020"
+  },
+  {
+    "id": "7037bee4-825f-4509-9ce7-4a43605b06d5",
+    "author": "gmoszek",
+    "score": 8,
+    "date": "2021-05-01",
+    "quote": "good game but not for everyone. It is an interesting development of the roguelike with better graphics.\n\nSometimes it seems a bit unfair but we still get rewards for our good runs",
+    "platform": "PlayStation 5",
+    "game_slug": "returnal",
+    "game_title": "Returnal"
+  },
+  {
+    "id": "81a7748d-e577-421a-a5f6-471cb3150eb5",
+    "author": "gmoszek",
+    "score": 0,
+    "date": "2020-12-11",
+    "quote": "that's not what I was promised, I am so sad nie..\nThey souls refund this game",
+    "platform": "PlayStation 4",
+    "game_slug": "cyberpunk-2077",
+    "game_title": "Cyberpunk 2077"
+  }
+]

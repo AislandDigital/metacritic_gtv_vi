@@ -1,0 +1,32 @@
+[
+  {
+    "id": "51790b7f-00c1-4b2b-8d1b-3cf62b982500",
+    "author": "justsain",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "No pc release, but 30 fps soap release!!\nThis game isn't for these consoles—stop being so greedy!",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "2d5a8c69-52f6-4d4c-84d3-b43600d52c54",
+    "author": "justsain",
+    "score": 10,
+    "date": "2023-02-22",
+    "quote": "Such a wow.\nGreat game I advise everyone. the free world is what this series of games lacked",
+    "platform": "PC",
+    "game_slug": "elden-ring",
+    "game_title": "Elden Ring"
+  },
+  {
+    "id": "5721884c-4fd2-4a5e-a242-dbc8213b944a",
+    "author": "justsain",
+    "score": 10,
+    "date": "2023-02-22",
+    "quote": "Great game!\nthanks to the developers for the first time in a long time, at least someone added something sexy, albeit robots :)",
+    "platform": "PC",
+    "game_slug": "atomic-heart",
+    "game_title": "Atomic Heart"
+  }
+]

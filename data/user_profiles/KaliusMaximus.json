@@ -1,0 +1,92 @@
+[
+  {
+    "id": "8386f297-a38e-4ee1-bf0d-af2f49ed8e25",
+    "author": "KaliusMaximus",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "Modern day slop, nothing more. The really sad part is that you can't sell this garbage anymore after you've finished the game.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "b8696005-a269-433c-b0f3-ce2047e5507f",
+    "author": "KaliusMaximus",
+    "score": 10,
+    "date": "2022-01-27",
+    "quote": "One of the best games of this generation, and the best game in the series. A unique RPG where the side quests don't feel like a cheap chore.",
+    "platform": "Xbox One",
+    "game_slug": "assassins-creed-odyssey",
+    "game_title": "Assassin's Creed Odyssey"
+  },
+  {
+    "id": "43e4defe-bfb4-4ae1-8ead-925cb1f7b990",
+    "author": "KaliusMaximus",
+    "score": 0,
+    "date": "2022-01-27",
+    "quote": "Probably the worst game in the series. Too much delay on character actions, game feels unresponsive and clunky, combat is the worst in the series by far with unresponsive controls and the story is abysmally bad. Never played such a boring chore in my life and i been gaming for over 30 years. Same copy-pasted fetch quests every time you pledge to a region or you're doing a raid. This game is the definition of money lost in a sewer.",
+    "platform": "PlayStation 4",
+    "game_slug": "assassins-creed-valhalla",
+    "game_title": "Assassin's Creed Valhalla"
+  },
+  {
+    "id": "90eb8a38-1672-4cf0-81ae-1ded312de0ea",
+    "author": "KaliusMaximus",
+    "score": 0,
+    "date": "2021-06-02",
+    "quote": "Frustrating rogue like game accompanied by boring and repetitive gameplay. You will often lose content due to constant crashing.",
+    "platform": "PlayStation 5",
+    "game_slug": "returnal",
+    "game_title": "Returnal"
+  },
+  {
+    "id": "68377322-1aed-4bd1-8301-b6c416bdb2f3",
+    "author": "KaliusMaximus",
+    "score": 10,
+    "date": "2021-06-02",
+    "quote": "Best Sony exclusive i've played after Uncharted 4. The game is a great mix of RDR2 set in a zombie (freakers) apocalypse world. Also, it is the longest Sony exclusive game witch starts to really shine after 8-12 hours deep into the story. DG really deserves a sequel because the story ends with a some big cliffhanger witch left the story unfinished and opened to many interpretations.",
+    "platform": "PlayStation 4",
+    "game_slug": "days-gone",
+    "game_title": "Days Gone"
+  },
+  {
+    "id": "cf601cc9-e689-4ad1-9f0d-401123dfe1dc",
+    "author": "KaliusMaximus",
+    "score": 7,
+    "date": "2021-06-02",
+    "quote": "Too much walking based simulation for a pretentious game which should have been fun in the first place. Not good at all.",
+    "platform": "PlayStation 4",
+    "game_slug": "the-last-of-us-remastered",
+    "game_title": "The Last of Us Remastered"
+  },
+  {
+    "id": "fc8dc426-146a-496b-ac70-209e27bd3c96",
+    "author": "KaliusMaximus",
+    "score": 0,
+    "date": "2021-05-04",
+    "quote": "Probably the worst ending in the video games history. Until the end, Ellie doesn't even remember the purpose of herself being a survivor. The true magic and deep human connection from the first game, is long gone.",
+    "platform": "PlayStation 4",
+    "game_slug": "the-last-of-us-part-ii",
+    "game_title": "The Last of Us Part II"
+  },
+  {
+    "id": "de94f7ab-c690-41ac-b0d3-1dab47eaa979",
+    "author": "KaliusMaximus",
+    "score": 10,
+    "date": "2020-10-03",
+    "quote": "This game is having the recipe for being a total masterpiece. Amazing detailed graphics, facial animation and lip sync. And above that a GOTY worth story.",
+    "platform": "Xbox One",
+    "game_slug": "mafia-definitive-edition",
+    "game_title": "Mafia: Definitive Edition"
+  },
+  {
+    "id": "eea636c8-9612-46ec-95d5-8cc4e8e2b456",
+    "author": "KaliusMaximus",
+    "score": 10,
+    "date": "2020-06-20",
+    "quote": "Best game of all time and of this generation by far. Nothing came close to this pure masterpiece.",
+    "platform": "Xbox One",
+    "game_slug": "red-dead-redemption-2",
+    "game_title": "Red Dead Redemption 2"
+  }
+]

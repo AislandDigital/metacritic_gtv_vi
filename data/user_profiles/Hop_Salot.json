@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2c1c6748-54e6-4031-9110-2522cc878b1a",
+    "author": "Hop_Salot",
+    "score": 1,
+    "date": "2026-11-20",
+    "quote": "Beautiful game, abysmal writing, unlikeable protagonists, horrendous console optimization... What an absolute tragedy.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "c5201a44-97ee-43ae-92f2-ab0b37b14d79",
+    "author": "Hop_Salot",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "Profoundly disappointed. Beautiful game, abysmal writing, borderline unplayable console optimization. What an absolute tragedy. Rockstar is dead.",
+    "platform": "Xbox Series X",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "62cebd64-bf87-4aa2-b938-600171d5e8e9",
+    "author": "Hop_Salot",
+    "score": 0,
+    "date": "2025-02-06",
+    "quote": "It's difficult to say what happened after the first entry, but everything took a nosedive. Awful storytelling, AI voices for NPC's, objectively boring gameplay... Such a disappointment.\n\nAt least it runs well, I guess.",
+    "platform": "PC",
+    "game_slug": "kingdom-come-deliverance-ii",
+    "game_title": "Kingdom Come: Deliverance II"
+  },
+  {
+    "id": "bff30c22-6a09-44bf-9ac5-ac973feb4296",
+    "author": "Hop_Salot",
+    "score": 10,
+    "date": "2013-05-25",
+    "quote": "I bought this game looking to recoup some of those Apple II memories from my elementary school computer lab days... and boy did it bring me back. The game isn't just a parody, but an excellent resource management game in and of itself. Awesome sense of humor, loads of replay-ability, and just a genuinely FUN game. You can't get more for less than this game. Easily the most fun I've had in a long time.",
+    "platform": "PC",
+    "game_slug": "organ-trail-directors-cut",
+    "game_title": "Organ Trail: Director's Cut"
+  },
+  {
+    "id": "7f492207-d276-4a3a-a6ab-09e701bcab3f",
+    "author": "Hop_Salot",
+    "score": 10,
+    "date": "2013-05-25",
+    "quote": "I bought this game looking to recoup some of those Apple II memories from my elementary school computer lab days... and boy did it bring me back. The game isn't just a parody, but an excellent resource management game in and of itself. Awesome sense of humor, loads of replay-ability, and just a genuinely FUN game. You can't get more for less than this game. Easily the most fun I've had in a long time.",
+    "platform": "iOS (iPhone/iPad)",
+    "game_slug": "organ-trail-directors-cut",
+    "game_title": "Organ Trail: Director's Cut"
+  }
+]

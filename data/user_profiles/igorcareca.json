@@ -1,0 +1,32 @@
+[
+  {
+    "id": "b74028a6-535f-4e1c-a06c-008adbf9d7b7",
+    "author": "igorcareca",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Não apenas esse, assim como todos Gran Turismos, não existe jogo de corrida melhor. A imersão  me faz esquecer da vida aqui fora. Sempre uma trilha sonora marcante e emocionante. Nada estravagante e temporário, sempre uma experiencia que fica na memória por décadas.",
+    "platform": "PlayStation",
+    "game_slug": "gran-turismo",
+    "game_title": "Gran Turismo"
+  },
+  {
+    "id": "a2dadb0b-eecc-46fa-bf84-fb0778ee70cb",
+    "author": "igorcareca",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "No lançamento estava uma piada, mas hoje é um dos melhores jogos da minha vida, gráfico, gameplay, trilha sonora, simplesmente uma delicia a ser degustada e apreciada.",
+    "platform": "PC",
+    "game_slug": "cyberpunk-2077",
+    "game_title": "Cyberpunk 2077"
+  },
+  {
+    "id": "4a6e37a7-1cbe-44de-a6a4-5f51f2346506",
+    "author": "igorcareca",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Gráficos maravilhosos, nada além disso. Jogo monótono, cansativo, simulador de The Sims pra agradar uma uma namorada irritante que não agrega em nada na historia. O jogo podia ser simplesmente o Jason fazendo o que bem quer e curtindo a cidade sem limites, mas não.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

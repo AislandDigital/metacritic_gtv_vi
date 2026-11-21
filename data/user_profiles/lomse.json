@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2e169432-2233-41e8-9b75-dc67b2c1136d",
+    "author": "lomse",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "The story is terrible and lacks everything that makes GTA feel like GTA. What went wrong?",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "efac1c68-e2d4-49d9-b386-d9c94290957a",
+    "author": "lomse",
+    "score": 10,
+    "date": "2020-07-20",
+    "quote": "Now, this is how you design a game! This is a just beautiful. Combat looks great as well. A must play!",
+    "platform": "PlayStation 4",
+    "game_slug": "ghost-of-tsushima",
+    "game_title": "Ghost of Tsushima"
+  },
+  {
+    "id": "fdd7ab83-4882-4631-a5dc-1bbb8ee88ee3",
+    "author": "lomse",
+    "score": 0,
+    "date": "2020-06-19",
+    "quote": "I play video games to escape the craziness of the world, not to live it. Sorry this is not a game for me.",
+    "platform": "PlayStation 4",
+    "game_slug": "the-last-of-us-part-ii",
+    "game_title": "The Last of Us Part II"
+  }
+]

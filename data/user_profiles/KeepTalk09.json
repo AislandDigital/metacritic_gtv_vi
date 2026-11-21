@@ -1,0 +1,42 @@
+[
+  {
+    "id": "500730f3-c09b-4ebb-9add-ecaacbd47591",
+    "author": "KeepTalk09",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The greatest game of all time, featuring one of the most epic and glorious soundtracks in video game history, magnificent gameplay that keeps you coming back for more thanks to the absurd variety of weapons and builds you can create, every environment feels like a recreation of a picturesque painting, and one of the strangest stories to uncover. FromSoftware's greatest masterpiece.",
+    "platform": "PlayStation 5",
+    "game_slug": "elden-ring",
+    "game_title": "Elden Ring"
+  },
+  {
+    "id": "cf036cc7-32b8-462f-9969-636fd9a8af38",
+    "author": "KeepTalk09",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Bloober Team did a great job handling this remake. They understood the importance of the masterpiece they were working with and delivered one of the best remakes ever made. Silent Hill 2 Remake not only respects the original game's elements but also manages to coexist with them, inviting new players and longtime fans alike to revisit one of the most iconic games of the PS2 era.\nThe actors and actresses delivered outstanding performances, the gameplay received a massive improvement, along with the enemies, and the soundtrack is simply undeniable. Akira Yamaoka remains a true gem for the Silent Hill franchise.",
+    "platform": "PlayStation 5",
+    "game_slug": "silent-hill-2",
+    "game_title": "Silent Hill 2"
+  },
+  {
+    "id": "3e0874ab-2054-4f7a-aa52-b70520d488bb",
+    "author": "KeepTalk09",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The greatest horror game of all time, with one of the most depressing narratives ever written. Silent Hill 2 may have some of the clunkiest gameplay, but it's worth looking beyond James's story and uncovering everything that lies beneath the fog.",
+    "platform": "PlayStation 2",
+    "game_slug": "silent-hill-2-2001",
+    "game_title": "Silent Hill 2 (2001)"
+  },
+  {
+    "id": "6f356c00-5cca-43db-ad28-d3fdddb176b5",
+    "author": "KeepTalk09",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "13 years of development, no physical release, an incomplete product for $80, a $500 collector’s edition, and two delays just to get an overpriced game riddled with bugs. GTA 6 is one of the best games of today, standing alongside Red Dead Redemption 2 as one of the greatest open-world games ever made, but it is NOT the greatest game of all time. And it's sad to think that the future of gaming could collapse starting right here",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

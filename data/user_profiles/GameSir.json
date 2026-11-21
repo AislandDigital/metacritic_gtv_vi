@@ -1,0 +1,62 @@
+[
+  {
+    "id": "12ced6b2-bb81-40e4-962a-17c20ffaa526",
+    "author": "GameSir",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "The best game in its genre. It features an incredible, immersive story that takes a classic tale in a new direction. The designs are stunning, with beautiful landscapes and grotesque bosses that are perfectly in tune with the narrative. It culminates in an astonishing ending that leaves the player awestruck and fully satisfied—a worthy successor to the first installmen",
+    "platform": "PC",
+    "game_slug": "alice-madness-returns",
+    "game_title": "Alice: Madness Returns"
+  },
+  {
+    "id": "4a24327d-cd52-428c-acef-481d09b35ec3",
+    "author": "GameSir",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "It is everything one would expect from a remaster: it improves the graphics and gameplay without changing or ruining the story, which was already perfect.",
+    "platform": "PlayStation 4",
+    "game_slug": "the-last-of-us-remastered",
+    "game_title": "The Last of Us Remastered"
+  },
+  {
+    "id": "0c15f2b2-130d-46fe-a34a-9a92fbca3429",
+    "author": "GameSir",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "A great game, with remarkable graphics and an immersive story. Its script is simply on another level, and the ending is perfect—the kind that leaves you reflecting for days.",
+    "platform": "PlayStation 3",
+    "game_slug": "the-last-of-us",
+    "game_title": "The Last of Us"
+  },
+  {
+    "id": "4b258e47-1eb1-49f9-88a3-495e2397dc86",
+    "author": "GameSir",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "I loved this game; it knows exactly how to take tension to another level, despite the limitations of its graphics and gameplay style. It keeps the player fully engaged at all times—leaving no room for boredom—by introducing new puzzles at every turn.",
+    "platform": "PC",
+    "game_slug": "little-nightmares",
+    "game_title": "Little Nightmares"
+  },
+  {
+    "id": "a8d0c72b-0390-4498-941f-2bf01bdc0fa4",
+    "author": "GameSir",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "I loved this game; it knows exactly how to take tension to another level, despite the limitations of its graphics and gameplay style. It keeps the player fully engaged at all times—leaving no room for boredom—by introducing new puzzles at every turn.",
+    "platform": "PlayStation 4",
+    "game_slug": "little-nightmares",
+    "game_title": "Little Nightmares"
+  },
+  {
+    "id": "46390e21-239e-4dd8-9f8e-7aeb61c3c7ba",
+    "author": "GameSir",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "Terrible. After 13 years of development and a $100 price tag, this is what we get: the same graphics as its predecessor, a peak performance of barely 23 fps, the same generic NPCs that have appeared throughout the entire series, a game riddled with bugs that render it unplayable, a boring story that offers nothing new, and monotonous, repetitive missions that result in a mediocre script. Simply put, it is the worst GTA in history and the worst game ever developed by this company.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

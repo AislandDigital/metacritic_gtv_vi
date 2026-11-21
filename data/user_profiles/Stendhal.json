@@ -1,0 +1,62 @@
+[
+  {
+    "id": "d2d117ea-6941-449e-ab89-75574f294bb8",
+    "author": "Stendhal",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "OK la map est immense, les graphismes étonnants de précision, et les réactions de certains PNJ m'ont parfois décroché un sourire. Mais ça ne suffit pas à faire un bon jeu ! \nLucia est une cagole idiote, imbuvable et insupportable, qui se prend pour une princesse. Jason, c'est encore pire : le mec est insipide, il lui pardonne tout, fait tout pour elle sans jamais rien recevoir en retour. Et ces deux clowns sont supposés être des gangsters ? LOL ! \nL'histoire et les personnages sont affligeants de mièvrerie. De très, très loin, le pire GTA de l'histoire.\nJe lâche définitivement la manette après 10 heures de jeu, avec le sentiment amer qu'on m'a volé mon argent.\nNotons aussi que la note de la presse est un scandale absolu, le milieu du journalisme JV est bien malade, et manifestement corrompu.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "2a79c0ad-83b5-4fa7-ac6c-4a2845ff4bf7",
+    "author": "Stendhal",
+    "score": 9,
+    "date": "2024-11-04",
+    "quote": "Sans doute le meilleur jeu d'Ubisoft, ils ont fait un travail extraordinaire sur le monde ouvert.",
+    "platform": "PlayStation 4",
+    "game_slug": "assassins-creed-origins",
+    "game_title": "Assassin's Creed Origins"
+  },
+  {
+    "id": "b2095588-1dc3-4d5f-9470-3a34467ce64a",
+    "author": "Stendhal",
+    "score": 4,
+    "date": "2024-11-01",
+    "quote": "Quelques bonnes choses mais le gameplay basé sur les couleurs ruine un peu l'aventure.",
+    "platform": "PlayStation 5",
+    "game_slug": "hogwarts-legacy",
+    "game_title": "Hogwarts Legacy"
+  },
+  {
+    "id": "261f2cd6-bc62-44d8-b3a6-315ae47a3380",
+    "author": "Stendhal",
+    "score": 8,
+    "date": "2024-11-01",
+    "quote": "Un jeu excellent, même si les pays ne sont pas au même niveau. (En début de partie, les ukrainiens et les écossais sont un peu trop forts par rapport aux autres pays.)",
+    "platform": "PC",
+    "game_slug": "cossacks-3",
+    "game_title": "Cossacks 3"
+  },
+  {
+    "id": "a42c5045-483e-43a2-9d96-9a8c53fdc5f2",
+    "author": "Stendhal",
+    "score": 9,
+    "date": "2024-11-01",
+    "quote": "Rarement vu un jeu aussi bien écrit. Seul bémol, le système de sauvegarde est mal fichu. Mais tout le reste est excellent.",
+    "platform": "PlayStation 5",
+    "game_slug": "the-last-of-us-part-i",
+    "game_title": "The Last of Us Part I"
+  },
+  {
+    "id": "db7ab8e4-3f77-4a1a-98e2-b13fb4d64137",
+    "author": "Stendhal",
+    "score": 0,
+    "date": "2024-11-01",
+    "quote": "Les personnages sont moches, beaucoup de blabla inintéressant, et les combats sont répétitifs et sans aucun challenge. Un jeu à fuir !",
+    "platform": "PlayStation 5",
+    "game_slug": "dragon-age-the-veilguard",
+    "game_title": "Dragon Age: The Veilguard"
+  }
+]

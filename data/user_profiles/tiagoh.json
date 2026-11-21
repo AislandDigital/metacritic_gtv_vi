@@ -1,0 +1,32 @@
+[
+  {
+    "id": "802cbf6a-3428-488c-a6da-967fd7f1f139",
+    "author": "tiagoh",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Jogo muito bom, a gameplay, gráfico, atuação, trilha sonora, história, mudou a minha vida ",
+    "platform": "PlayStation 3",
+    "game_slug": "the-last-of-us",
+    "game_title": "The Last of Us"
+  },
+  {
+    "id": "66d56d94-578f-40d4-81b7-911b71cd9982",
+    "author": "tiagoh",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Jogo muito bom, a gameplay, gráfico, atuação, trilha sonora, história, mudou a minha vida ",
+    "platform": "PlayStation 4",
+    "game_slug": "the-last-of-us-part-ii",
+    "game_title": "The Last of Us Part II"
+  },
+  {
+    "id": "f04bf679-28d1-40ed-b725-315c8956409c",
+    "author": "tiagoh",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Lixo completo, é mais do mesmo, não inovou na gameplay, tem muitas limitações ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

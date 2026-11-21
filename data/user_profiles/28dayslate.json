@@ -1,0 +1,32 @@
+[
+  {
+    "id": "06e50a60-4bb7-4b99-a55b-d1b41bbf0526",
+    "author": "28dayslate",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "Instead of giving me fun things to do in a videogame, they gave me chores and errands. Revolutionary ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "66ce46e2-9ca2-4f6f-9bee-699525048759",
+    "author": "28dayslate",
+    "score": 7,
+    "date": "2020-06-19",
+    "quote": "It's good.\r\n\r\nStory, Gameplay, Animations, Dialogue, Characters, Acting. All good.",
+    "platform": "PlayStation 3",
+    "game_slug": "the-last-of-us",
+    "game_title": "The Last of Us"
+  },
+  {
+    "id": "1959c2ad-4110-47bf-9210-a5b4fd081ede",
+    "author": "28dayslate",
+    "score": 3,
+    "date": "2020-06-19",
+    "quote": "(PROS include Gameplay, Animations, Acting, and Graphics...)\r\n\r\n(CONS include Story and Dialogue...)\r\n\r\nThis game mainly relies on its story. And its story is pretty awful. It will leave you unsatisfied.",
+    "platform": "PlayStation 4",
+    "game_slug": "the-last-of-us-part-ii",
+    "game_title": "The Last of Us Part II"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "88680b3f-cc56-4a9d-aaf2-5c9aef494578",
+    "author": "Hugo_Rayo",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Un juego que revolucionó a la industria de una manera legendaria.\nUn gran mundo por explorar, gráficos muy buenos para su época, mecánicas innovadoras y ser un completo referente.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "0f3d1aab-e10c-4261-922c-f219f68e5546",
+    "author": "Hugo_Rayo",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "No hay formato físico, múltiples bugs, rendimiento pésimo, 30 fps no estables, historia mala, muy continuista, animaciones pésimas y falta de doblaje castellano",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

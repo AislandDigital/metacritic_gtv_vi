@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2d40ebc4-5526-4e40-8d7e-76e4dce88e8e",
+    "author": "xer-305",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "The worst game I’ve ever seen in my life. Jason is drunk and doesn’t know how to drive—he crashes the car, and then goes and hits that poor woman. What a drunk!",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "3f1616a8-5903-4e4d-ba7d-431562b6ca61",
+    "author": "xer-305",
+    "score": 0,
+    "date": "2026-05-21",
+    "quote": "This game is terrible; it drove me crazy because of the cars—they keep swerving right, left, right.",
+    "platform": "PlayStation 5",
+    "game_slug": "need-for-speed-unbound",
+    "game_title": "Need for Speed Unbound"
+  },
+  {
+    "id": "c2c2aecf-e72e-4b1a-9677-3cf6c9558474",
+    "author": "xer-305",
+    "score": 10,
+    "date": "2026-05-21",
+    "quote": "\"The Japan map is incredible, and the lighting in Tokyo at night looks photorealistic. It runs perfectly smooth on my PC with no technical issues at all. They really nailed it with this one!\"",
+    "platform": "PC",
+    "game_slug": "forza-horizon-6",
+    "game_title": "Forza Horizon 6"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "025363c0-ddaf-492f-9400-1934133f50ae",
+    "author": "Eleuriel",
+    "score": 1,
+    "date": "2026-11-20",
+    "quote": "Están borrando las reseñas. Me borraron mi comentario y ni siquiera era un 1! ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "501037f0-add9-4fca-90b7-0b23f54e0e4f",
+    "author": "Eleuriel",
+    "score": 10,
+    "date": "2026-11-19",
+    "quote": "Una carta de amor a los juegos rol. Excelente calidad de historia, divertida jugabilidad, personajes memorables. Una obra maestra.",
+    "platform": "Xbox Series X",
+    "game_slug": "baldurs-gate-3",
+    "game_title": "Baldur's Gate 3"
+  },
+  {
+    "id": "43703b87-ba3a-4d57-8890-31c6f795d875",
+    "author": "Eleuriel",
+    "score": 10,
+    "date": "2026-11-19",
+    "quote": "Uno de los mejores juegos que je jugado. Amo los juegos de rol de turnos y E33 lo llevó al siguiente nivel. Historia conmovedora, excelente gameplay, soundtrack memorable, es uno de los mejores GOTYs.",
+    "platform": "PlayStation 5",
+    "game_slug": "clair-obscur-expedition-33",
+    "game_title": "Clair Obscur: Expedition 33"
+  },
+  {
+    "id": "26ca95ff-fb08-4115-8fc3-afadf9e449bf",
+    "author": "Eleuriel",
+    "score": 10,
+    "date": "2026-11-19",
+    "quote": "Lo amé. Realmente es un mundo tan inmenso. Sé que muchos piensan que no es un Zelda porque es mundo abierto pero es una prueba de que la franquicia Zelda marca un antes y un después en la industria de los videojuegos.",
+    "platform": "Nintendo Switch",
+    "game_slug": "the-legend-of-zelda-breath-of-the-wild",
+    "game_title": "The Legend of Zelda: Breath of the Wild"
+  }
+]

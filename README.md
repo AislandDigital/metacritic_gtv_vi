@@ -1,0 +1,42 @@
+# Metacritic — GTA VI × Ocarina remake
+
+Cruza user reviews do **GTA VI** com o remake de **The Legend of Zelda: Ocarina of Time (2026)** nos dois sentidos:
+
+- nota baixa no GTA + nota alta no Zelda?
+- nota baixa no Zelda + nota alta no GTA?
+
+
+## Setup
+
+```bash
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+## Passos (separados)
+
+```bash
+# 1) Reviews do GTA VI  → data/gta_vi_reviews.json
+python scrape_and_analyze.py scrape-gta
+
+# 2) Reviews do OoT remake 2026  → data/zelda_oot_2026_reviews.json
+python scrape_and_analyze.py scrape-zelda
+
+# 3) Perfis dos usuários com nota baixa no GTA  → data/user_profiles/
+python scrape_and_analyze.py scrape-users --low-max 1
+
+# 4) Cruzar (ex.: GTA < 5 e OoT = 10)
+python scrape_and_analyze.py analyze --low-max 4 --zelda-min 10
+```
+
+Saídas: `data/analysis_report.json`, `data/hypothesis_matches.json`, `data/gta_vi_stats.json`.
+
+## Limitações
+
+- **Só reviews com texto.** Dezenas de milhares de notas sem comentário entram na média do site, mas **não** têm autor listável na API — impossível cruzar com o outro jogo.
+- **API com teto ~10k** por filtro de sentimento; o scraper faz merge de positive/mixed/negative/all, mas a cobertura de texto não é 100%.
+- Os percentuais altos (~90%+) aplicam-se a **quem avaliou os dois**; não à população inteira de notas baixas.
+- Correlação de contas ≠ prova causal de review bomb em cada caso.
+- Sem verificação de ownership/compra no Metacritic.
+- Dados são um **snapshot**; o site muda o tempo todo.
+- `scrape-users` cobre só um subconjunto de perfis (low-scorers do GTA), não todos os usuários.

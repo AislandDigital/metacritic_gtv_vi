@@ -1,0 +1,32 @@
+[
+  {
+    "id": "f37b408f-9c63-4374-84fd-8251de4bfc6e",
+    "author": "a4006051",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Seriously? 30 FPS? It’s a step down from the previous game, and even the physics have gotten worse.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "73982d4d-f7b7-45b3-978f-a3c3c96bfbea",
+    "author": "a4006051",
+    "score": 10,
+    "date": "2026-10-02",
+    "quote": "The Witcher 3 is a masterpiece, and the Remastered version makes an already incredible experience even better. The world is breathtaking, the characters feel real, and the story is still one of the best I have ever experienced in a game. ",
+    "platform": "PlayStation 5",
+    "game_slug": "the-witcher-3-wild-hunt-remastered",
+    "game_title": "The Witcher 3: Wild Hunt - Remastered"
+  },
+  {
+    "id": "e00f1bdb-e6a2-48be-a177-15ead136cbd2",
+    "author": "a4006051",
+    "score": 10,
+    "date": "2026-10-02",
+    "quote": "The Witcher 3 is a masterpiece, and the Remastered version makes an already incredible experience even better. The world is breathtaking, the characters feel real, and the story is still one of the best I have ever experienced in a game.",
+    "platform": "PC",
+    "game_slug": "the-witcher-3-wild-hunt-remastered",
+    "game_title": "The Witcher 3: Wild Hunt - Remastered"
+  }
+]

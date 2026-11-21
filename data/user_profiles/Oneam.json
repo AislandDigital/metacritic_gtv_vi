@@ -1,0 +1,52 @@
+[
+  {
+    "id": "f17a2eb0-2ec0-479d-b3f1-c7bfbc9cd803",
+    "author": "Oneam",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Je trouve GTA 6 beaucoup trop rigide. Le jeu manque cruellement de fun et de liberté par rapport à ce qu’on pouvait attendre de la licence. Les sensations de jeu me semblent moins amusantes et moins spontanées que dans les précédents opus. J’ai également du mal à voir ce qu’il apporte réellement de nouveau à la formule. On attendait une vraie évolution, quelque chose qui renouvelle l’expérience, pas simplement une version plus moderne de ce qu’on connaît déjà. Pour l’instant, je trouve le jeu décevant. ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "8ce8da80-54aa-41c2-8374-f8cb3d3fac70",
+    "author": "Oneam",
+    "score": 10,
+    "date": "2025-05-10",
+    "quote": "Une vrai pépite, je n’est jamais jouée à un jeu pareil. La DA est incroyable, le gameplay n’en parlons même pas. Une vrai claque pour le jeux vidéo.",
+    "platform": "PlayStation 5",
+    "game_slug": "clair-obscur-expedition-33",
+    "game_title": "Clair Obscur: Expedition 33"
+  },
+  {
+    "id": "f5dcdb68-72b3-4c8a-848b-03bf91c35370",
+    "author": "Oneam",
+    "score": 10,
+    "date": "2025-05-10",
+    "quote": "Une vrai pépite, je n’est jamais jouée à un jeu pareil. La DA est incroyable, le gameplay n’en parlons même pas. Une vrai claque pour le jeux vidéo.",
+    "platform": "PC",
+    "game_slug": "clair-obscur-expedition-33",
+    "game_title": "Clair Obscur: Expedition 33"
+  },
+  {
+    "id": "63d2776b-67b3-455f-97f7-00b101ecb1b1",
+    "author": "Oneam",
+    "score": 10,
+    "date": "2025-05-10",
+    "quote": "Une vrai pépite, je n’est jamais jouée à un jeu pareil. La DA est incroyable, le gameplay n’en parlons même pas. Une vrai claque pour le jeux vidéo.",
+    "platform": "Xbox Series X",
+    "game_slug": "clair-obscur-expedition-33",
+    "game_title": "Clair Obscur: Expedition 33"
+  },
+  {
+    "id": "2795a3dd-3027-4cf5-904a-d8209566ccf1",
+    "author": "Oneam",
+    "score": 10,
+    "date": "2023-09-13",
+    "quote": "Jeu excellent après 3-4h de jeu.",
+    "platform": "Xbox Series X",
+    "game_slug": "starfield",
+    "game_title": "Starfield"
+  }
+]

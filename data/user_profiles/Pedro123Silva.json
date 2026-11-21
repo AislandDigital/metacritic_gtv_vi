@@ -1,0 +1,22 @@
+[
+  {
+    "id": "3e6b54cb-c0cf-41fd-aea1-5ce30b14b4c8",
+    "author": "Pedro123Silva",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Jogo incrível e revolucionário com uma surpreendente mecânica tão perfeita e incrível, algo nunca jamais visto na história dos games, de uma complexidade absurda que transcende a compreensão humana.",
+    "platform": "Nintendo 64",
+    "game_slug": "chameleon-twist",
+    "game_title": "Chameleon Twist"
+  },
+  {
+    "id": "3e62e16a-b9dd-44e4-a7b1-1f11820e7f1e",
+    "author": "Pedro123Silva",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Jogo sem cultura alguma, onde o intuito é praticar atividades ilícitas que não se podem serem feitas na vida real, puro simulador de bandido e psicopata.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "26026dfa-d4a7-4155-8356-6c9e8d968c0b",
+    "author": "francis_usach",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "Sony nos prometió que en ps5 es donde mejor se jugaría GTA6, y resulta que es donde mas bug se han registrado, y no solo eso, corre a la par en contra de una consola que cuesta la mitad q un ps5. Una burla para la comunidad \n",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "3b5bd459-aab9-4d79-a30f-bfee952ebd20",
+    "author": "francis_usach",
+    "score": 10,
+    "date": "2023-10-26",
+    "quote": "Juegaso, es un poco lento en un principio pero agarr buen ritmo, buenos gráficos y jugabilidad impecable",
+    "platform": "Xbox Series X",
+    "game_slug": "starfield",
+    "game_title": "Starfield"
+  },
+  {
+    "id": "f28966b4-5869-493a-a994-9210d4faada4",
+    "author": "francis_usach",
+    "score": 10,
+    "date": "2023-01-28",
+    "quote": "Excelente juego, entretenido, hacia falta un plataforma así para salir de la rutina",
+    "platform": "Xbox Series X",
+    "game_slug": "hi-fi-rush",
+    "game_title": "Hi-Fi Rush"
+  }
+]
