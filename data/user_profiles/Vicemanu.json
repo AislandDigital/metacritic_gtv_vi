@@ -1,0 +1,62 @@
+[
+  {
+    "id": "e8b77d0e-dfc8-40bd-b518-8694007593a6",
+    "author": "Vicemanu",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Zelda: Ocarina of Time es un juego tosco, con mecánicas anticuadas, controles poco fluidos y una jugabilidad demasiado simple e infantil. Su fama se sostiene más en la nostalgia que en sus cualidades actuales. Pudo ser revolucionario en su época, pero eso no lo convierte en el mejor juego de la historia. Un clásico envejecido que muchos siguen idealizando.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "b2a9f549-e816-43e1-a53c-1053e6e9a727",
+    "author": "Vicemanu",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Sobrevalorado por la nostalgia.\nUn juego completamente inflado por la nostalgia que no aporta absolutamente nada nuevo. Se limita a repetir la fórmula del original sin innovar, sorprender ni ofrecer una evolución real. Vivir de la gloria del pasado no convierte a un remake en una obra maestra. Mucha nostalgia, poca innovación y cero ambición.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "0d229134-fa37-4802-8fe4-a75e676fed35",
+    "author": "Vicemanu",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "10/10  Una obra maestra **** VI no es simplemente un videojuego, es una experiencia única que redefine los límites del entretenimiento. Una auténtica obra maestra en todos los sentidos, destinada a marcar un antes y un después en la industria. Sin lugar a dudas, el mejor videojuego de la historia.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "dcb2063d-02d4-4213-8b85-2ae12ea84f9a",
+    "author": "Vicemanu",
+    "score": 1,
+    "date": "2026-08-01",
+    "quote": "No tener traducción al Español es una nnjusticia hacia el público hispanohablante de un RPG de Square Enix, siempre apoyado desde nuestra tierra ",
+    "platform": "PlayStation 5",
+    "game_slug": "final-fantasy-tactics-the-ivalice-chronicles",
+    "game_title": "FINAL FANTASY TACTICS - The Ivalice Chronicles"
+  },
+  {
+    "id": "4ad55b74-1d4c-46bc-a7dd-18480ac16a5b",
+    "author": "Vicemanu",
+    "score": 1,
+    "date": "2026-08-01",
+    "quote": "Otro juego de Square Enix sin traducción al Español sin razón alguna, muy mal ",
+    "platform": "PlayStation 5",
+    "game_slug": "octopath-traveler-0",
+    "game_title": "Octopath Traveler 0"
+  },
+  {
+    "id": "77b9d2a4-629c-4aa1-97bc-b3a380b396d4",
+    "author": "Vicemanu",
+    "score": 10,
+    "date": "2025-07-06",
+    "quote": "Final Fantasy X es una obra maestra inolvidable. Su historia me emocionó como pocos juegos lo han logrado, con personajes profundos como Tidus y Yuna que aún resuenan conmigo. El sistema de combate por turnos es ágil y estratégico, y el tablero de esferas permite una evolución única. La banda sonora, especialmente temas como “To Zanarkand”, es sencillamente magistral. Visualmente sigue siendo hermoso, incluso años después. Es un juego que marcó mi vida y siempre ocupará un lugar especial en mi memoria. Un clásico que todo amante del RPG debe jugar.",
+    "platform": "PlayStation 3",
+    "game_slug": "final-fantasy-x-x-2-hd-remaster",
+    "game_title": "Final Fantasy X / X-2 HD Remaster"
+  }
+]

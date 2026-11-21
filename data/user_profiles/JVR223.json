@@ -1,0 +1,52 @@
+[
+  {
+    "id": "94282b7b-57e0-42cc-bc04-1e26663f53ab",
+    "author": "JVR223",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "Amazing game. Runs at 60 frames per second. Amazing music, gameplay and graphics. Stands the test of time. 10 out of 10.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "9f9b312f-b622-4b5c-9a99-c59bc7b30539",
+    "author": "JVR223",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "Way too buggy and only runs at 30 frams per second even in a Playstation 5 pro. No first person mode in shooting or while driving. ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "579315eb-34bc-4724-aa94-14b848cec24c",
+    "author": "JVR223",
+    "score": 10,
+    "date": "2024-03-27",
+    "quote": "The story is great. It lived up to the first one. The combat is fun and challenging. The visuals are amazing",
+    "platform": "PlayStation 5",
+    "game_slug": "dragons-dogma-2",
+    "game_title": "Dragon's Dogma 2"
+  },
+  {
+    "id": "04737635-e414-4425-a25c-f73791c9de93",
+    "author": "JVR223",
+    "score": 10,
+    "date": "2023-09-10",
+    "quote": "It really is skyrim in space... great exploration, great story, and overall fun. The only downside are the graphics",
+    "platform": "PC",
+    "game_slug": "starfield",
+    "game_title": "Starfield"
+  },
+  {
+    "id": "ed1a16c1-090f-4f6a-bce7-b8a984334857",
+    "author": "JVR223",
+    "score": 10,
+    "date": "2023-09-10",
+    "quote": "It really is skyrim in space... great exploration, great story, and overall fun. The only downside are the graphics.",
+    "platform": "Xbox Series X",
+    "game_slug": "starfield",
+    "game_title": "Starfield"
+  }
+]

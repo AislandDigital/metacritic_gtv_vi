@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1dfd8606-ddeb-49c0-82dd-99d293432bd8",
+    "author": "Fractalius",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "Some games entertain you. Others impress you. And then, once in a generation, a game comes along that changes what you believe video games can be.\n\nOcarina of Time is one of those games.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "2bac0fdf-c8a2-4498-834b-684e1c792415",
+    "author": "Fractalius",
+    "score": 2,
+    "date": "2026-11-20",
+    "quote": "Rockstar has built an extraordinary world. I'm just not convinced they've built an equally extraordinary game. beneath all that money, it's still just GTA.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "75d11d7e-adbe-4b10-b2a6-24d168cd63a5",
+    "author": "Fractalius",
+    "score": 10,
+    "date": "2025-12-07",
+    "quote": "I honestly don't understand the critics, this game is fun and any fans of the sage will enjoy!",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "metroid-prime-4-beyond",
+    "game_title": "Metroid Prime 4: Beyond"
+  },
+  {
+    "id": "d5c176f4-0650-4ed7-a7aa-5d8c271baa4c",
+    "author": "Fractalius",
+    "score": 10,
+    "date": "2024-09-27",
+    "quote": "I knew the game was great when I played the demo, the final version is everything I expected!",
+    "platform": "Nintendo Switch",
+    "game_slug": "iron-meat",
+    "game_title": "Iron Meat"
+  },
+  {
+    "id": "1eb4c2b2-2f02-4a3e-b8de-29fb5906b209",
+    "author": "Fractalius",
+    "score": 10,
+    "date": "2023-10-22",
+    "quote": "Some gameplay mechanics from Rayman Legend, this game really delivers what we expect from a Mario in 2D! I'm also amazed by the graphics. Maybe the music is a bit behind, as it's not as catchy as some of the classic Marios, but still very nice. Overall, it's a 9.5.",
+    "platform": "Nintendo Switch",
+    "game_slug": "super-mario-bros-wonder",
+    "game_title": "Super Mario Bros. Wonder"
+  }
+]

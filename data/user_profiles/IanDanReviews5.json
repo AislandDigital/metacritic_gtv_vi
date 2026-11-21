@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a719901b-ff73-45c5-9575-38cf99c7e941",
+    "author": "IanDanReviews5",
+    "score": 8,
+    "date": "2026-11-21",
+    "quote": "The game delivers an incredibly entertaining experience, thanks to its versatile combat mechanics and well-designed late-game and post-game challenges. These elements provide more than enough incentive to keep players engaged while making its shortcomings easier to overlook.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "splatoon-raiders",
+    "game_title": "Splatoon Raiders"
+  },
+  {
+    "id": "662f530a-6914-4919-aa64-b26eabba1180",
+    "author": "IanDanReviews5",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The game introduced an unconventional combat system that proved to be a refreshing change of pace. However, it is its heartfelt storytelling that ultimately makes it a memorable experience, one that will stay with players like myself for years to come.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "pragmata",
+    "game_title": "PRAGMATA"
+  },
+  {
+    "id": "983a1a61-1b20-40e4-a26a-5bc1d2d263a1",
+    "author": "IanDanReviews5",
+    "score": 9,
+    "date": "2026-11-21",
+    "quote": "My second-favorite entry in the series, behind RE4. Requiem strikes an excellent balance between action and horror, allowing both protagonists to shine in their respective moments. Despite its relatively short runtime, it delivers a compelling and well-paced experience.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "resident-evil-requiem",
+    "game_title": "Resident Evil Requiem"
+  },
+  {
+    "id": "bbf42013-e4a2-4119-a3e3-7c883cc2f95c",
+    "author": "IanDanReviews5",
+    "score": 8,
+    "date": "2026-11-21",
+    "quote": "Another impressive entry from Capcom. Onimusha’s deliberate combat mechanics, engaging characters, and entertaining boss encounters make for a compelling experience, more than compensating for its mediocre side quests and somewhat repetitive gameplay loop.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "onimusha-way-of-the-sword",
+    "game_title": "Onimusha: Way of the Sword"
+  },
+  {
+    "id": "181b43d8-c4c8-49c5-8ade-d0432bb57d08",
+    "author": "IanDanReviews5",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "I approached this game without the benefit of nostalgia, having never experienced its original N64 or 3DS versions, yet I was genuinely blown away by the level of care and attention Nintendo has put into it. Despite its relatively modest scale, every area is brimming with intricate details, hidden discoveries, and engaging puzzles. The game respects your time, never overstaying its welcome, while allowing you to fully appreciate everything it has to offer within a tightly paced 20-plus-hour experience.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "a50edf71-a803-44a3-b16f-bd0714fcd6f8",
+    "author": "IanDanReviews5",
+    "score": 3,
+    "date": "2026-11-21",
+    "quote": "Perhaps my expectations were set too high by all the hype surrounding this game. However, having experienced it firsthand, I can genuinely say that it feels like a step backward for the series. Its breathtaking visuals are undermined by an unstable frame rate and occasional technical glitches. The storytelling feels unevenly paced, while the already tedious fetch quests and repetitive chores have become even more prominent. The sense of freedom that once defined the franchise also feels significantly restricted.Simply put, I expected innovation, but what I experienced was limitation. Despite its impressive presentation, this hardly feels like a GTA game.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

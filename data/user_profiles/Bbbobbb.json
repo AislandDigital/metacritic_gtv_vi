@@ -1,0 +1,32 @@
+[
+  {
+    "id": "a1353b2a-dc12-4cf3-9901-fb5c41f06bc9",
+    "author": "Bbbobbb",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "One of the best smash games out there, its great to play with friends and family.",
+    "platform": "Nintendo Switch",
+    "game_slug": "super-smash-bros-ultimate",
+    "game_title": "Super Smash Bros. Ultimate"
+  },
+  {
+    "id": "6c3bebc9-3010-45ab-919d-f8a11a458c91",
+    "author": "Bbbobbb",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "One of the best games ever made and the graphics are so good. I just love it so much ",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "db6dde5b-5dc3-416f-9afb-9817e50a2141",
+    "author": "Bbbobbb",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Not worth the wait, it’s called grand theft auto but you can’t even grand theft auto, save your money",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

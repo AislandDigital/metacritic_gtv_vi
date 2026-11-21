@@ -1,0 +1,96 @@
+{
+  "snapshot_note": "Profiles of rival-match accounts (GTA<5↔Zelda10 and Zelda<5↔GTA10), scraped 2026-11-21.",
+  "gta_low_zelda_10": {
+    "label": "GTA <5 → Zelda 10",
+    "direction": "gta_low_zelda_10",
+    "authors": 1386,
+    "with_profile": 1386,
+    "games_per_account": {
+      "median": 2.0,
+      "mean": 3.42,
+      "min": 1,
+      "max": 154
+    },
+    "distribution": {
+      "1": 2,
+      "2": 858,
+      "3-5": 398,
+      "6-10": 86,
+      "11-25": 34,
+      "26+": 8
+    },
+    "pct_distribution": {
+      "1": 0.1,
+      "2": 61.9,
+      "3-5": 28.7,
+      "6-10": 6.2,
+      "11-25": 2.5,
+      "26+": 0.6
+    },
+    "only_gta_and_oot2026": 860,
+    "pct_only_gta_and_oot2026": 62.0,
+    "pct_at_most_2_games": 62.0
+  },
+  "zelda_low_gta_10": {
+    "label": "Zelda <5 → GTA 10",
+    "direction": "zelda_low_gta_10",
+    "authors": 490,
+    "with_profile": 490,
+    "games_per_account": {
+      "median": 2.0,
+      "mean": 3.12,
+      "min": 0,
+      "max": 38
+    },
+    "distribution": {
+      "1": 6,
+      "2": 315,
+      "3-5": 129,
+      "6-10": 25,
+      "11-25": 11,
+      "26+": 4
+    },
+    "pct_distribution": {
+      "1": 1.2,
+      "2": 64.3,
+      "3-5": 26.3,
+      "6-10": 5.1,
+      "11-25": 2.2,
+      "26+": 0.8
+    },
+    "only_gta_and_oot2026": 321,
+    "pct_only_gta_and_oot2026": 65.5,
+    "pct_at_most_2_games": 65.5
+  },
+  "all_rival_matches": {
+    "label": "union",
+    "direction": "all",
+    "authors": 1876,
+    "with_profile": 1876,
+    "games_per_account": {
+      "median": 2.0,
+      "mean": 3.34,
+      "min": 0,
+      "max": 154
+    },
+    "distribution": {
+      "1": 8,
+      "2": 1173,
+      "3-5": 527,
+      "6-10": 111,
+      "11-25": 45,
+      "26+": 12
+    },
+    "pct_distribution": {
+      "1": 0.4,
+      "2": 62.5,
+      "3-5": 28.1,
+      "6-10": 5.9,
+      "11-25": 2.4,
+      "26+": 0.6
+    },
+    "only_gta_and_oot2026": 1181,
+    "pct_only_gta_and_oot2026": 63.0,
+    "pct_at_most_2_games": 63.0
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "04fbe07c-ba01-4f5f-ad8b-a063319c8de4",
+    "author": "AlexCoen",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Beautiful game! An interesting plot, beautiful graphics, and engaging gameplay!",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "b9a1a002-6cf5-4294-b86a-df0bc25b11b2",
+    "author": "AlexCoen",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "It’s like some kind of  Sims simulator. Playing at 30 fps is a rough experience. The morality/reputation mechanic doesn’t fit  GTA. The protagonist lacks charisma. There isn’t a single mission in GTA 6 that’s better than the worst heist in GTA 5.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

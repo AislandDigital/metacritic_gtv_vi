@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2c269bb2-ad75-4d06-8c12-11b428ae26c2",
+    "author": "Jrok",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "Jogo ótimo! Gráficos ótimos, história ótima, padrão Rockstar! Jogabilidade ótima!!! ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "279f0d75-7e2f-474c-b103-b4d38b954601",
+    "author": "Jrok",
+    "score": 0,
+    "date": "2026-11-08",
+    "quote": "O jogo está bonito, é uma ótima experiência, mas está muito igual ao original, poderiam ter mudado algumas coisas, e está muito fácil!!! Muito mais fácil que o original! Mas vale cada centavo, só não nota maior que 5!! ! ",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "cf4de2e3-c90f-40dd-8590-4cb594112b18",
+    "author": "Jrok",
+    "score": 10,
+    "date": "2024-10-30",
+    "quote": "COD perfeito, BO nunca decepciona! Jogo fantástico, campanha, MP, Zumbis, jogabilidade, gráficos, tudo perfeit!",
+    "platform": "Xbox Series X",
+    "game_slug": "call-of-duty-black-ops-6",
+    "game_title": "Call of Duty: Black Ops 6"
+  },
+  {
+    "id": "a81d8496-9d6b-43ec-ae8e-324ffcf98ff0",
+    "author": "Jrok",
+    "score": 0,
+    "date": "2024-08-27",
+    "quote": "Muitos bugs e gráficos borrados! Quando sair uma correção, avaliarei novament!",
+    "platform": "PlayStation 5",
+    "game_slug": "black-myth-wukong",
+    "game_title": "Black Myth: Wukong"
+  }
+]

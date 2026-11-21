@@ -1,0 +1,32 @@
+[
+  {
+    "id": "b7099bc2-55f9-4a67-861a-4c41fadcad18",
+    "author": "Felipe_xero",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "El mejor juego de la historia por lejos, grandes mecánicas que sentaron las bases de los juegos 3D de la actualidad, historia increíble que se volvió leyenda.\n ",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "12ed076c-86e4-4058-9f46-8f57887e9280",
+    "author": "Felipe_xero",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "El mejor juego de la historia llevado a la perfección, mi única queja es que no agregaron más contenido como un templo extra o alguna misión secundaría nueva, supongo que Nintendo quería respetar el original.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "c6144e7b-4421-4dde-9aa9-5d062dc41707",
+    "author": "Felipe_xero",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "Este juego es el Mc Donalds del mundo de los videojuegos, no aporta nada nuevo a la industria, está totalmente sobre valorado.\nNo puedo creer que gente esperó 13 años para algo tan mediocre lleno de bugs, misiones aburridas, y una historia aburrida y sin alma.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

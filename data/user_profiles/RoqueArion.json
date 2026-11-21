@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1d92cb48-83c6-474c-bd76-7a7c63857678",
+    "author": "RoqueArion",
+    "score": 10,
+    "date": "2026-11-09",
+    "quote": "Sin duda es el mejor juego de todos los tiempos, y verlo con gráficos de esta calidad lo hace aún mejor. De joven no tuve la consola para jugar el original, pero hoy como adulto tengo la oportunidad de darme este gusto. Es una experiencia perfecta de principio a fin; tanto así que, al llegar a los créditos, te deja con ese clásico vacío de no saber qué hacer ahora que lo terminaste.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "7e213055-d252-4a5c-be7f-9f455e7f8853",
+    "author": "RoqueArion",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "El rendimiento técnico es muy deficiente: incluso en las consolas más potentes del mercado apenas llega a 30 FPS y sufre caídas constantes, además de estar plagado de bugs. Para evitar que el juego colapse, tuvieron que recortar y desactivar varias opciones que, al habilitarse, desploman el rendimiento a 15 FPS durante las escenas de mayor acción. Al final, la esencia de un GTA es el caos y el frenesí, no actividades secundarias como pintar casas o reparar muebles, pero el juego ni siquiera es capaz de sostener lo principal.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1e2dc265-eb86-45dc-b96c-0f0b1be98749",
+    "author": "CarlosLopez10",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "El juego es magnifico tiene la jugabilidad impresionante y para los jugadores.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "3c8e5790-11f1-4ff4-b2ca-c14c78ab6da7",
+    "author": "CarlosLopez10",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "El mejor juego de todos los tiempos maravilloso. Jugabilidad magnífica el juego tiene unos gráficos brutales.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "29dbd2bf-8132-4e96-8581-b91bb3a33fed",
+    "author": "CarlosLopez10",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "El juego es bueno pero tiene muchos bugs y es muy repetitivo la verdad. Y también el modo historia es aburrido no tiene los gráficos mejorados y tampoco no tiene 60 fps lastima.F",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

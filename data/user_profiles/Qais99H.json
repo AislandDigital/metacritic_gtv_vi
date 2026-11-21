@@ -1,0 +1,62 @@
+[
+  {
+    "id": "8769078a-e623-400a-955b-b61c5ebc4c13",
+    "author": "Qais99H",
+    "score": 8,
+    "date": "2026-11-21",
+    "quote": "Fast, stylish, and super satisfying combat. Boss fights are intense and rewarding, even if the story is somewhat predictable",
+    "platform": "PC",
+    "game_slug": "phantom-blade-zero",
+    "game_title": "Phantom Blade Zero"
+  },
+  {
+    "id": "8f53f432-5429-48e1-8c97-f896f563148a",
+    "author": "Qais99H",
+    "score": 8,
+    "date": "2026-11-21",
+    "quote": "A fun spy thriller with great stealth mechanics from the Hitman devs. Some missions feel a little repetitive, but it captures the James Bond vibe really well",
+    "platform": "PlayStation 5",
+    "game_slug": "007-first-light",
+    "game_title": "007 First Light"
+  },
+  {
+    "id": "5da6f57e-4ae8-4b76-a129-f925b473ba22",
+    "author": "Qais99H",
+    "score": 9,
+    "date": "2026-11-21",
+    "quote": "Stunning graphics and an amazing open-world map in Japan. The car roster and driving physics are top-notch, easily the best racing game of the year",
+    "platform": "Xbox Series X",
+    "game_slug": "forza-horizon-6",
+    "game_title": "Forza Horizon 6"
+  },
+  {
+    "id": "bfe6d99b-a165-4fee-93a1-982e2ce7844a",
+    "author": "Qais99H",
+    "score": 8,
+    "date": "2026-11-21",
+    "quote": "Great atmosphere and a strong return to survival horror roots with Leon. The pacing slows down a bit in the middle, but overall a very solid entry in the series",
+    "platform": "PlayStation 5",
+    "game_slug": "resident-evil-requiem",
+    "game_title": "Resident Evil Requiem"
+  },
+  {
+    "id": "4a5354eb-17e9-4067-af98-6d6071a50786",
+    "author": "Qais99H",
+    "score": 2,
+    "date": "2026-11-21",
+    "quote": "Selling a 1998 game at full price with a fresh coat of paint doesn't make it a modern masterpiece. Beneath the updated visuals, the game design is painfully outdated, linear, and repetitive. Nostalgia is doing all the heavy lifting here",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "b9598fef-9951-4f25-a28b-d0dfc998daf5",
+    "author": "Qais99H",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "An absolute masterpiece that sets a new standard for open-world games. The level of detail in Leonida is breathtaking, the story and characters are gripping from start to finish, and the gameplay feels smoother and more immersive than anything we've ever seen. Easily the Game of the Year",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

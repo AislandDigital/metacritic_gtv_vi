@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1751d47d-51a9-43c1-b697-f7f226bc9b19",
+    "author": "MetaNJ52",
+    "score": 4,
+    "date": "2026-11-21",
+    "quote": "Graphically, the game is unbelievable! Technical performance….’little lacking. The frame rate needs to be a consistent 30 FPS, not a “targeted” frame rate.",
+    "platform": "Xbox Series X",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "736ac1a8-b340-4697-a284-aee247668efc",
+    "author": "MetaNJ52",
+    "score": 10,
+    "date": "2026-11-07",
+    "quote": "No words can describe just how good this timeless remake is! Nintendo knocked it out of the park by a long mile! ",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "7a65504f-3967-460f-ae60-a79fae9dbd4d",
+    "author": "MetaNJ52",
+    "score": 10,
+    "date": "2024-12-06",
+    "quote": "Same as the Nintendo Switch version, but with better graphics. The graphical upgrade is a real improvement to showcase the beauty of each Star Wars location.",
+    "platform": "PlayStation 5",
+    "game_slug": "lego-star-wars-the-skywalker-saga",
+    "game_title": "LEGO Star Wars: The Skywalker Saga"
+  },
+  {
+    "id": "7eec7b84-9fc7-4401-9006-1adf6f134303",
+    "author": "MetaNJ52",
+    "score": 8,
+    "date": "2024-12-06",
+    "quote": "This is a really good Lego version of the Skywalker Saga. The worlds are so full of life and the characters are whimsical and very fun to play. I enjoyed collecting all of the Kyber Bricks and playing through each of the episodic adventures.",
+    "platform": "Nintendo Switch",
+    "game_slug": "lego-star-wars-the-skywalker-saga",
+    "game_title": "LEGO Star Wars: The Skywalker Saga"
+  },
+  {
+    "id": "9c496d0f-120c-4862-bb9e-874521d8032a",
+    "author": "MetaNJ52",
+    "score": 9,
+    "date": "2024-11-10",
+    "quote": "I am thoroughly enjoying this remaster. The Series S version of this game is amazing and I really appreciate how the console handles this game.  Shadow controls amazingly well, and each of the levels are very well – designed. I made a slight error on Kingdom Valley: Act One, and was able to course correct.",
+    "platform": "Xbox Series X",
+    "game_slug": "sonic-x-shadow-generations",
+    "game_title": "Sonic x Shadow Generations"
+  }
+]

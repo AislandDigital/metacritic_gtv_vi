@@ -1,0 +1,42 @@
+[
+  {
+    "id": "e899e5ab-92ec-40e5-808e-708ac032e84c",
+    "author": "OURiiNOS",
+    "score": 9,
+    "date": "2026-11-21",
+    "quote": "One of the most enjoyable games I’ve tried this year, and it’s well worth buying.",
+    "platform": "PC",
+    "game_slug": "phantom-blade-zero",
+    "game_title": "Phantom Blade Zero"
+  },
+  {
+    "id": "a4ecf6e8-328c-4a09-a7a7-f5df7e837ac9",
+    "author": "OURiiNOS",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "One of the most enjoyable games I’ve tried this year, and it’s well worth buying.",
+    "platform": "PlayStation 5",
+    "game_slug": "onimusha-way-of-the-sword",
+    "game_title": "Onimusha: Way of the Sword"
+  },
+  {
+    "id": "6faf1007-83ec-4dfa-92ba-f1289395b552",
+    "author": "OURiiNOS",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "One of the most enjoyable games I’ve tried this year, and it’s well worth buying.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "d660586c-c2ca-4df3-8553-0c53505ed881",
+    "author": "OURiiNOS",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "One of the absolute worst stories I have ever seen; there isn’t a single thing in it that’s even remotely exciting.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

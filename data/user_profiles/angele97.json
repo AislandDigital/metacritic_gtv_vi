@@ -1,0 +1,42 @@
+[
+  {
+    "id": "89f2ca80-70e4-43b8-b0a7-baeda1b17a22",
+    "author": "angele97",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "Que juego más malo y flojo, lo hicieron sin ganas, solo por vender algo y ya.",
+    "platform": "PlayStation 5",
+    "game_slug": "marvels-wolverine",
+    "game_title": "Marvel's Wolverine"
+  },
+  {
+    "id": "e6516b84-4f8c-45ba-a609-c43b358be49a",
+    "author": "angele97",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "Lamentable que después de tanto éxito de esta franquicia, se haya arruinado con este juego que era el más esperado, muchas promesas de ser el mejor y no resulto ser así, perdió la esencia del GTA.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "ec54c84f-c04c-425d-9dd0-802e3833ec2a",
+    "author": "angele97",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "El mejor juego que he jugado en mi vida, años jugandolo y no me canso, una maravilla.",
+    "platform": "PC",
+    "game_slug": "world-of-warcraft-forever",
+    "game_title": "World of Warcraft: Forever"
+  },
+  {
+    "id": "cc65b37f-8c30-48f5-a017-fa32a0966714",
+    "author": "angele97",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Una verdadera obra maestra este juego desde antes, ahora mejor de lo que ya era.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  }
+]

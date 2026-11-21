@@ -1,0 +1,32 @@
+[
+  {
+    "id": "958b7a34-46fd-49da-a4a3-95cddd4ccb78",
+    "author": "chrisgvidal",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Es sin duda el videojuego con mundo abierto mejor desarrollado, es sumamente inmersivo, provoca que te olvides de todo a tu alrededor y el tiempo, el mejor videojuego de todos los tiempos sin duda.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "c4c1f7eb-f473-41fd-bfd0-e5d95b5d8267",
+    "author": "chrisgvidal",
+    "score": 0,
+    "date": "2026-11-08",
+    "quote": "Un juego muy infantil con mecanicas obsoletas y nada inivadoras me hace sentir como en la pelicula de shrek",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "9d245c05-0fb5-45dd-8872-398086c1c8ea",
+    "author": "chrisgvidal",
+    "score": 0,
+    "date": "2026-11-05",
+    "quote": "No me gustaron las mecanicas de este juego se que es un mundo abiero pero te pierdes",
+    "platform": "Nintendo Switch",
+    "game_slug": "the-legend-of-zelda-tears-of-the-kingdom",
+    "game_title": "The Legend of Zelda: Tears of the Kingdom"
+  }
+]

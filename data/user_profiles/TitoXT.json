@@ -1,0 +1,82 @@
+[
+  {
+    "id": "3f82661e-ed9e-4c17-b287-a45f7f62f6ac",
+    "author": "TitoXT",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "Decepcionante! Pésimo rendimiento, caídas de FPS, lleno de bugs, mala jugabilidad, historia aburrida, demasiadas cinemáticas, después de jugar varias horas ya no tengo ganas de jugarlo. Tanto esperar para esto?\nNo hagan caso a las calificaciones de la prensa vendida!",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "4d2fb0e4-07b7-4b26-acde-7f4198d28397",
+    "author": "TitoXT",
+    "score": 10,
+    "date": "2026-11-11",
+    "quote": "El mejor juego de la historia, ahora también el mejor remake de la historia!",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "24699dc2-bd98-4b01-b8d3-3dde82435345",
+    "author": "TitoXT",
+    "score": 0,
+    "date": "2026-10-25",
+    "quote": "Una porquería de juego, el peor juego de Contra. No lo recomiendo para nada.",
+    "platform": "Nintendo Switch",
+    "game_slug": "contra-rogue-corps",
+    "game_title": "Contra: Rogue Corps"
+  },
+  {
+    "id": "103e274f-5cce-400c-8028-311d5f673970",
+    "author": "TitoXT",
+    "score": 10,
+    "date": "2026-09-29",
+    "quote": "Uno de los mejores juegos tipo Metroidvania. El mejor juego de Ubisoft. Para Switch 2 sería bueno alguna actualización para mejorar el rendimiento y los gráficos, ya que corre casi igual en Switch 1 y en Switch 2. Muy recomendado, pero más recomendado en PC.",
+    "platform": "Nintendo Switch",
+    "game_slug": "prince-of-persia-the-lost-crown",
+    "game_title": "Prince of Persia: The Lost Crown"
+  },
+  {
+    "id": "bcafc980-0b44-47d1-bad2-e0a9a5c7a85f",
+    "author": "TitoXT",
+    "score": 10,
+    "date": "2026-09-29",
+    "quote": "Uno de los mejores juegos tipo Metroidvania de todos los tiempos. El mejor juego de Ubisoft. Una joya!",
+    "platform": "PC",
+    "game_slug": "prince-of-persia-the-lost-crown",
+    "game_title": "Prince of Persia: The Lost Crown"
+  },
+  {
+    "id": "5e028607-d431-401a-9414-1cca3ab5424a",
+    "author": "TitoXT",
+    "score": 10,
+    "date": "2023-12-15",
+    "quote": "Simplemente uno de los mejores videojuegos de la historia. Como siempre, Nintendo enseñándole al mundo como hacer obras maestras!",
+    "platform": "Nintendo Switch",
+    "game_slug": "the-legend-of-zelda-tears-of-the-kingdom",
+    "game_title": "The Legend of Zelda: Tears of the Kingdom"
+  },
+  {
+    "id": "744fa0e4-7ce2-41c4-ba7c-c2e47ee84912",
+    "author": "TitoXT",
+    "score": 10,
+    "date": "2023-10-25",
+    "quote": "Una vez más, Nintendo enseñándole al mundo como hacer videojuegos!",
+    "platform": "Nintendo Switch",
+    "game_slug": "super-mario-bros-wonder",
+    "game_title": "Super Mario Bros. Wonder"
+  },
+  {
+    "id": "185ec2fe-6efd-419f-bd41-2276ac01ced6",
+    "author": "TitoXT",
+    "score": 10,
+    "date": "2016-06-24",
+    "quote": "Simplemente PERFECTO!\r\n\r\n- Gráficos perfectos!\r\n- Música perfecta!\r\n- Jugabilidad perfecta!\r\n- Juego en línea totalmente gratuito!\r\n- Pistas increíblemente geniales!\r\n- Diversión garantizada!\r\n\r\nEl mejor Mario Kart de todos!",
+    "platform": "Wii U",
+    "game_slug": "mario-kart-8",
+    "game_title": "Mario Kart 8"
+  }
+]

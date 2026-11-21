@@ -1,0 +1,42 @@
+[
+  {
+    "id": "80fabe34-5fc2-4ea7-9e98-a63de4fb4c32",
+    "author": "RabidCactus3233",
+    "score": 9,
+    "date": "2026-11-21",
+    "quote": "El juego es una obra maestra, el único pero que le puedo sacar es la falta de contenido ",
+    "platform": "PlayStation 5",
+    "game_slug": "resident-evil-requiem",
+    "game_title": "Resident Evil Requiem"
+  },
+  {
+    "id": "4437a567-e86b-4eda-9132-d29058691878",
+    "author": "RabidCactus3233",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "El mejor Zelda que he jugado nunca, es increíble como han añadido aspectos oscuros en la trama de un juego con mucho color ",
+    "platform": "Wii",
+    "game_slug": "the-legend-of-zelda-twilight-princess",
+    "game_title": "The Legend of Zelda: Twilight Princess"
+  },
+  {
+    "id": "c7e10f55-572a-41ca-96cb-35fedfb511f1",
+    "author": "RabidCactus3233",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Gráficos increíbles, una ambientación y banda sonora digna de obra maestra y las misiones divertidas, es como el original, pero mejor",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "ec8cd5ab-dc88-46c1-b4bc-2c7322ed22b2",
+    "author": "RabidCactus3233",
+    "score": 3,
+    "date": "2026-11-21",
+    "quote": "Misiones repetitivas y monótonas, lleno de bugs y a 30fps con 13 años de desarrollo, el robo del año ponerle un 99",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

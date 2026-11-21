@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1a77e273-b3d5-4d35-9119-7b97d9460012",
+    "author": "chanran",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Remake of Best game. No one will be able to catch up to the legend Nintendo has built. Forever. ",
+    "platform": "3DS",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-3d",
+    "game_title": "The Legend of Zelda: Ocarina of Time 3D"
+  },
+  {
+    "id": "b9ab9fa5-3900-43bb-be7e-9c11ea477d1a",
+    "author": "chanran",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The best game of all time. No one will be able to catch up to the legend Nintendo has built.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "4f7ff90e-af78-4219-bfed-60fca9a37b24",
+    "author": "chanran",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The best game of all time. No one will be able to catch up to the legend Nintendo has built. Every moment of play was like an art and a beautiful myth. ",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "67f03ffd-8408-472f-ad8b-2d546eb3d63d",
+    "author": "chanran",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "Numerous bugs and boring story. No artistry or emotional impact. It is excessively violent.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "c5b99d49-bad3-47b5-9705-3e1877620316",
+    "author": "Erikfholguin27",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "El mejor juego para nintendo Switch por muchos años, con una historia y una música únicas ",
+    "platform": "Nintendo Switch",
+    "game_slug": "hollow-knight",
+    "game_title": "Hollow Knight"
+  },
+  {
+    "id": "e4db0cdd-c75f-4808-83e5-794aff09f980",
+    "author": "Erikfholguin27",
+    "score": 9,
+    "date": "2026-11-21",
+    "quote": "Muy hermoso juego, casi tan bueno como el caballerito, espero que los DLC le ayuden a tener más contenido bueno",
+    "platform": "PC",
+    "game_slug": "hollow-knight-silksong",
+    "game_title": "Hollow Knight: Silksong"
+  },
+  {
+    "id": "264307ba-1161-4e14-b739-add0f73a5211",
+    "author": "Erikfholguin27",
+    "score": 4,
+    "date": "2026-11-21",
+    "quote": "No está mal. Si bien es una gran propuesta de juego, tiene muchos bajones de fps y de bugs.  Probablemente para el PlayStation 6 y el nuevo Xbox será mucho mejor.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "31f61263-1c1a-40d4-8d5c-90653684efe9",
+    "author": "Erikfholguin27",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Me hizo llorar como un niño pequeño. Pude disfrutar de lo que hace casi 30 años me tocó disfrutar al ver a mi hermano mayor jugarlo. La música es increíble, las físicas, los detalles... simplemente el mejor remake de la historia ",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  }
+]

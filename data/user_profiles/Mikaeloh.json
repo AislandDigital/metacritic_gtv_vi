@@ -1,0 +1,32 @@
+[
+  {
+    "id": "69d21cef-7d9d-4811-a622-9e5c6bbf34fe",
+    "author": "Mikaeloh",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "El videojuego que marcó un antes y un después más grande en toda la industria.\n\nEs el Don Quijote de los videojuegos.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "a290c23c-6d65-4970-87b4-0bf2ad90b2df",
+    "author": "Mikaeloh",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "Simplemente el mejor videojuego de toda la historia. No hay mucho más que añadir.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "52d1107d-645c-48b3-8633-b69570a14af3",
+    "author": "Mikaeloh",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "13 años para una tremenda decepción. No tiene absolutamente nada más que solo gráficos. Horrible.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

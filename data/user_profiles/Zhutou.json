@@ -1,0 +1,42 @@
+[
+  {
+    "id": "7d3f0eb7-1887-47d7-aa0d-5f2ee75b198a",
+    "author": "Zhutou",
+    "score": 9,
+    "date": "2026-11-21",
+    "quote": "GTAIV is a great game, it revolutionize physics in gaming at the time and the story was perfect, the performance was quite bad on PC at the time and it s why I give it a 9",
+    "platform": "PC",
+    "game_slug": "grand-theft-auto-iv",
+    "game_title": "Grand Theft Auto IV"
+  },
+  {
+    "id": "89bc1268-2069-40eb-ba08-0f8d2a3dab03",
+    "author": "Zhutou",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "On the remake I gave a 10 to compensate for GTA6 fanboi review bombing it. Here I give my honest to god opinion. OOT deserve a 10 in 1998, It was purely revolutionary.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "4af3c6b8-c253-4150-92ea-ef48959092b0",
+    "author": "Zhutou",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "I believe the game has been simplified too much. Honestly I would give it a 8 or a 9 at most (everything else is still perfect) but Zelda is getting review bombed so I m doing my part.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "4c5ca96c-a287-464d-a80b-77abd9bcbcbe",
+    "author": "Zhutou",
+    "score": 4,
+    "date": "2026-11-21",
+    "quote": "Great graphics and physics, but the story, the writing, the rythme, the gameplay are all pure slop. I loved GTA 4 and 5, it's not an antiGTA thing",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

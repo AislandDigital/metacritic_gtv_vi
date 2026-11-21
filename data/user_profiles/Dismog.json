@@ -1,0 +1,72 @@
+[
+  {
+    "id": "703252e6-b0e1-4200-b19f-a52d8886abbb",
+    "author": "Dismog",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Meilleur jeu d'aventure entre amis, on y fait souvent une longue pause mais on y revient toujours parce que c'est la base ! ",
+    "platform": "PC",
+    "game_slug": "minecraft",
+    "game_title": "Minecraft"
+  },
+  {
+    "id": "3bd11e27-2b1e-42fc-a6df-ff2b0915966d",
+    "author": "Dismog",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Ce Tekken est révolutionnaire ! On s'amuse tant dessus, que ce soit en ligne ou avec des amis c'est génial",
+    "platform": "PlayStation 5",
+    "game_slug": "tekken-8",
+    "game_title": "Tekken 8"
+  },
+  {
+    "id": "a0a34b49-41ad-454d-8d45-300d0a99bb76",
+    "author": "Dismog",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Excellent jeu en équipe, on s'amuse énormément en plus d'une qualité assez remarquable pour un jeu gratuit ",
+    "platform": "PC",
+    "game_slug": "marvel-rivals",
+    "game_title": "Marvel Rivals"
+  },
+  {
+    "id": "25c01366-f58c-40ce-a308-57409cbe7139",
+    "author": "Dismog",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "De loin le meilleur jeu de son genre, c'est fou ce qu'on peut s'amuser avec des amis, il est intemporel ",
+    "platform": "Nintendo Switch",
+    "game_slug": "super-smash-bros-ultimate",
+    "game_title": "Super Smash Bros. Ultimate"
+  },
+  {
+    "id": "3e74008f-5c30-4998-963d-46be1108e4d4",
+    "author": "Dismog",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Super jeu de combat ! On y retrouve pas mal de nos héros préférés et même des méchants emblématiques, je kiffe \n",
+    "platform": "PlayStation 5",
+    "game_slug": "marvel-tokon-fighting-souls",
+    "game_title": "Marvel Tokon: Fighting Souls"
+  },
+  {
+    "id": "a3aaae9e-e98c-495f-9c9e-0bf30dc134bd",
+    "author": "Dismog",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Encore un remake, c'est décevant de faire ça au lieu de faire un nouveau jeu Zelda qui aurait été 100× mieux, je préfère jouer a autre chose ",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "2c47e6a3-cedf-425a-a189-d043214544cd",
+    "author": "Dismog",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "Le jeu est exceptionnel sur tous les plans, le monde ouvert est très bien exploité avec énormément de bâtiments visitables, les évènements secondaires sur l'île sont aussi très attrayant et si je parle du mode histoire général, les personnages sont très bien écrits et l'histoire est magnifique ! ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

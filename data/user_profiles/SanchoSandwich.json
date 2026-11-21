@@ -1,0 +1,52 @@
+[
+  {
+    "id": "96789776-bc42-42b7-b41c-2eccfb00c573",
+    "author": "SanchoSandwich",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The pinnacle of gameplay and art people unfortunately don’t enjoy reading nowadays leading to low ratings ",
+    "platform": "PC",
+    "game_slug": "elden-ring",
+    "game_title": "Elden Ring"
+  },
+  {
+    "id": "a60523da-4522-4e24-9491-a16af9886bd4",
+    "author": "SanchoSandwich",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The game is perfect the negative reviews are people who couldn’t get pass tree sentinel which you can walk right pass to do the easy dungeons up ahead those first two encounters set the tone for the game and there was a review that was a zero because said person said you needed to kill the boss to progress the story which is just incorrect but some people don’t think outside the box but that is fair",
+    "platform": "Xbox One",
+    "game_slug": "elden-ring",
+    "game_title": "Elden Ring"
+  },
+  {
+    "id": "c27c68ad-c4a4-47e4-8517-589ac539fcf5",
+    "author": "SanchoSandwich",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Does what was instead you load up the game look for items that synergize then defeat the final boss after day 3 if you fail try a new strat",
+    "platform": "PlayStation 5",
+    "game_slug": "elden-ring-nightreign",
+    "game_title": "Elden Ring Nightreign"
+  },
+  {
+    "id": "e1d3a6ca-93db-44da-b65b-de26a51c19ba",
+    "author": "SanchoSandwich",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Phenomenal, great pacing visuals and gameplay truly brought a tear to my eye when I completed it.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "281b6de3-c62f-459c-82bd-207f14c8596c",
+    "author": "SanchoSandwich",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "The game is good but extremely overhyped with the first chapter being slow and unnecessary with “optional” missions you do because the main mission is locked behind a timer. Performance is also terrible on all consoles ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

@@ -31,7 +31,9 @@ python scrape_and_analyze.py scrape-users --low-max 1
 python scrape_and_analyze.py analyze --low-max 4 --zelda-min 10
 ```
 
-Saídas: `data/analysis_report.json`, `data/hypothesis_matches.json`, `data/gta_vi_stats.json`.
+Saídas: `data/analysis_report.json`, `data/hypothesis_matches.json`, `data/gta_vi_stats.json`, `data/match_profile_stats.json`.
+
+Entre os matches rivalistas, ~**63%** das contas só avaliaram GTA VI + OoT remake (mediana **2** jogos) — ver `data/match_profile_stats.json`.
 
 ## Limitações
 

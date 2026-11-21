@@ -1,0 +1,72 @@
+[
+  {
+    "id": "13cc0c37-648f-4381-a63e-6411dc3eff8c",
+    "author": "DaXOwO4",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Las reviews de la prensa son una estafa!!! No reflejan la realidad del videojuego.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "9aaf9dc1-7eff-45de-b794-1cb03d37ab36",
+    "author": "DaXOwO4",
+    "score": 10,
+    "date": "2026-11-07",
+    "quote": "El mejor videojuego de la historia, no hay discusión, no tiene competencia ninguna. ",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "67eacc5c-11c0-4a72-b1e6-0cbb5913b4b3",
+    "author": "DaXOwO4",
+    "score": 10,
+    "date": "2025-09-07",
+    "quote": "Este juego es una joya, va a 4k 60fps y a 1080p 120hz, es bueno bonito y barato, lo compraré en físico y en digital.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "hollow-knight-silksong",
+    "game_title": "Hollow Knight: Silksong"
+  },
+  {
+    "id": "f812ad37-cf9e-4025-ba52-f2a426eeaf77",
+    "author": "DaXOwO4",
+    "score": 10,
+    "date": "2025-09-07",
+    "quote": "Bueno, bonito y barato, solo falta que salga en físico,  horas de diversión, no es para todo el mundo porque es bastante desafiante pero esa es la gracia de un metroidvania",
+    "platform": "Nintendo Switch",
+    "game_slug": "hollow-knight-silksong",
+    "game_title": "Hollow Knight: Silksong"
+  },
+  {
+    "id": "01ee6247-46ff-42bd-8008-837ab33ce3d2",
+    "author": "DaXOwO4",
+    "score": 0,
+    "date": "2025-09-07",
+    "quote": "Castaña historica, 0 trabajo, nula optimización, lo mismo pero con una capa de pintura barata",
+    "platform": "PlayStation 5",
+    "game_slug": "metal-gear-solid-delta-snake-eater",
+    "game_title": "Metal Gear Solid Delta: Snake Eater"
+  },
+  {
+    "id": "047aca31-3777-44dd-9be7-12244d17bc3c",
+    "author": "DaXOwO4",
+    "score": 10,
+    "date": "2025-07-23",
+    "quote": "Un videojuego que me ha maravillado, es una obra de arte. Por videojuegos como este los videojuegos son el 8º arte para mi, banda sonora brutal, gameplay espectacular, gráficos maravillosos, doblado a un montón de idiomas...decenas de horas de juego...",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "donkey-kong-bananza",
+    "game_title": "Donkey Kong Bananza"
+  },
+  {
+    "id": "0fb3f26a-7fae-4816-b7fb-c8ca90b9a6e1",
+    "author": "DaXOwO4",
+    "score": 10,
+    "date": "2024-04-29",
+    "quote": "Un juego espectacular, gran banda sonora, gran lore, jugabilidad impecable y un gran diseño pixelart 10/10, horas y horas de puro entretenimiento.",
+    "platform": "PlayStation 5",
+    "game_slug": "blasphemous-2",
+    "game_title": "Blasphemous 2"
+  }
+]

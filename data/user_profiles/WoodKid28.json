@@ -1,0 +1,42 @@
+[
+  {
+    "id": "0f5b316f-d46f-4c1f-8515-416f3917e8de",
+    "author": "WoodKid28",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "El mejor rpg por turnos que he jugado, es ingenioso y novedoso como lograron que la ambientación, música e historia de este juego fuesen tan atrapantes, un gusto poder disfrutar de este tipo de entregas ",
+    "platform": "PlayStation 5",
+    "game_slug": "clair-obscur-expedition-33",
+    "game_title": "Clair Obscur: Expedition 33"
+  },
+  {
+    "id": "245ec281-1173-47d5-aa5a-b70788f9381f",
+    "author": "WoodKid28",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Gráficos, historia, música, optimización en plataformas, es un juego bien logrado, que logra el cometido en ambas líneas de juego",
+    "platform": "PlayStation 5",
+    "game_slug": "resident-evil-requiem",
+    "game_title": "Resident Evil Requiem"
+  },
+  {
+    "id": "fba93a44-07ea-411d-953d-d176f9c076d7",
+    "author": "WoodKid28",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Nintendo hace juegos pensando en sus consumidores, sobre todo cuando se trata de Zelda, los gráficos, banda sonora, optimización 10/10",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "45746355-7d76-4b73-b625-632bc7c35c03",
+    "author": "WoodKid28",
+    "score": 4,
+    "date": "2026-11-21",
+    "quote": "Es un gran juego, pero lleno de fallos, con límitaciones como sus fps desde su salida, sin formato físico, la edición física es un chiste, hubiese esperado un año más o más incluso para que no saliera con estos problemas, es triste que las grandes empresas se enfoquen en números más que en sus consumidores ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

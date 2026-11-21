@@ -1,0 +1,42 @@
+[
+  {
+    "id": "f62ccdfc-a0e3-4903-af12-f55e50fb4434",
+    "author": "yoichi_yuki",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Muy buen juego, excelente jugabilidad, es muy divertido para pasar el rato.",
+    "platform": "PlayStation 5",
+    "game_slug": "barbie-rewind",
+    "game_title": "Barbie Rewind"
+  },
+  {
+    "id": "aa7f3bb6-386d-4060-8255-b1cef33c082f",
+    "author": "yoichi_yuki",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Gran juego, un gta muy completo y muy divertido aunque un juego viejo se disfruta desde el primer momento ",
+    "platform": "Xbox 360",
+    "game_slug": "grand-theft-auto-v",
+    "game_title": "Grand Theft Auto V"
+  },
+  {
+    "id": "e6e65a1b-13f2-4c37-a6de-95766c452f66",
+    "author": "yoichi_yuki",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "No jugué la versión del Nintendo 64, pero jugarlo con esta versión fue magico, el punto más fuerte para mí de este juego es su banda sonora, el uso de la ocarina y el micrófono es divertido, la jugabilidad es muy buena, gráficamente es el mejor juego que ah sacado Nintendo, me parece una excelente historia más que lo jugué por primera vez en esta versión.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "47a1286a-ce94-40d9-be7a-2b86d6393e74",
+    "author": "yoichi_yuki",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "El juego es muy bueno gráficamente, pero si tuve bajones de fps en momentos y presente algunos bugs, la jugabilidad está bien está buena, la historia la verdad desde mi punto de vista no es la mejor, los personajes no me parecen lo mejor.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

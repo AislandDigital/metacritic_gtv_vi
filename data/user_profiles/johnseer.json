@@ -1,0 +1,92 @@
+[
+  {
+    "id": "276a90f8-1d6e-492f-8f1a-80f1a830fdb0",
+    "author": "johnseer",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "Pésimo juego, se gastaron mucho presupuesto en comprar a la prensa e influencers, es lento, woke, con Bugs, mala historia.",
+    "platform": "Xbox Series X",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "a877427e-5914-48f0-a7f2-900447adff92",
+    "author": "johnseer",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "Pésimo juego, se gastaron mucho presupuesto en comprar a la prensa e influencers, es lento, woke, con Bugs, mala historia.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "351f0aba-d963-4c28-a1ab-4cdb01505cd0",
+    "author": "johnseer",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "Cátedra de como desarrollar un videojuego, artísticamente es sobresaliente.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "5f57101c-bd3d-4811-87e3-154b2859580a",
+    "author": "johnseer",
+    "score": 1,
+    "date": "2020-07-19",
+    "quote": "Boring Game, bad mecanics. The combat system need more details. Don't have a guide or map to progress.",
+    "platform": "PlayStation 4",
+    "game_slug": "ghost-of-tsushima",
+    "game_title": "Ghost of Tsushima"
+  },
+  {
+    "id": "c0072f9a-9b46-49c1-9e55-a8b4db77a86d",
+    "author": "johnseer",
+    "score": 10,
+    "date": "2020-07-19",
+    "quote": "Excelente juego de aventura con un sistema de combate diferente e innovador, tiene aspectos positivos que recuerdan a los juegos anteriores de la saga e implementa nuevas mecánicas.",
+    "platform": "Nintendo Switch",
+    "game_slug": "paper-mario-the-origami-king",
+    "game_title": "Paper Mario: The Origami King"
+  },
+  {
+    "id": "193496a8-632f-4686-824c-47fc0c827453",
+    "author": "johnseer",
+    "score": 10,
+    "date": "2019-11-15",
+    "quote": "Is the better Pokemon ever, have a lot of new things, and is possible to played portable and docking",
+    "platform": "Nintendo Switch",
+    "game_slug": "pokemon-sword",
+    "game_title": "Pokemon Sword"
+  },
+  {
+    "id": "754455ad-304a-4046-8a41-ab5a6ce18427",
+    "author": "johnseer",
+    "score": 10,
+    "date": "2018-12-07",
+    "quote": "It´s amazing game, is posible to play a lot of time with the aventure mode and the online.",
+    "platform": "Nintendo Switch",
+    "game_slug": "super-smash-bros-ultimate",
+    "game_title": "Super Smash Bros. Ultimate"
+  },
+  {
+    "id": "e74bef02-fbfa-466d-8a45-097cf82fac72",
+    "author": "johnseer",
+    "score": 10,
+    "date": "2018-07-13",
+    "quote": "Es un juego grandioso, diseñado con la formula que hace grande a un J-RPG, un juego que busca vender los mejor que puede ofrecer el genero con un estilo clásico, no hay innovación porque esa no es la intención del juego.",
+    "platform": "Nintendo Switch",
+    "game_slug": "octopath-traveler",
+    "game_title": "Octopath Traveler"
+  },
+  {
+    "id": "8832b08e-80a9-491d-9d6a-87fa0ae043a8",
+    "author": "johnseer",
+    "score": 10,
+    "date": "2018-05-03",
+    "quote": "The best game of all time, the game play is amazing, you always have something to do.",
+    "platform": "Nintendo Switch",
+    "game_slug": "the-legend-of-zelda-breath-of-the-wild",
+    "game_title": "The Legend of Zelda: Breath of the Wild"
+  }
+]

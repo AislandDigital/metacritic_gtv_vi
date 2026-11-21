@@ -1,0 +1,72 @@
+[
+  {
+    "id": "d378da68-1a7c-48c6-a005-e8bf4e5a4f79",
+    "author": "MasterMP",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Even on console, it's an absolute powerhouse 10/10! The last shooter to truly change the genre. A milestone in video game history. Still the best story ever told in a video game! The only area where Half-Life has the edge is gameplay.",
+    "platform": "Xbox 360",
+    "game_slug": "bioshock",
+    "game_title": "BioShock"
+  },
+  {
+    "id": "638dd21d-ac5e-4df5-b024-8abb08cfe9d1",
+    "author": "MasterMP",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "A milestone in video game history and still the greatest VR experience ever made. A leap in gameplay and immersion comparable to the transition from 2D to 3D with Super Mario 64. It feels like stepping straight into the Matrix, combined with the incredible gameplay that Half-Life is famous for 10/10!",
+    "platform": "PC",
+    "game_slug": "half-life-alyx",
+    "game_title": "Half-Life: Alyx"
+  },
+  {
+    "id": "8c317edf-b58a-46f9-9458-a8f5b3f7a2c7",
+    "author": "MasterMP",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The last shooter to truly change the genre. A milestone in video game history. Still the best story ever told in a video game! The only area where Half-Life has the edge is gameplay.",
+    "platform": "PC",
+    "game_slug": "bioshock",
+    "game_title": "BioShock"
+  },
+  {
+    "id": "6a9b191d-1a85-4e4a-bf96-59784c41d339",
+    "author": "MasterMP",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The second-greatest game of all time. The first place goes to Half-Life, with BioShock in third. Truly groundbreaking – even to this day",
+    "platform": "PC",
+    "game_slug": "half-life-2",
+    "game_title": "Half-Life 2"
+  },
+  {
+    "id": "eef7ac88-1ee6-4c6a-ab23-afd7ee59a72e",
+    "author": "MasterMP",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The greatest game of all time, followed by Half-Life 2 and BioShock. Currently on my 34th playthrough!",
+    "platform": "PC",
+    "game_slug": "half-life",
+    "game_title": "Half-Life"
+  },
+  {
+    "id": "265e17d0-a1c5-4ef3-bbe9-b73c45cfe3d2",
+    "author": "MasterMP",
+    "score": 2,
+    "date": "2026-11-21",
+    "quote": "Bugs, no German voice acting in 2026, and only 30 FPS. On top of that, nothing that genuinely pushes the genre forward or brings anything new to the table. If anyone can name one genuinely creative thing about this game – other than the fact that you play as a gangster couple – I'm all ears",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "514e03c8-f5a7-4df3-bf96-685e6a2a893c",
+    "author": "MasterMP",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "I never really liked the original because of its controls and camera system. For me, Twilight Princess had always been the best Zelda game. But this remake has completely changed my mind. It's the perfect example of how a remake can create an entirely new and much better gameplay experience. This is how you remake a classic: not just by improving the graphics, but by transforming the entire feel of the game. 10/10",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  }
+]

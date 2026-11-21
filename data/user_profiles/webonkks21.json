@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ccb83e43-30dd-43ed-8c0e-4af24b565312",
+    "author": "webonkks21",
+    "score": 2,
+    "date": "2026-11-21",
+    "quote": "Solo 30 fps para que ni la PS5 pro pueda mantener esos fps,no tengo nada para jugarlo,pero igual le pongo mala calificación por los bugs,no tener disco y los 30 fps.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "3867de06-5dc5-478e-bfb3-c3125740e92e",
+    "author": "webonkks21",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Simplemente hermoso,el mejor juego de todos los tiempos pero ahora en full HD 4K a 60 fps y lo más importante,en físico con su cartucho. Además lo puedo jugar en mi PC pero prefiero jugarlo en switch (cuando me la compré que será algún día)",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "edfe160e-2eb7-4e83-81a3-7a441abcff3e",
+    "author": "webonkks21",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Simplemente uno de los peaks más grandes de Nintendo y el que redefinió los videojuegos en 3D,sin este juego probablemente GTA no estaría en 3D o no tan bien,aunque muchos lo nieguen",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  }
+]

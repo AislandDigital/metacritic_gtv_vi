@@ -1,0 +1,52 @@
+[
+  {
+    "id": "4165ef93-f119-4d9f-8284-856db6f0f930",
+    "author": "Gambosaurio",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "GTA VI, el juego que necesitó una eternidad para demostrar que ahora puedes cometer delitos con mejores gráficos y reflejos más realistas.\n\nRockstar descubrió que si le pones un presupuesto de Hollywood, un mapa enorme y NPCs que respiran, la gente automáticamente lo considera una obra maestra.\n\nLo más impresionante no es el juego, sino cómo lograron convencer a toda una generación de que esperar más de una década para volver a robar autos es una experiencia revolucionaria.\nPero bueno... supongo que cuestionarlo es herejía, porque si tiene el logo de Rockstar, automáticamente es GOTY.\n\nEn conclusión: GTA VI está sobrevalorado.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "0ea4cb44-a2dd-46d8-b3e5-f69315d27c73",
+    "author": "Gambosaurio",
+    "score": 10,
+    "date": "2026-11-18",
+    "quote": "EL MEJOR JUEGO DE TODA LA HISTORIA BASICAMENTE.\n\nGRACIAS TLOZ POR VIVIR JEJEJE",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "154987b9-faab-4a60-94af-0e1c39cdf2ed",
+    "author": "Gambosaurio",
+    "score": 10,
+    "date": "2026-11-17",
+    "quote": "Una aventura que conserva la magia de Ocarina of Time con una presentación renovada.\n\nSu historia, música y mazmorras siguen siendo inolvidables; una gran oportunidad para volver a Hyrule o descubrirlo por primera vez.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "8c1933de-5763-4bc8-b6dd-2969f83313c2",
+    "author": "Gambosaurio",
+    "score": 10,
+    "date": "2024-08-28",
+    "quote": "Un juego que toma la version original y la mejora en todo sentido\n\nEsperamos nuevas entregas del mejor spin off de pokemon",
+    "platform": "Nintendo Switch",
+    "game_slug": "pokemon-mystery-dungeon-rescue-team-dx",
+    "game_title": "Pokemon Mystery Dungeon: Rescue Team DX"
+  },
+  {
+    "id": "44cff1a0-4074-4f39-89be-95f500088a06",
+    "author": "Gambosaurio",
+    "score": 10,
+    "date": "2024-08-28",
+    "quote": "Despues de más de 20 años regresa new pokemon snap, un mundo muy bonito, funciones muy buenas, y aunque se pensara que más de 200 criaturas serian pocas, es buen número\n\nEspero con ansias nueva informacion de estos spin offs",
+    "platform": "Nintendo Switch",
+    "game_slug": "new-pokemon-snap",
+    "game_title": "New Pokemon Snap"
+  }
+]

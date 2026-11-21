@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3f664bb5-ee8c-4102-9923-82e630258bb7",
+    "author": "ED0092",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "A very good cozy game. People want to play the game to release stress and escape from real world. This game is worth the time",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "a5aaaf87-e4bd-4cfa-b943-55a20a25bc64",
+    "author": "ED0092",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "This game took 13 years to develop, yet it was released with tons of glitches and bugs. What's worse, it was already nominated for Game of the Year before it was even released. What a piece of garbage.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "41927821-16e8-4dfd-855d-bfbbaff239f7",
+    "author": "ED0092",
+    "score": 10,
+    "date": "2025-10-28",
+    "quote": "One of the best games I've ever played. The real time battle is fun and feels fresh.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "pokemon-legends-z-a",
+    "game_title": "Pokemon Legends: Z-A"
+  }
+]

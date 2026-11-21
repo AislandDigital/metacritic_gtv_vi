@@ -1,0 +1,32 @@
+[
+  {
+    "id": "afaea5d3-66df-4632-8eaa-daaa25b6e1ef",
+    "author": "bearbied",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "لن تكون أبدًا مثل لعبة Grand Theft Auto VI، لعبة Zelda هي لعبة للأطفال المدللين، أما GTA فهي لعبة للرجال الأقوياء.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "f1a5e24a-8d46-49bb-87a3-6553dd99d469",
+    "author": "bearbied",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "Worst game of all time, nothing works here, a zero rating for this is still an understatement.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "33b96870-838d-4dcd-8b67-19d0be2bfe5e",
+    "author": "bearbied",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "The best game of all time, the gameplay, graphics, story, the dynamic between the protagonists, it's all perfect.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "02e60d53-fa85-4491-a238-6a060a056c91",
+    "author": "17momahdi",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Battlefield 1 is one of the greatest war games ever made. It offers an incredible atmosphere, realistic battles, beautiful graphics, and immersive sound design. The gameplay is exciting, and every match feels unique. It is truly an unforgettable experience for any fan of war games.",
+    "platform": "PC",
+    "game_slug": "battlefield-1",
+    "game_title": "Battlefield 1"
+  },
+  {
+    "id": "081bb66d-f0f9-4f68-a27f-341ff8424813",
+    "author": "17momahdi",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "The game is disappointing and poorly designed. The gameplay feels repetitive, the performance is inconsistent, and many features seem unfinished. It lacks creativity, depth, and attention to detail. Overall, it fails to provide an enjoyable experience and needs significant improvements. \n",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "23ff1a0a-5cac-4757-a707-6bbe18c43925",
+    "author": "17momahdi",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Goat  goat ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

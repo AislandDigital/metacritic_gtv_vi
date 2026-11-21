@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ebb95abc-c12b-47b4-8854-f7ec4789531a",
+    "author": "Tathane",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Une honte d'avoir autant de bug dans ce jeu avec 13 ans de développement et un budget faramineux",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "dc57af42-f8db-497a-8200-7bbf0a967eae",
+    "author": "Tathane",
+    "score": 10,
+    "date": "2026-11-07",
+    "quote": "Un peu chef-d'œuvre qui nous fait revivre l'original de manière magnifique en 2026... Les graphismes époustouflant et une fluidité sans faille, c'est un indispensable en 2026",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "0df78fad-e6b7-4790-b04c-c80a5a233f51",
+    "author": "Tathane",
+    "score": 10,
+    "date": "2026-09-26",
+    "quote": "Un jeu fantastique avec une ambiance inégalable!\nC'est un plaisir de vivre cette aventure en multi!\nJe recommande!\nUn des meilleurs jeux de l'année 2026",
+    "platform": "PC",
+    "game_slug": "big-walk",
+    "game_title": "Big Walk"
+  },
+  {
+    "id": "360aeb5b-25c2-49ec-a105-f83b01feb7a9",
+    "author": "Tathane",
+    "score": 10,
+    "date": "2026-07-14",
+    "quote": "Une jeu riche au gameplay innovant!\nLa direction artistique est une réussite, tandis que l'histoire est intéressante.\nUn jeu que je recommande!",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "donkey-kong-bananza",
+    "game_title": "Donkey Kong Bananza"
+  },
+  {
+    "id": "a60ed0da-80c4-47fe-b7f7-7ef55ab80f73",
+    "author": "Tathane",
+    "score": 10,
+    "date": "2026-06-27",
+    "quote": "Un excellent remake!\nDes graphismes somptueux acompagnés d'une bande son habillement retravaillée.\nLes personnages sont beaucoup plus présents et leur personnalité est bien plus forte et marquée, ce qui rend le jeu d'avantage motivant et vivant.\nJe recommande!",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "star-fox",
+    "game_title": "Star Fox"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "b2d586e0-8111-4b7a-bde3-0484e3ba65fc",
+    "author": "GameBoyButtons",
+    "score": 10,
+    "date": "2026-11-07",
+    "quote": "Simply put, best game of all time for a reason. Great story. Great charachters. Amazing music. Smooth combat. Inspiring exploration. Just the perfect game.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "92ad497c-30a7-49b9-9001-0007c9f0ffa2",
+    "author": "GameBoyButtons",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "Biggest game in history? Nah fam, this is the biggest disappointment in gaming history. Straight garbage.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "740ac6b5-dcec-479f-9ec1-92270bc90f72",
+    "author": "GameBoyButtons",
+    "score": 9,
+    "date": "2026-07-16",
+    "quote": "Its perfect. I love 2d sidescrollers. And this is exactly what i look for in this type of game. Super visuals. Great music. Great action.",
+    "platform": "Nintendo Switch",
+    "game_slug": "shinobi-art-of-vengeance",
+    "game_title": "Shinobi: Art of Vengeance"
+  },
+  {
+    "id": "0d22e72f-012b-452b-a511-99008aa0aacc",
+    "author": "GameBoyButtons",
+    "score": 8,
+    "date": "2025-12-17",
+    "quote": "This is exactly what i look for in a mafia game. Story. Fun shooting and action. Love and hate. Revenge. Great. Also i love a short, focused game. I want more of this.",
+    "platform": "PC",
+    "game_slug": "mafia-the-old-country",
+    "game_title": "Mafia: The Old Country"
+  },
+  {
+    "id": "f77f1765-67db-44ea-bcc0-cc665345b89e",
+    "author": "GameBoyButtons",
+    "score": 8,
+    "date": "2025-04-28",
+    "quote": "Super fun game! Just plain ol fun, and I feel the ps5 has not had many good games. Besides GOW ragnarok, this is my most memorable experience of the ps5. Can't wait to go at it again!",
+    "platform": "PlayStation 5",
+    "game_slug": "evil-west",
+    "game_title": "Evil West"
+  }
+]

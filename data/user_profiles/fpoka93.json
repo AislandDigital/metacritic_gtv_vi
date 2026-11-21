@@ -1,0 +1,32 @@
+[
+  {
+    "id": "e30dda4f-21bd-44bd-86fc-d0be450b083a",
+    "author": "fpoka93",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "A legendary title. Brings so many new ideas to the table. Easily Greatest game of all time",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "04f5c9e4-53aa-4c07-b920-67f195144aac",
+    "author": "fpoka93",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "A legendary title reimagined. Runs perfectly 60 fps. Greatest game of all time. ",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "2f27247c-56c5-4bf4-a5c5-9493a3c57bd5",
+    "author": "fpoka93",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Definitely not a game for the PS5 platform. Performance is never even a stable 30 fps. Doesn't have auto save in 2026. Game crashed like 3 times I lost my progress. Looking forward to the PC release. ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

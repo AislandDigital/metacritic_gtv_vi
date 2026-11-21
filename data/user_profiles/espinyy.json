@@ -1,0 +1,22 @@
+[
+  {
+    "id": "a010471f-cb95-4c1e-aee2-f579150ef487",
+    "author": "espinyy",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "El remake de The Legend of Zelda: Ocarina of Time para Nintendo Switch 2 es una reinterpretación magistral que logra traer a la actualidad el clásico de 1998 sin traicionar su esencia. El salto audiovisual es espectacular, con escenarios llenos de vida a 60 FPS fluidos, una banda sonora reorquestada que emociona y cinemáticas con doblaje al español que dan mayor profundidad a la historia. Además, sus mejoras de calidad de vida —como la cámara libre, el salto manual, el apuntado con giroscopio y un acceso rápido al inventario que por fin vuelve ágil el infame Templo del Agua— hacen que explorarlo hoy sea una delicia, aunque esta misma modernización reduce un poco la dificultad de algunos jefes y puzles clásicos para los jugadores más veteranos. En conjunto, es una carta de amor al juego que cambió los mundos en 3D, tan disfrutable para quienes buscan revivir su nostalgia como para quienes pisan Hyrule por primera vez.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "28b43699-1488-43f4-82bd-42ec324eef56",
+    "author": "espinyy",
+    "score": 2,
+    "date": "2026-11-21",
+    "quote": "Tras más de una década de espera, Grand Theft Auto VI impresiona por su nivel de detalle visual, pero decepciona profundamente en lo jugable por culpa de un rendimiento técnico impropio de un lanzamiento de este calibre. El juego llega bloqueado a 30 FPS en todas las consolas, sin ningún modo rendimiento de 60 FPS, y lo peor es que ni siquiera logra mantener esa tasa estable: durante persecuciones, tiroteos con explosiones o zonas con mucho tráfico, sufre caídas notorias hasta los 20-23 FPS acompañadas de tirones, alta latencia en los controles, ghosting por el reescalado y un desenfoque de movimiento excesivo que arruina la nitidez de Vice City. Si a esto le sumamos un arranque demasiado lento, animaciones pesadas que vuelven torpe el combate, varios bugs de salida y la ausencia de modo multijugador en su estreno, la sensación final es la de un título que priorizó el espectáculo gráfico por encima de la fluidez, dejando una experiencia frustrante para quienes esperaban un juego pulido y cómodo de jugar desde el primer día.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

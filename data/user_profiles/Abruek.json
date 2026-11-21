@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a4024a78-5214-41b8-8a3b-278700e51615",
+    "author": "Abruek",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Quite possibly the best Indie release of 2026 if not one of the top 3. This game is beyond phenomenal",
+    "platform": "PC",
+    "game_slug": "queens-domain",
+    "game_title": "Queen's Domain"
+  },
+  {
+    "id": "c0f5966c-f67a-4978-a61a-692823ee33f6",
+    "author": "Abruek",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "Horrible performance, crashes, and bugs. Needed to be delayed again but they wanted a quick paycheck first",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "4f306f82-c896-43a8-b0e3-506f9a209785",
+    "author": "Abruek",
+    "score": 2,
+    "date": "2026-11-18",
+    "quote": "Extremely disappointing Switch 2 Edition. The additions should have honestly been free, and you can't even benefit from any of the graphical enhancements unless you own a 4k TV or monitor. Very sad to see from my favorite franchise",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "pikmin-4-nintendo-switch-2-edition-plus-dandori",
+    "game_title": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy"
+  },
+  {
+    "id": "03d54aee-a6f4-428c-afc9-09ca3e095cda",
+    "author": "Abruek",
+    "score": 10,
+    "date": "2026-11-07",
+    "quote": "As someone that grew up with the original Ocarina of Time, this remake is a perfect title brought into the eyes of 2026 audiences",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  }
+]

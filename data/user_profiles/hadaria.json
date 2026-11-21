@@ -1,0 +1,32 @@
+[
+  {
+    "id": "f02bc6b4-d223-4125-8b91-68534bcf3523",
+    "author": "hadaria",
+    "score": 2,
+    "date": "2026-11-21",
+    "quote": "Bueno más de lo mismo y no innova nada de nada, un simulador vamos. Para eso juego a los Sims que esta muchísimo mejor. Además llenito de bugs y sin buscarlos.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "1cb59028-13bf-44de-b171-4d9a7df81949",
+    "author": "hadaria",
+    "score": 10,
+    "date": "2026-11-18",
+    "quote": "Desde luego le han dado un buen lavado de cara y lo estoy disfrutando muchísimo. Nintendo ha cuidado muy bien de esta franquicia y se nota el cariño que le han puesto.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "0c6e0579-d3d1-4ad5-922e-8da7e25d37c1",
+    "author": "hadaria",
+    "score": 10,
+    "date": "2026-11-18",
+    "quote": "Es la base de muchos videojuegos de aventuras y acción hoy en día. Simplemente el mejor juego del mundo.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  }
+]

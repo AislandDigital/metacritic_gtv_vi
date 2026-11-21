@@ -1,0 +1,32 @@
+[
+  {
+    "id": "c1a309b0-7566-41d4-a43f-60c72c4ef057",
+    "author": "yAnakin",
+    "score": 3,
+    "date": "2026-11-21",
+    "quote": "Jogo cheio de bugs, 30 FPS capados, em momentos de ação o jogo parece dropar mais ainda, Npcs e veiculos sumindo pelo mapa, uma pena as revistas serem tão vendidas para ficarem colocando o jogo como perfeito.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "d6b19b73-bbcc-4d91-82c8-60b69540bef9",
+    "author": "yAnakin",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Jogo totalmente polido, fluido, gráficos otimos, historia mais completa e com mais detalhes do que o primeiro, embora as revistas estão se vendendo sabemos quem foi o divisor de águas e revolucionou a industria e agora trouxeram a melhor versão do melhor jogo.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "779bcd66-d0f8-42b6-8585-f790029c8123",
+    "author": "yAnakin",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Tem varios fresquinhos, sem esposa com o dedo cheio de doritos criticando o jogo que revolucionou a Industria apenas para vangloriar outro jogo, vão sair um pouco de casa! Esse é o melhor jogo da história.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "624bac6c-3aaf-47c7-a444-c1cfff1ce866",
+    "author": "Jhao",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "Nem todo clássico consegue atravessar gerações sem perder o brilho. Ocarina of Time é importante para a história dos videogames, mas sua jogabilidade limitada, ritmo ultrapassado e falta de modernização tornam a experiência menos interessante do que sua fama sugere. O legado merece reconhecimento, mas a qualidade atual não justifica tamanha idolatria.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "446dbb36-df18-4873-b2ad-5fcbc39feaef",
+    "author": "Jhao",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "GTA 6 é uma verdadeira obra-prima. Um nível de qualidade impressionante em praticamente todos os aspectos: gráficos, ambientação, trilha sonora, narrativa e atenção aos mínimos detalhes. A Rockstar mais uma vez eleva o padrão da indústria, entregando uma experiência que demonstra o cuidado e a ambição de quem sabe exatamente o que está fazendo. Um jogo extraordinário e uma referência para as próximas gerações.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "99559caa-a9fe-429a-853f-5665bae9046b",
+    "author": "Jhao",
+    "score": 10,
+    "date": "2026-03-01",
+    "quote": "Resident Evil Requiem é uma obra-prima do survival horror moderno. A Capcom fez um trabalho absurdo nesse game, elevando o nível técnico e narrativo da franquia. A história prende do começo ao fim, com um ritmo tenso e cheio de mistérios.\nOs personagens são cativantes, principalmente a estreante Grace, que rapidamente conquista o jogador com sua profundidade e humanidade. O som das criaturas é perturbador — os ruídos, as falas distorcidas e esse conceito de elas terem lembranças cria uma camada psicológica extremamente interessante e assustadora.\nO desmembramento é brutal e realista, com sangue explodindo pelo cenário de forma impactante, aumentando a sensação de perigo constante. A ambientação é opressiva e detalhada, e a trilha sonora complementa cada momento com maestria. Simplesmente sensacional.",
+    "platform": "PlayStation 5",
+    "game_slug": "resident-evil-requiem",
+    "game_title": "Resident Evil Requiem"
+  },
+  {
+    "id": "44c2bb2d-eb96-49bc-a0e6-32c3911b9953",
+    "author": "Jhao",
+    "score": 10,
+    "date": "2021-05-10",
+    "quote": "Um excelente game. História bem contada, vilões marcantes e atmosfera de tirar o fôlego.",
+    "platform": "Xbox Series X",
+    "game_slug": "resident-evil-village",
+    "game_title": "Resident Evil Village"
+  },
+  {
+    "id": "04e79345-ee7a-45ba-b0dc-6d49e9f26a14",
+    "author": "Jhao",
+    "score": 10,
+    "date": "2021-05-10",
+    "quote": "Um excelente game. História bem contada, vilões marcantes e atmosfera de tirar o fôlego.",
+    "platform": "PlayStation 4",
+    "game_slug": "resident-evil-village",
+    "game_title": "Resident Evil Village"
+  },
+  {
+    "id": "c7aac771-1a99-47b5-a906-c90a7462ff16",
+    "author": "Jhao",
+    "score": 10,
+    "date": "2021-05-10",
+    "quote": "Um excelente game. História bem contada, vilões marcantes e atmosfera de tirar o fôlego.",
+    "platform": "PC",
+    "game_slug": "resident-evil-village",
+    "game_title": "Resident Evil Village"
+  },
+  {
+    "id": "9844ec84-757a-4522-9b1b-805822e4d631",
+    "author": "Jhao",
+    "score": 10,
+    "date": "2021-05-10",
+    "quote": "Um excelente game. História bem contada, vilões marcantes e atmosfera de tirar o fôlego.",
+    "platform": "Xbox One",
+    "game_slug": "resident-evil-village",
+    "game_title": "Resident Evil Village"
+  },
+  {
+    "id": "823f189f-595b-45da-9ac2-388b646f7339",
+    "author": "Jhao",
+    "score": 10,
+    "date": "2021-05-10",
+    "quote": "Um excelente game. Vilões marcantes, história bem contada e uma atmosfera de tirar o fôlego.",
+    "platform": "PlayStation 5",
+    "game_slug": "resident-evil-village",
+    "game_title": "Resident Evil Village"
+  },
+  {
+    "id": "e6e51653-42da-44d4-828e-a4111b981467",
+    "author": "Jhao",
+    "score": 10,
+    "date": "2020-06-19",
+    "quote": "Historia envolvente, gráficos excelentes, jogabilidade refinada e personagens marcantes.",
+    "platform": "PlayStation 4",
+    "game_slug": "the-last-of-us-part-ii",
+    "game_title": "The Last of Us Part II"
+  },
+  {
+    "id": "2bdc7671-d8f6-44f7-9fa1-bf50e4f9a336",
+    "author": "Jhao",
+    "score": 10,
+    "date": "2019-11-15",
+    "quote": "Jogo sensacional. Parabéns a Respawn pelo excelente trabalho e por nos entregar algo tão bom e de qualidade. Jedi Fallen Order é um dos meelhores jogos do ano, se não for o melhor.",
+    "platform": "PlayStation 4",
+    "game_slug": "star-wars-jedi-fallen-order",
+    "game_title": "Star Wars Jedi: Fallen Order"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "c12ebffb-6f93-4652-912c-14430e016bb3",
+    "author": "stopnswop",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "This is an amazing 3D Platformer reminiscent of titles like Banjo-Kazooie from the Nintendo 64 era",
+    "platform": "GameCube",
+    "game_slug": "wallace-and-gromit-in-project-zoo",
+    "game_title": "Wallace & Gromit in Project Zoo"
+  },
+  {
+    "id": "63cae357-32d5-4b48-ab10-8e2cd0a91e27",
+    "author": "stopnswop",
+    "score": 4,
+    "date": "2026-11-21",
+    "quote": "The GTA series has turned into a Simulation game of the 2000s. This is not what people waited 13 years for",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "327984ff-d577-4103-82f9-362c92f1ceea",
+    "author": "stopnswop",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The perfect remake of the N64 classic. This is a must play, game of the year title. This is what gaming has been missing in recent years",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "48b3ad78-2c75-424d-aaa9-db9d1c1a6ff3",
+    "author": "stopnswop",
+    "score": 1,
+    "date": "2021-11-19",
+    "quote": "They took these classic games and completely destroyed them. What a joke! I expect more from Rockstar Games.",
+    "platform": "PC",
+    "game_slug": "grand-theft-auto-the-trilogy-the-definitive",
+    "game_title": "Grand Theft Auto: The Trilogy - The Definitive Edition"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "032cfdd8-cc1f-4c64-945d-6a6ea3530bdf",
+    "author": "Sensui87",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "After waiting over a decade for Grand Theft Auto VI, the technical state of the game is honestly a massive letdown. Being locked to a sluggish 30 FPS on console immediately makes it feel dated, especially when smooth 60 FPS gameplay is the bare minimum I expect from a modern release. Worse still, my system can't even hold that target. The second I hit high speeds in dense Vice City traffic or get caught in a chaotic shootout, the frame rate tanks into the mid-20s, turning what should be exhilarating action into a choppy, unresponsive slideshow.\n​On top of the dismal performance, my playthrough has been relentlessly ruined by constant, immersion-breaking bugs. I’m constantly dealing with aggressive texture pop-in, flickering shadows, and heavy upscaling blur that smears distant details into a hazy mess. Sound effects randomly cut out mid-chase, and I've already had multiple hard crashes force me to reboot right in the middle of missions. Instead of setting a new benchmark for open-world games, GTA 6 feels severely undercooked, and I feel like I paid full price just to beta-test an unstable, poorly optimized mess.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "d598580c-6d0b-41be-a572-e20d0a2f8b0b",
+    "author": "Sensui87",
+    "score": 0,
+    "date": "2026-11-08",
+    "quote": "Despite visually capturing Logan's trademark brutal flair, Marvel's Wolverine ends up feeling like a deeply repetitive title stuck in a bygone era of game design. The initial thrill of slashing through enemy waves quickly wears thin as you are forced through rigid, linear corridors that rely on dated mission structures and bullet-sponge enemy archetypes rather than meaningful combat depth. Between the jarring pacing that dumps all narrative weight into cutscenes and an uninspired skill tree that offers virtually no real sense of progression, the game rapidly turns what should be an exhilarating superhero fantasy into a tedious button-mashing slog.",
+    "platform": "PlayStation 5",
+    "game_slug": "marvels-wolverine",
+    "game_title": "Marvel's Wolverine"
+  },
+  {
+    "id": "fd9113e7-55c9-442c-8633-689bf2f96874",
+    "author": "Sensui87",
+    "score": 10,
+    "date": "2026-11-08",
+    "quote": "The new remake of The Legend of Zelda: Ocarina of Time does the impossible by honoring the soul of a 1998 classic while completely elevating it to modern standards. Stepping into Hyrule Field for the first time is breathtaking; the lighting, environmental textures, and updated character models beautifully bring the original concept art to life without losing its magical atmosphere. Coupled with a fully re-orchestrated soundtrack that delivers instant nostalgia, the game manages to capture the exact feeling of playing the original for the first time.Crucially, the remake fixes the mechanical clunkiness of the 64-bit era without sacrificing what made the design brilliant. Fluid camera movement, responsive item mapping, and seamless quality-of-life tweaks make exploring dungeons like the Forest Temple or navigating the infamous Water Temple a genuine joy rather than a chore. Whether you are a longtime fan revisiting Link's journey or a newcomer discovering Hyrule for the very first time, this remake sets a new gold standard for video game preservation and stands as an absolute triumph.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "88121406-6f55-4e50-882b-3c3756cd82b9",
+    "author": "Sensui87",
+    "score": 10,
+    "date": "2025-12-08",
+    "quote": "The eight-year wait was absolutely worth it—Metroid Prime 4: Beyond is the defining masterpiece of the Nintendo Switch 2. Retro Studios has delivered a visual powerhouse that finally unleashes the console's potential, running at a buttery smooth 4K 60 FPS that makes the alien landscapes look photorealistic. The atmosphere is unmatched; from the way raindrops refract on Samus’s visor to the terrifying, deep shadows in the caverns, every inch of this world feels alive. The new lighting engine combined with the haunting score creates a level of immersion that makes the original trilogy look like a rough sketch by comparison.Gameplay-wise, it evolves the series perfectly without losing its soul. The new \"Psychic Glove\" mechanic utilizes the Switch 2's haptic triggers to add incredible physical weight to puzzles and combat, while the stalker-like AI of the villain Sylux creates unscripted moments of pure tension. Whether you're using the pinpoint dual-stick controls or the fluid gyro aiming, the combat feels tighter and more responsive than any shooter on the market. This isn't just a sequel; it’s a 10/10 triumph that sets a new standard for the genre. If you own a Switch 2, you need this game immediately.\n\nThis is a MUST play",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "metroid-prime-4-beyond",
+    "game_title": "Metroid Prime 4: Beyond"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "3b380ddf-9170-49d5-ab5f-cde3ad53ae1e",
+    "author": "Enrique_Acevedo",
+    "score": 9,
+    "date": "2026-11-20",
+    "quote": "A very nice port. The game has great visuals and the story makes this game incredibly enjoyable.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "marvels-guardians-of-the-galaxy-encore-edition",
+    "game_title": "Marvel's Guardians of the Galaxy: Encore Edition"
+  },
+  {
+    "id": "e29fb56a-a03d-46dc-bfb0-de18c258f77a",
+    "author": "Enrique_Acevedo",
+    "score": 9,
+    "date": "2026-11-20",
+    "quote": "I didn’t expect the game to look this good. The performance and great visual quality made this game a complete surprise.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "stellar-blade-complete-edition",
+    "game_title": "Stellar Blade: Complete Edition"
+  },
+  {
+    "id": "3d469403-c354-4532-b474-475e0d7601e0",
+    "author": "Enrique_Acevedo",
+    "score": 3,
+    "date": "2026-11-20",
+    "quote": "The game didn’t leave up to the expectation. The irregular FPS and very cliche story made this game the most disappointing GTA so far.\n\nThe fact that the game is not available on disc and only digital makes things worse.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "439e06c4-577f-4aeb-b0d2-234f6632cee2",
+    "author": "Enrique_Acevedo",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "The game improves in every area from the original. 60 FPS and great graphics for a tablet is a great achievement!",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  }
+]

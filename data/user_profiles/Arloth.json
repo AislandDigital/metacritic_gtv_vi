@@ -1,0 +1,22 @@
+[
+  {
+    "id": "9a4fdbac-d0a6-4c90-921d-ad61a0f6bc84",
+    "author": "Arloth",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "El mejor videojuego de la historia con diferencia, este juego si tiene alma.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "fbf046b3-9055-4bb2-bff4-17f7e28c05b0",
+    "author": "Arloth",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Aunque gráficamente espectacular es un juego sin alma, enseña malos hábitos a la juventud actual.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

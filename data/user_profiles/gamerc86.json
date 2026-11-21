@@ -1,0 +1,32 @@
+[
+  {
+    "id": "12ad0d09-786f-41ca-bd98-fc9f679985c4",
+    "author": "gamerc86",
+    "score": 8,
+    "date": "2026-11-21",
+    "quote": "Es bueno, pero es un juego para jugarlo una unica vez ya que puede llegar a ser un poco repetitivo.",
+    "platform": "PlayStation 5",
+    "game_slug": "marvels-wolverine",
+    "game_title": "Marvel's Wolverine"
+  },
+  {
+    "id": "61d019c0-8e2e-4155-b962-4be759d05d33",
+    "author": "gamerc86",
+    "score": 4,
+    "date": "2026-11-21",
+    "quote": "lo hicieron demasiado con respecto al original , eso le quito mucha escencia al.juego.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "613bc28f-1385-4806-8b69-5a9a2f18846e",
+    "author": "gamerc86",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "Excelentes graficos , un juego lleno de eventos inesperados y con un realismo impresionante.\n\n\nMuy bueno. \n\n",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

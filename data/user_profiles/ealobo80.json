@@ -1,0 +1,22 @@
+[
+  {
+    "id": "f464f06a-66be-4144-9d71-ce104d55b25e",
+    "author": "ealobo80",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The Legend of Zelda: Ocarina of Time is an absolute masterpiece! A beautiful and perfect game with stunning graphics, unforgettable music, a magical story, and memorable characters. Every moment feels special. One of the greatest and most beautiful games ever created. A timeless classic that will stay in my heart forever!",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "8b44149c-6d5c-4bb7-8fb9-81e8244c4c49",
+    "author": "ealobo80",
+    "score": 3,
+    "date": "2026-11-21",
+    "quote": "GTA 6 is a complete disappointment! Full of bugs, FPS drops as low as 20, and no autosave feature. Terrible optimization and a frustrating experience!",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

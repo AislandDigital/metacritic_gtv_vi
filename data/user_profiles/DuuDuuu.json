@@ -1,0 +1,32 @@
+[
+  {
+    "id": "348db109-251f-4f01-9be4-7bec5e74d647",
+    "author": "DuuDuuu",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The best game ever released in the entire series. Perfect graphics, wonderful mechanics, fantastic characters and story. I recommend everyone play this masterpiece of video games.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "9345d20a-74a9-490e-a566-d34f3b75af13",
+    "author": "DuuDuuu",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Mais do mesmo, Nintendo não sabe mais inovar, não sabe criar IP novo, esta parada nos anos 90 ainda. Não recomendo o jogo ",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "73305c4a-f879-497a-bd7f-6821f406be1a",
+    "author": "DuuDuuu",
+    "score": 0,
+    "date": "2021-11-14",
+    "quote": "Cheio de Bugs, Horizonte extremamente artificial com linhas de canto a canto do mapa, entre várias outras coisas que só jogando pra ver a decadência.",
+    "platform": "PC",
+    "game_slug": "grand-theft-auto-the-trilogy-the-definitive",
+    "game_title": "Grand Theft Auto: The Trilogy - The Definitive Edition"
+  }
+]

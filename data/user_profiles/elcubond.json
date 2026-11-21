@@ -1,0 +1,32 @@
+[
+  {
+    "id": "664a4b50-2144-42d1-9815-ead257849243",
+    "author": "elcubond",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "GTA VI no aporta nada nuevo a la industria, limitándose a reciclar mecánicas y sistemas ya vistos en otros mundos abiertos bajo la misma fórmula jugable y misiones rígidas de hace más de una década. No hay innovación alguna.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "16c6bafa-3f1c-4559-a79e-6520981c5bf4",
+    "author": "elcubond",
+    "score": 10,
+    "date": "2026-11-15",
+    "quote": "El mejor videojuego del año, es volver a vivir una historia que amamos, sus gráficos son increíbles, vale la pena disfrutar cada segundo del juego.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "f115dcfd-9042-48f8-ab3c-9f6c379e5d04",
+    "author": "elcubond",
+    "score": 10,
+    "date": "2026-07-29",
+    "quote": "Splatoon Raiders is an excellent game; I’ve been completely hooked by its intuitive gameplay mechanics and the treasure-hunting dynamic, which becomes increasingly interesting.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "splatoon-raiders",
+    "game_title": "Splatoon Raiders"
+  }
+]

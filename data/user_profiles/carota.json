@@ -1,0 +1,32 @@
+[
+  {
+    "id": "42b7952e-6d34-4807-940a-e5f017b0d541",
+    "author": "carota",
+    "score": 10,
+    "date": "2026-11-08",
+    "quote": "Uno dei giochi più belli che abbia mai giocato. Non avevo giocato l'originale, ed era una grave mancanza. ",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "57ed09b3-04d2-4339-bbd5-8f951395a00f",
+    "author": "carota",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Deludente, mi aspettavo molto di più. \nNon gira bene nemmeno nella console per cui è stata creato il gioco.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "16763568-2de8-44e8-9bc9-70eeb177a93d",
+    "author": "carota",
+    "score": 0,
+    "date": "2022-11-30",
+    "quote": "It is just bad. I hope for the next pokemon game they give it to another studio because otherwise it could be the end for the brand.",
+    "platform": "Nintendo Switch",
+    "game_slug": "pokemon-violet",
+    "game_title": "Pokemon Violet"
+  }
+]

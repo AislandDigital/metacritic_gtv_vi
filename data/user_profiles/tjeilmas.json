@@ -1,0 +1,42 @@
+[
+  {
+    "id": "52e3e33d-090e-462e-a488-4b35b3c07b75",
+    "author": "tjeilmas",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "Awful game. Voice acting is trash. Full of glitches. Struggled to hit 30 fps (sometimes dipping into the low 20s",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "d94d58fc-d353-485f-ba8a-55e697d6c315",
+    "author": "tjeilmas",
+    "score": 10,
+    "date": "2026-11-08",
+    "quote": "Loved every second of my playthrough of Ocarina of Time on Switch 2. Its been many years since I played and beat OOT. I completed the game 100% yesterday. No complaints at all! The graphics were great. The puzzles were wonderful. A+ for the voice acting!",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "41e5260c-8b7c-4d63-a901-bf7b18478391",
+    "author": "tjeilmas",
+    "score": 10,
+    "date": "2026-07-27",
+    "quote": "This game is an absolute blast! I played a bit of Splatoon 2, but I’m not the biggest Splatoon fan… I’m having so much fun with this game. It is difficult to put down. Easily a top 5 switch 2 game for me at this point!",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "splatoon-raiders",
+    "game_title": "Splatoon Raiders"
+  },
+  {
+    "id": "900463c4-5a1c-45e3-a7b4-9985c75f59cd",
+    "author": "tjeilmas",
+    "score": 10,
+    "date": "2025-06-09",
+    "quote": "Excellent new entry for the Mario Kart franchise. It is a lot of fun! Especially Knockout Tour! I think most people are upset about the price (which does **** when you don’t get it in a bundle! Even though I bought the bundle, I think I would still have paid $80 to play this fantastic game. Fun for the whole family!!",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "mario-kart-world",
+    "game_title": "Mario Kart World"
+  }
+]

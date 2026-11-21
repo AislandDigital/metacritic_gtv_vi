@@ -1,0 +1,32 @@
+[
+  {
+    "id": "c3fc6edf-c231-440f-bdd2-d44edce24444",
+    "author": "kurczak",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "I love wow and forever is just peak one of the ebst games ever NGL blizzard is great",
+    "platform": "PC",
+    "game_slug": "world-of-warcraft-forever",
+    "game_title": "World of Warcraft: Forever"
+  },
+  {
+    "id": "de329df8-fba6-4588-a498-d1e93d46646e",
+    "author": "kurczak",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Best game ever Nintendo cooked with this one NGL its just best agme ever and of the year",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "e82a660d-c2ab-4afa-923b-61cbd53ad603",
+    "author": "kurczak",
+    "score": 3,
+    "date": "2026-11-21",
+    "quote": "Grand Theft Bug its so buggy every step is a new bug im not even joking when i say worst game of the year",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

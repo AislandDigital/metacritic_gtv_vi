@@ -1,0 +1,32 @@
+[
+  {
+    "id": "b7c9b254-2995-4773-ac85-0869dfba8422",
+    "author": "TheMaster2b",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "Il a de beaux graphismes, c'est tout. Sinon grosse arnaque bugé et en plus a 30 fps. On dirait Les Sims low-cost croisé avec Scarface.\nEt je le sanctionne aussi pour sa nomination frauduleuse au GOTY 2026 (la corruption, c'est mal).",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "e44acacc-329f-4cd7-a35b-7f73f4b6f2c9",
+    "author": "TheMaster2b",
+    "score": 10,
+    "date": "2026-11-18",
+    "quote": "THE LEGENDARY VIDEO GAME IS BACK ! Too good as the original. Gameplay, story, music, characters, graphics... And entirely on the cartridge. Perfect.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "4b91b4a6-0540-45e7-8817-d27cfe837662",
+    "author": "TheMaster2b",
+    "score": 9,
+    "date": "2026-11-19",
+    "quote": "Mario Kart 8 Deluxe is very good and fun, with many race and a large number of characters, vehicules.",
+    "platform": "Nintendo Switch",
+    "game_slug": "mario-kart-8-deluxe",
+    "game_title": "Mario Kart 8 Deluxe"
+  }
+]

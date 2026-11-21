@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3a5bfbe1-97cf-4f12-bdb4-174956db804b",
+    "author": "igor72",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "Игре нет 4k, 120 fps, dlss 5, fsr 4.1. Худшая моя покупка, пожалел что купил.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "5ced21aa-4dcc-4a48-9c0a-880a0148b40c",
+    "author": "igor72",
+    "score": 2,
+    "date": "2026-11-21",
+    "quote": "Графика устаревшая, нет 120 fps. Камон игра бесщадно устарела. Худшая игра что я видел ",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "dd7aa6f6-c18d-4151-a3d8-489b9c4730ac",
+    "author": "igor72",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "Лучшее что я когда либо играл. На Ps5 slim графика шикарная для консоли 2020 года, будем ждать playstation 6 вот там игра раскроется.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

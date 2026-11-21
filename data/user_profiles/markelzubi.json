@@ -1,0 +1,32 @@
+[
+  {
+    "id": "08cf7546-19d4-4529-86b5-aae3d8a5e6c8",
+    "author": "markelzubi",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Más de una década de desarrollo, unas expectativas prácticamente imposibles de satisfacer y el resultado, al menos en mi caso, es bastante decepcionante.\n\nEmpezando por lo técnico, el juego presenta bugs y un rendimiento que dista mucho de ser óptimo. En mi PS5, la tasa de imágenes sufre para mantener unos 30 FPS estables, algo difícil de justificar en un lanzamiento de estas dimensiones. Pero es que, más allá del rendimiento, tampoco tengo la sensación de estar ante un salto técnico tan revolucionario respecto a otros títulos de su generación. Precisamente uno de los mayores reclamos de GTA VI era llevar el apartado técnico y visual un paso más allá, y no creo que el resultado esté a la altura de semejante expectativa.\n\nEn lo jugable tampoco encuentro una evolución especialmente significativa. No termino de ver ese salto que justifique tantos años de espera. Las misiones se sienten, en demasiadas ocasiones, aburridas y algunas incluso repetitivas. Me cuesta encontrar esa frescura que cabría esperar de una entrega que tenía la responsabilidad de reinventar, o al menos hacer evolucionar, una fórmula que lleva tantos años funcionando.\n\nPor último, creo que la cobertura de la prensa especializada tampoco ha ayudado. Se ha generado una especie de unanimidad artificial alrededor del juego, con puntuaciones perfectas que parecen responder más a la magnitud del acontecimiento que a una valoración verdaderamente crítica de sus virtudes y defectos. Paradójicamente, creo que esta insistencia en presentarlo como una obra prácticamente intocable está provocando el efecto contrario en parte del público: un rechazo cada vez mayor hacia el juego y hacia unas expectativas que se han alimentado hasta niveles absurdos.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "ee573832-25f0-4594-9fcf-1c0721f0aa2c",
+    "author": "markelzubi",
+    "score": 10,
+    "date": "2026-11-07",
+    "quote": "Nintendo volviendo a hacer historia. Un remake a la altura de una obra maestra: perfecto para los fans de siempre, ideal para los que llegan por primera vez y absolutamente precioso de principio a fin.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "f0a9bdef-a5dc-4389-9530-20fac238ad6f",
+    "author": "markelzubi",
+    "score": 10,
+    "date": "2025-12-08",
+    "quote": "Instant classic.\n\nSetting foot on Viewros for the first time instantly transported me back to the awe I felt when I landed on Tallon IV in Metroid Prime and on Aether in Metroid Prime 2: Echoes. That same blend of wonder, isolation, and mystery—of arriving in a place ancient, beautiful, and hostile all at once—returns here in full force, and it’s nothing short of magical.\n\nThe atmosphere is absolutely sublime. Every region of Viewros feels alive, meticulously designed, and filled with environmental storytelling. The music elevates everything even further, weaving eerie ambience with subtle themes in a way that only the Prime series seems capable of achieving. It’s immersive, emotional, and unforgettable\n\n.What surprised me most, though, is how brilliantly the new Psychic Abilities have been integrated. Instead of relying on the traditional suite of Samus’s suit upgrades, Prime 4 reimagines her progression with a concept that feels genuinely fresh while still perfectly aligned with the world and narrative. These abilities introduce new layers to combat, exploration, and puzzle-solving, making progression feel both familiar and thrillingly new.\n\nMetroid Prime 4 doesn’t just honor the legacy—it evolves it. A spectacular return and an undeniable triumph for the series.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "metroid-prime-4-beyond",
+    "game_title": "Metroid Prime 4: Beyond"
+  }
+]

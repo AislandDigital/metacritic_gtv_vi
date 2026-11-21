@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a73c68b9-8757-4cff-89e0-082d29662ca1",
+    "author": "Scudharry",
+    "score": 3,
+    "date": "2026-11-21",
+    "quote": "Boring game with excellent graphics. Looks terrible at 30 FPS on my oled tv I’ll go back and play gta 4 and 5 again as they are way better",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "8afcc912-7c3e-44b0-824b-72fa325b74f1",
+    "author": "Scudharry",
+    "score": 10,
+    "date": "2026-11-08",
+    "quote": "This is the best remake I have played. Still just as epic as it was in 1998",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "f873a8ad-ce5f-480d-b7a0-80642489aae6",
+    "author": "Scudharry",
+    "score": 1,
+    "date": "2023-04-29",
+    "quote": "Game runs like crap in performance mode and I can’t play games at 30fps anymore so it’s unplayable for me",
+    "platform": "Xbox Series X",
+    "game_slug": "star-wars-jedi-survivor",
+    "game_title": "Star Wars Jedi: Survivor"
+  },
+  {
+    "id": "06e8d2fc-00f8-417d-999f-867ad49e03a5",
+    "author": "Scudharry",
+    "score": 0,
+    "date": "2022-06-11",
+    "quote": "It should be illegal how monetised this game is once you get to the end game. Avoid at all costs",
+    "platform": "iOS (iPhone/iPad)",
+    "game_slug": "diablo-immortal",
+    "game_title": "Diablo Immortal"
+  }
+]

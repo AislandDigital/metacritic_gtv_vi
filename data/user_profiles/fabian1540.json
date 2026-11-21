@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3319a847-c214-418d-980c-899245e69c01",
+    "author": "fabian1540",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "Una proeza técnica, el videojuego más influyente para la industria en toda su historia. \"The Legend of Zelda ocarina of time\"",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "6e477a53-6184-4c41-af7c-4497b29be40f",
+    "author": "fabian1540",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "Si en 1998 era el mejor, su remake demuestra por qué lo fue. Simplemente perfecto, hermoso, mágico, y como su nombre lo dice \"legendario\".",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "5a6b02c1-20a1-4c60-9fe5-2ff39d141c8f",
+    "author": "fabian1540",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "Este Es el videojuego mas sobrevalorado de la historia. 13 años perdidos para que al final después de pagar 100 dólares esté lleno de bugs, Bajones de fps Constantes, teniendo supuestamente 30 fps \"estables\". \nA otros juegos se les critican estás prácticas y a este por llamarse GTA no? \n\nCreo que quienes reseñan estos juegos deben de ser imparciales, y no dejarse llevar por el hype. ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

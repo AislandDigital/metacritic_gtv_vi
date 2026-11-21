@@ -1,0 +1,32 @@
+[
+  {
+    "id": "b97823dc-4257-4492-bbd0-2f996f39e0a4",
+    "author": "Knight916",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "This is easily one of the best Zelda games out there, and it's the perfect starting point if you're looking to get into the series. I could write a whole book about how great it is—it hands-down deserves Game of the Year.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "ea043a15-8f75-4ae1-8d5a-70944e041db1",
+    "author": "Knight916",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "I can't recommend this. It doesn't even run at 60 FPS, the story is boring, and the characters are completely unlikable. Worst of all, they stripped out the core elements that make a GTA game great.",
+    "platform": "Xbox Series X",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "8c873b09-771d-44f5-bcd1-4c949807d81b",
+    "author": "Knight916",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "I can't recommend this. It doesn't even run at 60 FPS, the story is boring, and the characters are completely unlikable. Worst of all, they stripped out the core elements that make a GTA game great.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

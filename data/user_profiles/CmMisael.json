@@ -1,0 +1,32 @@
+[
+  {
+    "id": "401d9b14-f092-4c3f-ae06-c63d2a158e11",
+    "author": "CmMisael",
+    "score": 9,
+    "date": "2026-11-21",
+    "quote": "The return of the best survival horror game in history; the best protagonist (Leon) with a solid story—if you set aside the motorcycle segment—a great game.",
+    "platform": "PlayStation 5",
+    "game_slug": "resident-evil-requiem",
+    "game_title": "Resident Evil Requiem"
+  },
+  {
+    "id": "8394bfcf-64d2-4f62-9227-2da6eae09049",
+    "author": "CmMisael",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The greatest of all time returns, but with a fresh look—the game that invented Z-targeting and laid the foundations for the open-world genre; acclaimed then and now.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "54363378-ec02-4d8a-9cd2-cf8ec6c35259",
+    "author": "CmMisael",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Full of bugs, overpriced, and overhyped—for a game that’s only somewhat fun.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

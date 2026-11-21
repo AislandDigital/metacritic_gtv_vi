@@ -1,0 +1,42 @@
+[
+  {
+    "id": "7a1bba26-dd3e-41d8-82df-5e8cdc038e87",
+    "author": "MrHawes",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Se cabal y se podría todo, GTA el emjro juego jamás, se terminó la mentira de zelda",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "b2657fb9-9631-47af-9c82-581bfb3c9233",
+    "author": "MrHawes",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "The best game of the historia! Lo amo es perfecto no hay discusión el mejor juego jamas",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "cc9f27e3-3e9c-4d0d-b1f5-5893d4c4da42",
+    "author": "MrHawes",
+    "score": 10,
+    "date": "2023-11-04",
+    "quote": "GTA IV > GTA V",
+    "platform": "Xbox 360",
+    "game_slug": "grand-theft-auto-iv",
+    "game_title": "Grand Theft Auto IV"
+  },
+  {
+    "id": "ecd2a4ad-f112-4f94-8d2c-c91c79e76250",
+    "author": "MrHawes",
+    "score": 10,
+    "date": "2023-11-04",
+    "quote": "The best game ever. END",
+    "platform": "PlayStation 4",
+    "game_slug": "red-dead-redemption-2",
+    "game_title": "Red Dead Redemption 2"
+  }
+]

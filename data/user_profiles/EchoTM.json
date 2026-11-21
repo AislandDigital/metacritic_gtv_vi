@@ -1,0 +1,72 @@
+[
+  {
+    "id": "fb1a946b-a812-4ae5-a581-9069405bbcfa",
+    "author": "EchoTM",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The story is just as good as you would expect from an Alan Wake game. But Alan Wake II might just have some of the most unique and creative art-style decisions made for any game in the last 20 years. We Sing is a chapter that will stay in my mindplace for a long time.",
+    "platform": "PC",
+    "game_slug": "alan-wake-ii",
+    "game_title": "Alan Wake II"
+  },
+  {
+    "id": "67f56fed-1e0b-429d-aad0-244cef46a8f2",
+    "author": "EchoTM",
+    "score": 5,
+    "date": "2026-11-21",
+    "quote": "The gameplay is Pokemon and that will always be great. But the frame rate struggles to hit even 20 and the visuals are some of the worst in the series. I enjoyed my play through but can't in good faith recommend this game to anyone still on a switch 1.",
+    "platform": "Nintendo Switch",
+    "game_slug": "pokemon-scarlet",
+    "game_title": "Pokemon Scarlet"
+  },
+  {
+    "id": "553b8eb4-a37c-4433-9ebd-47b834eeb915",
+    "author": "EchoTM",
+    "score": 3,
+    "date": "2026-11-21",
+    "quote": "While the game looks stunning the poor performance coupled with the slate gameplay and bugs stops GTA6 from being all it was hyped up to be. Easily the worst GTA title from the main series.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "eaf55400-e072-4eb1-ba3e-e917f25a8b58",
+    "author": "EchoTM",
+    "score": 7,
+    "date": "2026-11-21",
+    "quote": "GTA5 is a sold game but unfortunately it struggles to live up to its predecessor, Definitely worth a play if you have the free time but I won't be coming back.",
+    "platform": "Xbox 360",
+    "game_slug": "grand-theft-auto-v",
+    "game_title": "Grand Theft Auto V"
+  },
+  {
+    "id": "b48d037d-f5c0-49bc-97a5-c22ce0436b4e",
+    "author": "EchoTM",
+    "score": 8,
+    "date": "2026-11-21",
+    "quote": "The best GTA game hands down. A great story, good characters and gameplay that actually keeps you engaged.",
+    "platform": "Xbox 360",
+    "game_slug": "grand-theft-auto-iv",
+    "game_title": "Grand Theft Auto IV"
+  },
+  {
+    "id": "6c943905-5615-4575-a9e6-f1b5752ae1d9",
+    "author": "EchoTM",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "The original Ocarina of Time is hailed as one of the greatest games ever made and this remake finally made me give it a shot. I was not disappointing, this is without a doubt the best looking game released in 2026, gorgeous visuals, a stellar soundtrack, and a world that makes you feel right there in the adventure. Its no wonder Ocarina of Time gained its legendary status. ",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "eebc96c0-4a0f-4e8b-a64e-32619b788f24",
+    "author": "EchoTM",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Xenoblade Chronicles 2 has always been one of the switch 1s best titles and with the release of the switch 2 edition It got better in every way. It is a true, perfect must play title.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "xenoblade-chronicles-2-nintendo-switch-2-edition",
+    "game_title": "Xenoblade Chronicles 2: Nintendo Switch 2 Edition"
+  }
+]

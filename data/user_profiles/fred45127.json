@@ -1,0 +1,32 @@
+[
+  {
+    "id": "0d82ec58-b24e-43f4-8178-c3b54bfa0f5b",
+    "author": "fred45127",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Gráficamente hermoso muy divertido como el de n64 y su nostalgia valio totalmente la pena comprarlo",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "a3977565-ac71-4adb-8446-ba08aad0ddb2",
+    "author": "fred45127",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Juego divertido y hermoso alavez recomendado para gente que nunca lo haiga probado",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "7668ce4a-09c5-4b5f-8fc9-1b934a022cf5",
+    "author": "fred45127",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Va a 30fps un poco inestables, graficos muy buenos pero muchos bugs para ser un juego que hemos esperado por 13 años",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

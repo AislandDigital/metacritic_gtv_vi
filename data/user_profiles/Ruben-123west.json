@@ -1,0 +1,112 @@
+[
+  {
+    "id": "9f2de98a-203c-4aa4-b57d-a6a9f087f610",
+    "author": "Ruben-123west",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "En mejor juego de la historia y punto. Ni siquiera el trasero de mandi logrará bajar el hito.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "5315d21a-1675-4153-9ba1-63f021e2758a",
+    "author": "Ruben-123west",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Un exelente remake, a la altura del original pero no mejor que el, la sensaciones k para nuevas generaciones en hermosa si. ",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "75479dd3-68c0-4ca0-a696-48a9405d194f",
+    "author": "Ruben-123west",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Mi experiencia no fue buena en ps5, tuve Bugs de inicio en el prólogo y es segunda vez que tengo que empezar la partida, es un 4 como kota pero el 1 en definitiva es por el 99 exagerado, si esto fuera aislado cero queja pero premiar algo mal hecho (?)",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "71edb383-d056-4843-b0ca-6061c714e2cb",
+    "author": "Ruben-123west",
+    "score": 9,
+    "date": "2025-07-20",
+    "quote": "El único detalle que crítico es que en Online, no deja elegir pistas de 3 vueltas. Nintendo seguro nos sorprenderá con un gran Dlc, pero el juego base es redondo.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "mario-kart-world",
+    "game_title": "Mario Kart World"
+  },
+  {
+    "id": "dd0fecd3-bce1-4107-8fa3-5b2a3fbf583a",
+    "author": "Ruben-123west",
+    "score": 10,
+    "date": "2025-07-20",
+    "quote": "Es un Rpg extraordinario,quizás faltaron cosas creo como la banda sonora, es un juego con una gran historia y toda la calidad de Segs",
+    "platform": "PlayStation 5",
+    "game_slug": "metaphor-refantazio",
+    "game_title": "Metaphor: ReFantazio"
+  },
+  {
+    "id": "6cd2b852-401b-409d-b4f1-24b108415f65",
+    "author": "Ruben-123west",
+    "score": 10,
+    "date": "2025-07-20",
+    "quote": "Es un juego increíble, una patada a la industria dónde más  dolio, puesto que un grupo pequeño de personas creo un AAAA+ que tanto soñaba Ubisoft,música 10, historia de 10, la pose virtuosa un poco rota, los joves espectaculares.Excelente para ser el primer juego del estudio.",
+    "platform": "PlayStation 5",
+    "game_slug": "clair-obscur-expedition-33",
+    "game_title": "Clair Obscur: Expedition 33"
+  },
+  {
+    "id": "71fe86d4-eba9-46a0-91d1-c8ca577f59ba",
+    "author": "Ruben-123west",
+    "score": 10,
+    "date": "2025-07-20",
+    "quote": "Larga vida al rey !!!! Aparte de ese minispoiler, un juego entretenido, con buena dinámica y a mi parecer mucho más elaborado de Oddysey.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "donkey-kong-bananza",
+    "game_title": "Donkey Kong Bananza"
+  },
+  {
+    "id": "830ce235-4aee-4bdb-ac0b-f3f30ac2f62a",
+    "author": "Ruben-123west",
+    "score": 7,
+    "date": "2021-05-01",
+    "quote": "Es un juego entretenido, sin embargo tuve problemas en el primer uso, algunos Bugs con la partida guardada, tiene a ser medianamente repetitivo, pero es un gran juego, en cuanto a resolución en lo particular no me importa, pero no alcanza los 4k, tiene una especie de niebla que no le saca partido al juego en los fondos.",
+    "platform": "PlayStation 5",
+    "game_slug": "returnal",
+    "game_title": "Returnal"
+  },
+  {
+    "id": "65501b45-e8a2-4bc4-8946-48653c1abe6e",
+    "author": "Ruben-123west",
+    "score": 7,
+    "date": "2019-11-10",
+    "quote": "La idea de segregar el juego en varios archivos es lo único idiota del juego, en definitiva es mejor que Cod Blackops 4, pero al debe con los anteriores Mod.",
+    "platform": "Xbox One",
+    "game_slug": "call-of-duty-modern-warfare",
+    "game_title": "Call of Duty: Modern Warfare"
+  },
+  {
+    "id": "b70bbda8-529a-4ee1-b6ef-db8c8dcbcc54",
+    "author": "Ruben-123west",
+    "score": 10,
+    "date": "2019-11-10",
+    "quote": "Obra de arte, imprescindible para Switch,lo mejor para la consola este año.",
+    "platform": "Nintendo Switch",
+    "game_slug": "luigis-mansion-3",
+    "game_title": "Luigi's Mansion 3"
+  },
+  {
+    "id": "816ff9c6-d38a-4b2b-b356-d252e3a7ba09",
+    "author": "Ruben-123west",
+    "score": 1,
+    "date": "2019-11-10",
+    "quote": "Película interactiva, recoge lo peor de metal Gear y su monotonía a las 20 horas de juego, me producen un sueño terrible.",
+    "platform": "PlayStation 4",
+    "game_slug": "death-stranding",
+    "game_title": "Death Stranding"
+  }
+]

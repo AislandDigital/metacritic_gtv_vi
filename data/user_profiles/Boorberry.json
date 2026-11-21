@@ -1,0 +1,32 @@
+[
+  {
+    "id": "948bbbb8-1cd9-487b-a4eb-dabdf71b6845",
+    "author": "Boorberry",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Perfect game. Everything is perfect. Gameplay, puzzles, dungeons, art direction, script writing, all perfect ",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "24f5080d-06e9-4e78-a350-4220e55aaf4d",
+    "author": "Boorberry",
+    "score": 2,
+    "date": "2026-11-21",
+    "quote": "Grand Theft Errand!! Lucia is annoying. The fact that the main story progress revolves around fulfilling her boring requests is a fatal, deal breaker for me",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "b2864cd3-1b5c-43cf-89f9-e0a0eb2556d5",
+    "author": "Boorberry",
+    "score": 10,
+    "date": "2012-03-18",
+    "quote": "Journey is a wonderful experience. Nothing I write can justify the kind of feeling I have after finishing it. Somehow, someway the game affected me in more ways that I could imagine. This game makes me want to run to my loved ones and tell them how precious they are to me and thank them for sharing their life journeys with me",
+    "platform": "PlayStation 3",
+    "game_slug": "journey",
+    "game_title": "Journey"
+  }
+]

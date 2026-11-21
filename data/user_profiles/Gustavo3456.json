@@ -1,0 +1,42 @@
+[
+  {
+    "id": "6754393c-c19a-4706-ae08-c1e0944fdbe0",
+    "author": "Gustavo3456",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "Esperamos durante 13 años un juego que prometia ser la cúspide en todo, ese fue el detalle al poner falsas esperanzas en un proyecto al cual no se le dedicó el tiempo y esfuerzo necesario, una decepción total.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "3797c762-2061-4edd-bc7e-eceddc99201a",
+    "author": "Gustavo3456",
+    "score": 10,
+    "date": "2026-11-18",
+    "quote": "Hermoso juego fiel al original, mantiene el nivel de fantasía sumergiendo al jugador en un mundo abierto extraordinario ",
+    "platform": "3DS",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-3d",
+    "game_title": "The Legend of Zelda: Ocarina of Time 3D"
+  },
+  {
+    "id": "f6de2589-35f2-44c7-93e6-ad9d0476ac55",
+    "author": "Gustavo3456",
+    "score": 10,
+    "date": "2026-11-18",
+    "quote": "Excelente juego lleno de magia, es una obra de arte absoluta buen trabajo Nintendo.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "fb520641-59b3-4acb-8338-913a333a1f5b",
+    "author": "Gustavo3456",
+    "score": 10,
+    "date": "2026-11-18",
+    "quote": "Jamás había visto un juego tan bueno, su historia y mundo de fantasía es arte puro.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  }
+]

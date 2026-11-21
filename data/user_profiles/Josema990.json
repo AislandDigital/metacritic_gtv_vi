@@ -1,0 +1,32 @@
+[
+  {
+    "id": "87bb1d29-1b2a-4847-8104-aa4b999ecd00",
+    "author": "Josema990",
+    "score": 3,
+    "date": "2026-11-21",
+    "quote": "Es un GTA cualquiera pero con una mejora gráfica al nivel de los juegos de hoy en día,y además viene con numerosos bugs y bajones de fps.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "19120b07-d1fc-41d5-991b-d93154b04c49",
+    "author": "Josema990",
+    "score": 10,
+    "date": "2026-11-18",
+    "quote": "Por fin aquí un juego que revive la llama de la infancia de muchos y que puede abrir los ojos de estás nuevas generaciones.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "8064a9b9-17aa-4940-9566-704523031d28",
+    "author": "Josema990",
+    "score": 10,
+    "date": "2026-11-18",
+    "quote": "Es un juego maravilloso, con grandes gráficos en los que se notan el esfuerzo de los creadores, tiene los combates más entretenidos y duros que he probado, he probado las dificultades altas desde la primera partida como la imbatible y es impresionante la adaptabilidad de los jefes y la historia es algo maravilloso que ver.",
+    "platform": "PlayStation 5",
+    "game_slug": "phantom-blade-zero",
+    "game_title": "Phantom Blade Zero"
+  }
+]

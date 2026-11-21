@@ -1,0 +1,32 @@
+[
+  {
+    "id": "7ef25a5f-884f-4323-b559-cbdb4df0b9e0",
+    "author": "SoyErick",
+    "score": 0,
+    "date": "2026-11-20",
+    "quote": "A completely mediocre game. It fails to evolve or innovate in any meaningful way, feeling entirely stagnant from start to finish. Pretty disappointing.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "1ed757c2-69d9-4588-9d85-628e230d0c72",
+    "author": "SoyErick",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "An incredible game! I absolutely love the radio, the animations are amazing, and the dialogue is an absolute gem. Easily one of my favorite experiences.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "873bbf84-9c76-4b44-9c1e-bccba307c3be",
+    "author": "SoyErick",
+    "score": 0,
+    "date": "2020-07-25",
+    "quote": "Aburrido, repetitivo, sin lógica. La verdad es que si quieres perder el tiempo por nada esto no vale ni siquiera eso.",
+    "platform": "Xbox One",
+    "game_slug": "gears-5",
+    "game_title": "Gears 5"
+  }
+]

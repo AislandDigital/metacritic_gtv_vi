@@ -1,0 +1,42 @@
+[
+  {
+    "id": "c26e21cc-9dce-449c-81e5-cc0b426e2f50",
+    "author": "ThomasOliveira",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Simply THE BEST GAME OF ALL TIME\nTeam Cherry, congratulations!!!!!!!!!!!!!!!",
+    "platform": "PC",
+    "game_slug": "hollow-knight-silksong",
+    "game_title": "Hollow Knight: Silksong"
+  },
+  {
+    "id": "c82fa5af-623c-484c-ba95-287d7bb43440",
+    "author": "ThomasOliveira",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "One of the best games of all time! This is waaay better than BotW! Just buy it and be happy!",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-tears-of-the-kingdom-nintendo",
+    "game_title": "The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition"
+  },
+  {
+    "id": "8834e7a1-e5fb-4169-a3aa-3e1c1ad6f9d7",
+    "author": "ThomasOliveira",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "This is my first time playing Ocarina of Time, having already completed BotW, TotK, and Twilight Princess. Honestly, choosing this remake over the original was the best decision I could have made. The game is perfect and incredibly fun. It never gets tiresome, and I’m currently on the verge of achieving 100% completion. It’s absolutely worth it—it’s already become one of my favorite games.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "4bb0e507-d397-4d2c-aca6-a6e39e81cfce",
+    "author": "ThomasOliveira",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Honestly,\nI’m really disappointed with this GTA. Could be waaay better. I expected more freedom, rather than household chores, a lack of action, and a failure to connect with the characters. It feels like they were afraid to take risks.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

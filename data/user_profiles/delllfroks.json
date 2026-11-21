@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3d33d22b-f1b3-4e74-bd85-f78ecacdc88f",
+    "author": "delllfroks",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Sinceramente, o novo Zelda foi uma baita decepção. É revoltante ver o jogo ser lançado desse jeito, todo inacabado e cheio de bugs. O tempo todo o FPS despenca do nada e a física buga, o que tira qualquer imersão. No fim, o que era pra ser uma aventura épica virou só uma experiência travada e frustrante pra quem esperava tanto por ele.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "f18b23d9-49cb-47cf-891b-0baf822b6f0c",
+    "author": "delllfroks",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Grand Theft Auto VI eleva o padrão dos jogos de mundo aberto a um nível nunca visto antes. Com gráficos fotorrealistas impressionantes, uma história envolvente e a vibrante recriação de Vice City, o título da Rockstar Games entrega uma experiência imersiva, dinâmica e inesquecível que redefine a história dos videogames.",
+    "platform": "Xbox Series X",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "e6a80c28-1a54-418d-912a-0e5a48c93aef",
+    "author": "delllfroks",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Grand Theft Auto VI eleva o padrão dos jogos de mundo aberto a um nível nunca visto antes. Com gráficos fotorrealistas impressionantes, uma história envolvente e a vibrante recriação de Vice City, o título da Rockstar Games entrega uma experiência imersiva, dinâmica e inesquecível que redefine a história dos videogames.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

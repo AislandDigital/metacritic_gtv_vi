@@ -1,0 +1,32 @@
+[
+  {
+    "id": "b8bbae47-a8ed-437b-b7f9-6c182d75412a",
+    "author": "CogniMente",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "A video game that goes beyond mere nostalgia. With this remake, Nintendo managed to perfect what was already perfect. It doesn’t feel like a hollow remake—just an update with better graphics and more cutscenes—but rather one that offers a deeper, more intimate connection to the story. It is a fairy-tale narrative, rich in philosophy and reflection, which truly resonates with the player. A genuine work of art in video game form (its soundtrack is the best I have ever heard).",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "9c7dd3f8-4940-4526-824d-29258ccdbda5",
+    "author": "CogniMente",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "A truly impressive game. Given the inherent limitations of the system, it is a genuine gem of creativity, innovation, and a sense of authentic freedom—not just because of its open world, but because of how you interact with it, as well as the creative freedom it offers. It features an understated yet immersive story, with charismatic characters and a profound narrative.",
+    "platform": "Nintendo Switch",
+    "game_slug": "the-legend-of-zelda-tears-of-the-kingdom",
+    "game_title": "The Legend of Zelda: Tears of the Kingdom"
+  },
+  {
+    "id": "a3121b9c-fafe-4ba7-822a-815449899a43",
+    "author": "CogniMente",
+    "score": 2,
+    "date": "2026-11-20",
+    "quote": "A video game that, unfortunately, does not live up to the long wait. While the visuals are impressive, they do not make up for the number of bugs or the repetitive story. It lacks the significant, innovative elements that the series needs.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "b6723365-f1e4-4d52-9833-ff4937223732",
+    "author": "Darkirfrit1984",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Es exactamente como se debe hacer un remake respetando el juego original pero añadiendo innovación al juego, 60 fps estables en todo momento, cinemáticas que te sumergen más en la historia y una banda sonora espectacular.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "59b12556-dfdc-4871-9b6f-e2692582269d",
+    "author": "Darkirfrit1984",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Es exactamente como un remake debe de ser respetando al juego original pero a la misma vez agregando innovación, 60 fps estables en todo momento y una banda sonora espectacular.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "52f9ea25-eff1-4e81-a7fe-98746fdf5eb1",
+    "author": "Darkirfrit1984",
+    "score": 3,
+    "date": "2026-11-21",
+    "quote": "Muchas caídas de fps, demasiados Bugs para un juego que lleva años en desarrollo aparte el físico es una estafa y su precio un robo completo.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

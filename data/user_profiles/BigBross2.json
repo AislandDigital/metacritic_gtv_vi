@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ade19ddc-5fe8-48a5-aecc-e09d31ae7d00",
+    "author": "BigBross2",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Exploring Hyrule, solving brilliant puzzles, and playing the ocarina feel magical even today. The Z-targeting combat, the haunting melodies, and the journey through time create an experience every gamer should have. An absolute classic",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "6b610c01-762a-45e8-989a-469fb823f30f",
+    "author": "BigBross2",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Ocarina of Time is a true masterpiece. The vast world of Hyrule, clever dungeons, memorable music, and epic story make it one of the greatest games ever made. Timeless and unforgettable",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "9119d755-b49e-4884-a691-1c26868eddf9",
+    "author": "BigBross2",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "GTA 6 is a cool game. The open world feels alive, the graphics are stunning, and there's always something fun to do. But the story is very weak in places.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

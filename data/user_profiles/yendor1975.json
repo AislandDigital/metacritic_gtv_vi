@@ -1,0 +1,32 @@
+[
+  {
+    "id": "a148a025-3f77-48b8-a7a1-b611c2ff1daa",
+    "author": "yendor1975",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "This game exceeded my expectation. The rare time where a game lives up to the hype. Simply a must play experience.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "9f89ef8e-3322-4c30-bb07-43ba78abbfa2",
+    "author": "yendor1975",
+    "score": 9,
+    "date": "2026-11-21",
+    "quote": "My favorite Dreamcast game of all time playing with friends. Single player is good but multiplayer is amazing. Hard to believe this is the sequel to Soul blade.",
+    "platform": "Dreamcast",
+    "game_slug": "soulcalibur",
+    "game_title": "SoulCalibur"
+  },
+  {
+    "id": "249ca293-cabe-44e7-9d25-eb7a4cb957bf",
+    "author": "yendor1975",
+    "score": 3,
+    "date": "2026-11-20",
+    "quote": "It looks like a Lamborghini and runs like a pinto.  The story is a mess with unlikable main characters. It looks like a skin suit of previous GTA games and never lives up that legacy. ",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "9afdf1d6-c04f-47b3-9471-d61df7fe9b02",
+    "author": "M_Arismendi",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Esperamos 13 largos años para recibir un juego que prometía revolucionar la industria, pero terminamos con una experiencia llena de bugs, errores y problemas técnicos. Tanta espera, tanta publicidad y tantas expectativas para un resultado decepcionante. GTA 6 debía ser una obra maestra, no un festival de errores. Definitivamente, Rockstar tenía mucho más que demostrar después de tantos años de espera.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "a6a91042-4a15-4b7b-9852-51f1151e5668",
+    "author": "M_Arismendi",
+    "score": 10,
+    "date": "2026-11-19",
+    "quote": "Una maravillosa oportunidad para revivir una de las aventuras más legendarias de la historia de los videojuegos. Este remake devuelve la magia de Hyrule con una presentación renovada, conservando la esencia, la emoción y el espíritu de la obra original. Explorar sus templos, resolver sus acertijos y acompañar a Link en su viaje sigue siendo una experiencia fascinante. Una leyenda que demuestra que las grandes aventuras nunca pasan de moda.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "34f3c406-5d16-44b1-ad67-81b8a8e34b6a",
+    "author": "M_Arismendi",
+    "score": 10,
+    "date": "2026-11-19",
+    "quote": "Una auténtica obra maestra que cambió para siempre la historia de los videojuegos. Su mundo lleno de magia y misterios, su inolvidable banda sonora, sus mazmorras ingeniosas y su extraordinaria aventura hacen de esta experiencia algo único. Cada rincón de Hyrule transmite una sensación de descubrimiento y emoción. A pesar del paso de los años, sigue conservando una magia que pocos videojuegos han conseguido igualar. No es simplemente un clásico: es una leyenda que nunca dejará de brillar.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  }
+]

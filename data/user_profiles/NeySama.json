@@ -1,0 +1,52 @@
+[
+  {
+    "id": "feed3298-22fb-412f-a420-31e593b38884",
+    "author": "NeySama",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Pathetic behavior by Zelda fans towards GTA VI proved that they don't deserve a good score",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "54a8b317-e276-411a-a1a1-94a965160de6",
+    "author": "NeySama",
+    "score": 10,
+    "date": "2026-11-20",
+    "quote": "Without a doubt the best game ever; the story hooks you right from the start. Furthermore, everything on the map feels alive—absolutely everything is designed to surprise you. You have nothing to lose by playing this game; you’re guaranteed a great time.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "78d141df-7b67-4a5f-b495-033c0fd43015",
+    "author": "NeySama",
+    "score": 8,
+    "date": "2023-06-25",
+    "quote": "Un excelente juego, con buenos combates, tiene un 8 porque algunos combates se sienten repetitivos, el sistema de niveles es muy random mientras subes también los monstruos suben manteniendo el mismo nivel que tu, lo que hace que no se sienta que realmente subes de nivel, el juego es espectacular pero tiene sus pequeños puntos negativos.",
+    "platform": "PlayStation 5",
+    "game_slug": "final-fantasy-xvi",
+    "game_title": "Final Fantasy XVI"
+  },
+  {
+    "id": "cc47284c-1c6b-44d6-8eaa-6dcb55e286f4",
+    "author": "NeySama",
+    "score": 0,
+    "date": "2022-03-05",
+    "quote": "Una falta de respeto para los jugadores entendemos que salgan justo detras de er pero al menos algo más de seriedad",
+    "platform": "PlayStation 5",
+    "game_slug": "babylons-fall",
+    "game_title": "Babylon's Fall"
+  },
+  {
+    "id": "373064e4-bd9d-4701-a391-5a4d7a6260f4",
+    "author": "NeySama",
+    "score": 8,
+    "date": "2022-02-19",
+    "quote": "El juego es genial pero tiene muchos bugs, en gráficos es genial, pero, no llega al top, aunque el hecho de que tenga un mundo abierto con tantas cosas hace que exista el pop-in lo cual aveces es divertido, pero, en otras algo molesto.",
+    "platform": "PlayStation 5",
+    "game_slug": "horizon-forbidden-west",
+    "game_title": "Horizon Forbidden West"
+  }
+]

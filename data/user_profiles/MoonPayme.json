@@ -1,0 +1,32 @@
+[
+  {
+    "id": "081ae4a6-38a6-4402-a36f-5430125018c9",
+    "author": "MoonPayme",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Greatest game ever made. This is the biggest achievement of the entire industry. Rockstar Games is the greatest studio of all time",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "1991ebd2-e935-459a-955f-18cf115cc075",
+    "author": "MoonPayme",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "One of the most soulless AI slop remakes I’ve ever played. It’s extremely buggy, repetitive and empty. $70 soulless cash grab to sell a new console with outdated hardware. Nintendo is everything that’s wrong with the industry ",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "4b9cada5-9b08-44c3-b451-1af3b87d5335",
+    "author": "MoonPayme",
+    "score": 0,
+    "date": "2023-01-25",
+    "quote": "I hate it how Optimization is an after thought in modern gaming. Especially for something that looks like an early PS4 game",
+    "platform": "PlayStation 5",
+    "game_slug": "forspoken",
+    "game_title": "Forspoken"
+  }
+]

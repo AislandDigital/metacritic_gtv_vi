@@ -1,0 +1,72 @@
+[
+  {
+    "id": "7025d6a0-07d4-45c4-b37f-375d8ef4cd2e",
+    "author": "NivdeFly",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Replayed this countless times, even 100 percented it once. Only game i've tried to speedrun. The movement is the best i've seen in a game ever. The worlds are unique and have fantastic music.",
+    "platform": "Nintendo Switch",
+    "game_slug": "super-mario-odyssey",
+    "game_title": "Super Mario Odyssey"
+  },
+  {
+    "id": "55865ed4-0481-4459-a681-45926fe6107f",
+    "author": "NivdeFly",
+    "score": 9,
+    "date": "2026-11-21",
+    "quote": "Almost everything about this game is great, from the story to the music. If I had to pick out a single flaw it would be the art.",
+    "platform": "PC",
+    "game_slug": "undertale",
+    "game_title": "Undertale"
+  },
+  {
+    "id": "7726018c-05e9-418e-9124-c4c89b027ced",
+    "author": "NivdeFly",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "This is the best piece of media I have ever consumed. I dont think anything will ever top this to be honest. The music is incredible. The characters are fantastic. And the story is filled with mysteries and interesting plotlines.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "deltarune",
+    "game_title": "DELTARUNE"
+  },
+  {
+    "id": "e1e13486-e465-40b5-ae90-ac979128a6f1",
+    "author": "NivdeFly",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Exeeded my expectations by a long shot. Loved this from start to finish. The upgrades and items are incredible. The soundtrack is amazing.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "58ac0526-0b08-40c2-a963-913c69ff5b86",
+    "author": "NivdeFly",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Incredible masterpiece that founded and inspired the games we have today. Amazing worldbuilding and soundtrack.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "eedf90d8-6563-49cc-a5e1-2d114f49ec14",
+    "author": "NivdeFly",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Another realistic slop game from a non consumer AAA company. No online, 30 fps, buggy mess, after 13 years is crazy work. 100% bought critic score too. Nominated to goty before even releasing to the public.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  },
+  {
+    "id": "ab88849c-711a-4b56-81d6-0c6a92e11c04",
+    "author": "NivdeFly",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Another realistic slop game from a non consumer AAA company. No online, 30 fps, buggy mess, after 13 years is crazy work. 100% bought critic score too. Nominated to goty before even releasing to the public.",
+    "platform": "Xbox Series X",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

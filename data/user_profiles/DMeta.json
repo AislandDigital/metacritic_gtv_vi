@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bb8e9e6f-b258-4001-bb09-59311679a675",
+    "author": "DMeta",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Love this game and it's great having it on your phone so you can play it any time.",
+    "platform": "iOS (iPhone/iPad)",
+    "game_slug": "chrono-trigger",
+    "game_title": "Chrono Trigger"
+  },
+  {
+    "id": "8907fc2b-e95d-480f-ab58-bde43d481c0b",
+    "author": "DMeta",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "One of the best games ever made. Not a huge fan of the DS remake and I prefer the phone version, but it's still great.",
+    "platform": "DS",
+    "game_slug": "chrono-trigger",
+    "game_title": "Chrono Trigger"
+  },
+  {
+    "id": "e85fd51a-3e90-4ac8-8ec1-6e396e512537",
+    "author": "DMeta",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "All time classic game that was revolutionary in many ways. Love the music and story.",
+    "platform": "Nintendo 64",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time",
+    "game_title": "The Legend of Zelda: Ocarina of Time (1998)"
+  },
+  {
+    "id": "c0379d8b-66e5-4590-ad65-755939afb561",
+    "author": "DMeta",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Great remake of a classic Nintendo 64 game. I hope they remake Majora's Mask next.",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "b2a5097c-3aa0-4603-8e89-1e60be36a6cd",
+    "author": "DMeta",
+    "score": 0,
+    "date": "2026-11-21",
+    "quote": "Too many bugs, low frame rates and Rockstar doesn't seem to care. Game is overrated.",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1b33e573-e49b-4e64-bba6-f5032a60d46b",
+    "author": "elfui21",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Se lucieron con este juego siendo algo tan magnífico y algo tan liviano y las historias ni hablar 10/10",
+    "platform": "Xbox 360",
+    "game_slug": "red-dead-redemption",
+    "game_title": "Red Dead Redemption"
+  },
+  {
+    "id": "c3efaf00-4741-4867-a314-65b4c0542d4a",
+    "author": "elfui21",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "Juego magnífico su fauna y todo lo que son gráficos y los fps todo bien trabajado y de su historia y actividad secundarias ni hablar porque son algo increíbles ",
+    "platform": "PlayStation 4",
+    "game_slug": "red-dead-redemption-2",
+    "game_title": "Red Dead Redemption 2"
+  },
+  {
+    "id": "12fed594-28f8-4878-bde3-a2decc3bd749",
+    "author": "elfui21",
+    "score": 1,
+    "date": "2026-11-21",
+    "quote": "Este juego no es nada innovador solamente un corta y pega con gráficos \"mejores\" llamándolo remake cuando es casi lo mismo que un remaster en absoluto lo recomiendo es aburridisimo",
+    "platform": "Nintendo Switch 2",
+    "game_slug": "the-legend-of-zelda-ocarina-of-time-2026",
+    "game_title": "The Legend of Zelda: Ocarina of Time"
+  },
+  {
+    "id": "d23e38a6-206d-4c3c-bb85-9cdb4b032f6e",
+    "author": "elfui21",
+    "score": 10,
+    "date": "2026-11-21",
+    "quote": "El juego es genial con mucha historia y muchas actividades secundarias y para conseguir el platino también tiene lo suyo aquellos que califican con 3 nisiquiera lo probaron 1 hora",
+    "platform": "PlayStation 5",
+    "game_slug": "grand-theft-auto-vi",
+    "game_title": "Grand Theft Auto VI"
+  }
+]
