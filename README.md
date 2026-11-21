@@ -7,6 +7,18 @@ Cruza user reviews do **GTA VI** com o remake de **The Legend of Zelda: Ocarina 
 
 Artigo com os resultados: [Guerra de notas no Metacritic (aisland.com.br)](https://aisland.com.br/2026/11/21/guerra-de-notas-no-metacritic-cruzamento-de-dados-expoe-fogo-cruzado-entre-fas-de-gta-vi-e-zelda/)
 
+## Dataset (snapshot 21/11/2026)
+
+Dois scrapes paralelos de reviews **com texto** (a API não lista notas sem comentário):
+
+| Fonte | Arquivo | Qtd |
+| --- | --- | ---: |
+| GTA VI | `data/gta_vi_reviews.json` | **21.851** |
+| OoT remake 2026 | `data/zelda_oot_2026_reviews.json` | **10.982** |
+| **Total reviews com texto** | | **~32.8k** |
+| Perfis de usuário | `data/user_profiles/` | **7.981** |
+
+O GTA passa de ~10k porque o scraper faz merge de `positive` + `neutral` + `negative` (+ `all`), cada um com teto próprio na API. No site, o GTA tem ~60k notas no total — a maioria sem texto.
 
 ## Setup
 
